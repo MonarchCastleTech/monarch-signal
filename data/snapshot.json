@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T19:39:41+00:00",
+  "generatedAt": "2026-11-05T19:45:44+00:00",
   "windowHours": 72,
   "articles": [
     {
@@ -2263,14 +2263,125 @@
     }
   ],
   "analysis": {
-    "status": "unavailable",
-    "provider": null,
-    "model": null,
-    "summary": "",
-    "notes": [],
-    "generatedAt": "2026-11-05T19:39:41+00:00",
+    "summary": "Hormuz deniz geçişinde arz kesintisi yaşanırsa enerji fiyatları ve taşımacılık maliyetleri artabilir. Bu durum cari açık ve enflasyon baskısını yükseltebilir.",
+    "notes": [
+      {
+        "topic": "energy",
+        "text": "Hormuz deniz geçişinde arz kesintisi yaşanırsa enerji fiyatları ve taşımacılık maliyetleri artabilir. Bu durum cari açık ve enflasyon baskısını yükseltebilir.",
+        "evidenceIds": [
+          "b32a1b5b0f8e",
+          "f14e22022dc8",
+          "d63c306cd3da",
+          "16a411279563"
+        ]
+      },
+      {
+        "topic": "rates",
+        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+        "evidenceIds": [
+          "97a364511298",
+          "b35bb5aa079a",
+          "360364430d8e",
+          "995a2369a7ff"
+        ]
+      },
+      {
+        "topic": "trade",
+        "text": "Arktik deniz rotalarının kullanımı artarsa tedarik zincirleri ve lojistik maliyetleri etkilenebilir. Bu durum ithalat ve ihracat maliyetlerinde değişikliklere yol açabilir.",
+        "evidenceIds": [
+          "d831b46c670a",
+          "a33472b9e48a"
+        ]
+      },
+      {
+        "topic": "security",
+        "text": "Çatışma ve güvenlik gerilimi artarsa enerji arzında kesinti riski oluşabilir. Bu durum enerji fiyatları üzerinden genel fiyat seviyesini etkileyebilir.",
+        "evidenceIds": [
+          "16a411279563"
+        ]
+      }
+    ],
+    "editorial": {
+      "leadTopic": "energy",
+      "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
+      "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
+      "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
+      "timeline": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "İlk baskı enerji ve taşımacılıkta",
+          "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Maliyetler enflasyona yayılabilir",
+          "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Tedarik güvenliği öne çıkacak",
+          "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "watch": [
+        "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
+        "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
+        "Diplomatik gerilimi azaltan veya artıran somut adımlar."
+      ],
+      "evidenceIds": [
+        "b32a1b5b0f8e",
+        "f14e22022dc8",
+        "d63c306cd3da",
+        "16a411279563"
+      ],
+      "events": [
+        {
+          "evidenceId": "b32a1b5b0f8e",
+          "headline": "İran, Hormuz deniz geçişinde tankerlere saldırıya karşı yeni bir ABD saldırısı korkusunu dile getirdi."
+        },
+        {
+          "evidenceId": "f14e22022dc8",
+          "headline": "İran, ABD orta dönem seçimleri sonrası memnuniyet ve şüphe işareti verdi."
+        },
+        {
+          "evidenceId": "d63c306cd3da",
+          "headline": "İran'ın yeni最高 lideri, arka plandan barış sağlayabilir mi?"
+        },
+        {
+          "evidenceId": "16a411279563",
+          "headline": "Vance, İran savaşı nedeniyle seçim eleştirisiyle Trump'a bağlı kalmaya çalışıyor."
+        }
+      ],
+      "origin": "free-ai"
+    },
+    "status": "ok",
+    "provider": "OpenRouter Free",
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "generatedAt": "2026-11-05T19:45:44+00:00",
     "fingerprint": "dfd9ef80c026b2e61f4c0f90be4fe22b3587bbc415744177b3a234b4d6ab9f8c",
-    "reason": "AI yanıtı alınamadı veya kaynak doğrulamasını geçemedi; kural modeli kullanılıyor."
+    "requestedModel": "nvidia/nemotron-3.5-lightning:free",
+    "usage": {
+      "totalTokens": 3386,
+      "cost": 0
+    }
   },
   "history": [
     {
@@ -2339,7 +2450,24 @@
       "d63c306cd3da",
       "16a411279563"
     ],
-    "events": [],
-    "origin": "rules"
+    "events": [
+      {
+        "evidenceId": "b32a1b5b0f8e",
+        "headline": "İran, Hormuz deniz geçişinde tankerlere saldırıya karşı yeni bir ABD saldırısı korkusunu dile getirdi."
+      },
+      {
+        "evidenceId": "f14e22022dc8",
+        "headline": "İran, ABD orta dönem seçimleri sonrası memnuniyet ve şüphe işareti verdi."
+      },
+      {
+        "evidenceId": "d63c306cd3da",
+        "headline": "İran'ın yeni最高 lideri, arka plandan barış sağlayabilir mi?"
+      },
+      {
+        "evidenceId": "16a411279563",
+        "headline": "Vance, İran savaşı nedeniyle seçim eleştirisiyle Trump'a bağlı kalmaya çalışıyor."
+      }
+    ],
+    "origin": "free-ai"
   }
 }

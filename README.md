@@ -22,7 +22,7 @@ Open http://localhost:4178. Set `OPENROUTER_API_KEY` in the process environment 
 
 ## Free AI and secrets
 
-Exactly `openrouter/free` is requested, without a paid fallback, search plugin or paid endpoint. Free-model availability and quotas apply. Identical evidence bundles reuse the validated analysis. A provider error or invalid response falls back to a source-linked editorial baseline. The actual model, generation time, cost field and origin are preserved in the downloadable snapshot.
+Only `:free` models and the `openrouter/free` fallback router are requested. There is no paid fallback, search plugin or paid endpoint. Free-model availability and quotas apply. Identical evidence bundles reuse the validated analysis. A provider error or invalid response falls back to a source-linked editorial baseline. The actual model, generation time, cost field and origin are preserved in the downloadable snapshot.
 
 Set the repository Actions secret `OPENROUTER_API_KEY` for automation. The key is used only by the runner; it is never embedded in frontend code or deployed data. Public headlines are sent to the selected OpenRouter provider. There is no visitor submission endpoint. Provider retention terms apply.
 

@@ -52,13 +52,28 @@ class AITests(unittest.TestCase):
     def test_cross_topic_citation_rejected(self):
         with self.assertRaises(ValueError):
             m.validate_ai({'summary':'x','notes':[{'topic':'climate','text':'x','evidenceIds':['a']}]},self.articles,self.topics)
+    def test_editorial_requires_all_three_horizons(self):
+        obj={'summary':'Koşullu görünüm.','notes':[{'topic':'energy','text':'Arz etkilenebilir.','evidenceIds':['a']}],
+             'editorial':{'leadTopic':'energy','headline':'Enerji gündemi','summary':'Arz kesilirse maliyet artabilir.',
+                          'evidenceIds':['a'],'timeline':[{'id':'near','title':'Enerji','text':'Maliyet artabilir.'}]}}
+        result=m.validate_ai(obj,self.articles,self.topics)
+        self.assertNotIn('editorial',result)
+        obj['editorial']['timeline']=[{'id':i,'title':'Enerji gündemi','text':'Maliyet artabilir.'} for i in ['long','near','medium']]
+        result=m.validate_ai(obj,self.articles,self.topics)
+        self.assertEqual([f['id'] for f in result['editorial']['timeline']],['near','medium','long'])
+        self.assertEqual(result['editorial']['timeline'][0]['range'],'İlk 2 hafta')
+    def test_no_current_evidence_produces_no_forecasts(self):
+        result=m.rules_editorial(m.classify([],NOW))
+        self.assertEqual(result['timeline'],[])
+        self.assertIsNone(result['leadTopic'])
     @patch.dict('os.environ',{'OPENROUTER_API_KEY':'test-never-real'})
     def test_only_free_router_requested(self):
         response = {'choices':[{'message':{'content':json.dumps({'summary':'Koşullu analiz.','notes':[{'topic':'energy','text':'Arz etkilenebilir.','evidenceIds':['a']}]})}}], 'model':'test/free', 'usage':{'cost':0}}
         with patch.object(m,'request',return_value=json.dumps(response).encode()) as req:
             out = m.ai_analysis(self.articles,self.topics,NOW)
             sent = json.loads(req.call_args.args[1])
-        self.assertEqual(sent['model'],'openrouter/free'); self.assertNotIn('models',sent)
+        self.assertTrue(sent['model'].endswith(':free'))
+        self.assertTrue(all(x.endswith(':free') or x == 'openrouter/free' for x in sent['models']))
         self.assertEqual(out['status'],'ok')
     @patch.dict('os.environ',{'OPENROUTER_API_KEY':'test-never-real'})
     def test_rate_limit_returns_visible_fallback(self):

@@ -18,6 +18,7 @@ FEEDS = [
 FRED = [('brent', 'Brent petrol', 'DCOILBRENTEU', 'USD / varil'),
         ('us10y', 'ABD 10 yıllık', 'DGS10', '%')]
 UTC = timezone.utc
+FREE_MODEL = 'nvidia/nemotron-3.5-lightning:free'
 def stamp(dt=None): return (dt or datetime.now(UTC)).isoformat(timespec='seconds')
 def parse_date(s):
     try: d = parsedate_to_datetime(s)
@@ -107,7 +108,6 @@ def validate_ai(obj, articles, topics):
         allowed = set(next(t['evidenceIds'] for t in topics if t['id'] == n['topic']))
         if not set(ev).issubset(allowed): continue
         notes.append({'topic': n['topic'], 'text': n['text'][:1200], 'evidenceIds': ev[:6]})
-    if not notes: raise ValueError('no_grounded_ai_notes')
     result = {'summary': obj['summary'][:1800], 'notes': notes}
     ed = obj.get('editorial')
     if isinstance(ed, dict):
@@ -128,6 +128,7 @@ def validate_ai(obj, articles, topics):
                 'events': [{'evidenceId': e['evidenceId'], 'headline': e['headline'][:180]} for e in ed.get('events', [])
                            if isinstance(e, dict) and e.get('evidenceId') in ids and isinstance(e.get('headline'), str) and turkish(e['headline'])],
                 'origin': 'free-ai'}
+    if not notes and not result.get('editorial'): raise ValueError('no_grounded_ai_notes')
     return result
 def rules_editorial(topics):
     active = [t for t in topics if t['articleCount']]
@@ -177,8 +178,8 @@ def ai_analysis(articles, topics, now, previous=None):
               '"evidenceIds":["leadTopic ile eşleşen haber kimliği"],'
               '"events":[{"evidenceId":"verilen haber kimliği","headline":"Orijinal başlığın kısa Türkçe karşılığı; iddia olduğunu koru"}]}. '
               'Şartlar değişirse beklenti de değişebilir; kesinlik veya uydurma sayısal hedef üretme.')
-    # Lock the free router. There is no paid model fallback and no web-search plugin.
-    body = json.dumps({'model': 'openrouter/free', 'messages': [{'role': 'system', 'content': system},
+    # Every route is explicitly free; no paid model or web-search fallback.
+    body = json.dumps({'model': FREE_MODEL, 'models': [FREE_MODEL, 'openrouter/free'], 'messages': [{'role': 'system', 'content': system},
                       {'role': 'user', 'content': json.dumps(payload, ensure_ascii=False)}],
                       'temperature': 0.2, 'max_tokens': 3800,
                       'response_format': {'type': 'json_object'},
@@ -187,11 +188,14 @@ def ai_analysis(articles, topics, now, previous=None):
         raw = json.loads(request('https://openrouter.ai/api/v1/chat/completions', body,
                          {'Authorization': 'Bearer ' + key, 'Content-Type': 'application/json',
                           'HTTP-Referer': 'https://monarchcastle.com', 'X-Title': 'Monarch Signal'}, timeout=90))
+        if os.environ.get('MONARCH_DEBUG_AI') == '1':
+            (ROOT / '.local').mkdir(exist_ok=True)
+            (ROOT / '.local/last-ai-response.json').write_text(json.dumps(raw, ensure_ascii=False), encoding='utf-8')
         text = raw['choices'][0]['message']['content']
         obj = json.loads(text[text.index('{'):text.rindex('}') + 1])
         result = validate_ai(obj, articles, topics)
         return {**result, 'status': 'ok', 'provider': 'OpenRouter Free', 'model': raw.get('model', 'openrouter/free'),
-                'generatedAt': stamp(now), 'fingerprint': fingerprint, 'requestedModel': 'openrouter/free',
+                'generatedAt': stamp(now), 'fingerprint': fingerprint, 'requestedModel': FREE_MODEL,
                 'usage': {'totalTokens': raw.get('usage', {}).get('total_tokens'), 'cost': raw.get('usage', {}).get('cost')}}
     except urllib.error.HTTPError as e:
         # Never log authorization headers or raw provider responses.
