@@ -68,6 +68,7 @@ def classify(articles, now):
         matched, weighted, stress_count = [], 0.0, 0
         for a in articles:
             text = a['title'].casefold()
+            if cfg['id'] == 'trade' and re.search(r'\b(drug|slave|illegal) trade\b', text): continue
             if not any(term_match(text, k) for k in cfg['terms']): continue
             age = max(0, (now - parse_date(a['publishedAt'])).total_seconds() / 3600)
             stressful = any(term_match(text, k) for k in cfg['stress'])
@@ -98,7 +99,8 @@ def parse_fx(raw, today):
     return sorted(out, key=lambda x: x['date'])[-90:]
 def validate_ai(obj, articles, topics):
     if not isinstance(obj, dict) or not isinstance(obj.get('summary'), str): raise ValueError('invalid_ai_schema')
-    def turkish(s): return bool(re.search(r'[çğıöşüÇĞİÖŞÜ]|\b(ve|ile|ancak|olabilir|artabilir|etkilenebilir)\b', s))
+    def turkish(s):
+        return not re.search(r'[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]', s) and bool(re.search(r'[çğıöşüÇĞİÖŞÜ]|\b(ve|ile|ancak|olabilir|artabilir|etkilenebilir)\b', s))
     if not turkish(obj['summary']): raise ValueError('ai_language_mismatch')
     ids = {a['id'] for a in articles}; tids = {t['id'] for t in topics}; notes = []
     for n in obj.get('notes', []):

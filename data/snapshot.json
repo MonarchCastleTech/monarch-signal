@@ -1053,12 +1053,11 @@
           ]
         }
       ],
-      "score": 10,
+      "score": 6,
       "evidenceIds": [
-        "d831b46c670a",
-        "a33472b9e48a"
+        "d831b46c670a"
       ],
-      "articleCount": 2,
+      "articleCount": 1,
       "sourceCount": 1,
       "stressHeadlines": 0,
       "coverage": "sınırlı"
@@ -2352,24 +2351,7 @@
         "d63c306cd3da",
         "16a411279563"
       ],
-      "events": [
-        {
-          "evidenceId": "b32a1b5b0f8e",
-          "headline": "İran, Hormuz deniz geçişinde tankerlere saldırıya karşı yeni bir ABD saldırısı korkusunu dile getirdi."
-        },
-        {
-          "evidenceId": "f14e22022dc8",
-          "headline": "İran, ABD orta dönem seçimleri sonrası memnuniyet ve şüphe işareti verdi."
-        },
-        {
-          "evidenceId": "d63c306cd3da",
-          "headline": "İran'ın yeni最高 lideri, arka plandan barış sağlayabilir mi?"
-        },
-        {
-          "evidenceId": "16a411279563",
-          "headline": "Vance, İran savaşı nedeniyle seçim eleştirisiyle Trump'a bağlı kalmaya çalışıyor."
-        }
-      ],
+      "events": [],
       "origin": "free-ai"
     },
     "status": "ok",
@@ -2389,7 +2371,7 @@
       "scores": {
         "energy": 35,
         "rates": 20,
-        "trade": 10,
+        "trade": 6,
         "security": 5,
         "climate": 0
       },
@@ -2450,24 +2432,7 @@
       "d63c306cd3da",
       "16a411279563"
     ],
-    "events": [
-      {
-        "evidenceId": "b32a1b5b0f8e",
-        "headline": "İran, Hormuz deniz geçişinde tankerlere saldırıya karşı yeni bir ABD saldırısı korkusunu dile getirdi."
-      },
-      {
-        "evidenceId": "f14e22022dc8",
-        "headline": "İran, ABD orta dönem seçimleri sonrası memnuniyet ve şüphe işareti verdi."
-      },
-      {
-        "evidenceId": "d63c306cd3da",
-        "headline": "İran'ın yeni最高 lideri, arka plandan barış sağlayabilir mi?"
-      },
-      {
-        "evidenceId": "16a411279563",
-        "headline": "Vance, İran savaşı nedeniyle seçim eleştirisiyle Trump'a bağlı kalmaya çalışıyor."
-      }
-    ],
+    "events": [],
     "origin": "free-ai"
   }
 }

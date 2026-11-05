@@ -40,6 +40,8 @@ class FeedTests(unittest.TestCase):
         self.assertEqual(next(t for t in out if t['id']=='climate')['articleCount'],0)
         self.assertEqual(next(t for t in out if t['id']=='energy')['articleCount'],0)
         self.assertEqual(next(t for t in out if t['id']=='security')['articleCount'],0)
+        out=m.classify([article(title='The global drug trade')],NOW)
+        self.assertEqual(next(t for t in out if t['id']=='trade')['articleCount'],0)
 class AITests(unittest.TestCase):
     def setUp(self):
         self.articles = [article()]; self.topics = m.classify(self.articles,NOW)
@@ -49,6 +51,8 @@ class AITests(unittest.TestCase):
     def test_english_response_rejected(self):
         with self.assertRaises(ValueError):
             m.validate_ai({'summary':'Oil may affect import costs.','notes':[{'topic':'energy','text':'Prices may rise.','evidenceIds':['a']}]},self.articles,self.topics)
+        with self.assertRaises(ValueError):
+            m.validate_ai({'summary':'Enerji ve 最高 fiyatları.','notes':[]},self.articles,self.topics)
     def test_cross_topic_citation_rejected(self):
         with self.assertRaises(ValueError):
             m.validate_ai({'summary':'x','notes':[{'topic':'climate','text':'x','evidenceIds':['a']}]},self.articles,self.topics)
