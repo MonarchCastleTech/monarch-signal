@@ -1,0 +1,2345 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-05T19:39:41+00:00",
+  "windowHours": 72,
+  "articles": [
+    {
+      "id": "61cced952032",
+      "title": "Division among US Democrats over Schumer’s leadership role",
+      "url": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T18:53:04+00:00"
+    },
+    {
+      "id": "9c3874388999",
+      "title": "Manhunt in western Turkey after eight killed in series of shootings",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T18:48:53+00:00"
+    },
+    {
+      "id": "b32a1b5b0f8e",
+      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+      "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T18:47:10+00:00"
+    },
+    {
+      "id": "fc14dc0b3def",
+      "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T18:30:09+00:00"
+    },
+    {
+      "id": "bcd501f5ef91",
+      "title": "Could Football Change After Jesus de Miguel’s Death?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/could-football-change-after-jesus-de-miguels-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T18:22:16+00:00"
+    },
+    {
+      "id": "7a233fca9b7c",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T17:59:53+00:00"
+    },
+    {
+      "id": "adb3875b04d4",
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T17:57:57+00:00"
+    },
+    {
+      "id": "1319dec31be8",
+      "title": "AI stocks plunge after US election, driving down markets",
+      "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T17:56:17+00:00"
+    },
+    {
+      "id": "92bc1f725e22",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T17:40:40+00:00"
+    },
+    {
+      "id": "28665a3ef6a0",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T17:39:48+00:00"
+    },
+    {
+      "id": "ed6dd3fd9548",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T17:09:55+00:00"
+    },
+    {
+      "id": "b3fa2a3370c8",
+      "title": "Jordanian officer killed in stabbing attack in Amman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T17:08:45+00:00"
+    },
+    {
+      "id": "42092a708b01",
+      "title": "Paraguay President Pena resigns in wake of bank collapse",
+      "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T17:08:19+00:00"
+    },
+    {
+      "id": "133f253d322e",
+      "title": "Arrests and investigations as Serbia begins post-election clean-up",
+      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "id": "ddd473667821",
+      "title": "Bishara: US election deals a blow to warmongers",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_us-election-deals-a-blow-to-warmongers-051126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T16:48:53+00:00"
+    },
+    {
+      "id": "55ec68babed9",
+      "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T16:46:34+00:00"
+    },
+    {
+      "id": "5fcae6e238f3",
+      "title": "Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision",
+      "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T16:12:37+00:00"
+    },
+    {
+      "id": "c0d3f4d01be0",
+      "title": "Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing",
+      "url": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T16:12:35+00:00"
+    },
+    {
+      "id": "fa0918fab80c",
+      "title": "Photos: Thousands rally in France over rising costs and economic struggles",
+      "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T16:07:56+00:00"
+    },
+    {
+      "id": "83ffa4147741",
+      "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T15:52:15+00:00"
+    },
+    {
+      "id": "114e7484211d",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T15:44:49+00:00"
+    },
+    {
+      "id": "45b493d0b9ca",
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T15:27:09+00:00"
+    },
+    {
+      "id": "41ae4afb61ff",
+      "title": "Why do veterinary fees and sausage rolls vary in price across London?",
+      "url": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T15:19:36+00:00"
+    },
+    {
+      "id": "fbb9e5e2f128",
+      "title": "Why has Cristiano Ronaldo retired from international football?",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T15:14:05+00:00"
+    },
+    {
+      "id": "df11c445d1b8",
+      "title": "Jerusalem Daily: Settler pogroms in Hebron",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T15:10:42+00:00"
+    },
+    {
+      "id": "dc18a95deee2",
+      "title": "Ronaldo in records: International milestones from the football icon",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T15:09:31+00:00"
+    },
+    {
+      "id": "f14e22022dc8",
+      "title": "Iran signals satisfaction, skepticism after US midterm vote",
+      "url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-05T15:04:00+00:00"
+    },
+    {
+      "id": "f8752463ae0d",
+      "title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
+      "url": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T15:01:35+00:00"
+    },
+    {
+      "id": "d63c306cd3da",
+      "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+      "url": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T14:45:46+00:00"
+    },
+    {
+      "id": "914e24a4757a",
+      "title": "Russell Brand found guilty of rape and sexual assault by UK court",
+      "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T14:43:09+00:00"
+    },
+    {
+      "id": "52ea92fe16fd",
+      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+      "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T14:30:37+00:00"
+    },
+    {
+      "id": "619f9174845d",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T14:29:40+00:00"
+    },
+    {
+      "id": "26601c8523d4",
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T14:28:21+00:00"
+    },
+    {
+      "id": "33c9a97531e5",
+      "title": "Could the US midterms further isolate Israel in Washington?",
+      "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T14:19:25+00:00"
+    },
+    {
+      "id": "97f5e7055ba5",
+      "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
+      "url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T14:17:34+00:00"
+    },
+    {
+      "id": "1911cd5903ff",
+      "title": "Joint List says it will back Eisenkot to form Israel’s next government",
+      "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T14:15:52+00:00"
+    },
+    {
+      "id": "a6504e059dca",
+      "title": "What does the raise in interest rates mean?",
+      "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T14:02:24+00:00"
+    },
+    {
+      "id": "c39675d16607",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T13:51:03+00:00"
+    },
+    {
+      "id": "63591cdaa443",
+      "title": "What can Democrats do in Congress under President Trump?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T13:43:56+00:00"
+    },
+    {
+      "id": "478ac51007f1",
+      "title": "Indonesia rushes thousands of troops to Jakarta amid wiretap scandal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-05T13:41:24+00:00"
+    },
+    {
+      "id": "7836c1679b1c",
+      "title": "What does Trump's midterm elections loss mean for strained US-India ties?",
+      "url": "https://www.dw.com/en/what-does-trump-s-midterm-elections-loss-mean-for-strained-us-india-ties/a-79865777?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-05T13:34:00+00:00"
+    },
+    {
+      "id": "f243324fd317",
+      "title": "Faisal Islam: How high will interest rates go?",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T13:17:10+00:00"
+    },
+    {
+      "id": "97a364511298",
+      "title": "Three ways the interest rate rise could affect you",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T13:08:30+00:00"
+    },
+    {
+      "id": "a00dc5c854ec",
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T11:21:35+00:00"
+    },
+    {
+      "id": "b096a2c3122f",
+      "title": "North Korea tells EU to 'mind its own business' on human rights",
+      "url": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-05T11:14:00+00:00"
+    },
+    {
+      "id": "0576efc391a5",
+      "title": "Welsh aviation firm AerFin bought in £475m deal",
+      "url": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T11:01:06+00:00"
+    },
+    {
+      "id": "dae94cf4a476",
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T10:33:21+00:00"
+    },
+    {
+      "id": "3a3ce6d11c4b",
+      "title": "Bomb threats disrupt several flights across Europe",
+      "url": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-05T10:10:00+00:00"
+    },
+    {
+      "id": "c7e9e22e613e",
+      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T09:46:32+00:00"
+    },
+    {
+      "id": "d831b46c670a",
+      "title": "South Korea tests Arctic shipping route amid Russia-West row",
+      "url": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-05T09:45:00+00:00"
+    },
+    {
+      "id": "356be008691c",
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T09:04:42+00:00"
+    },
+    {
+      "id": "b35bb5aa079a",
+      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+      "source": "ECB",
+      "sourceId": "ecb",
+      "domain": "ecb.europa.eu",
+      "publishedAt": "2026-11-05T08:00:00+00:00"
+    },
+    {
+      "id": "d6f8534e0e4e",
+      "title": "Piero Cipollone: Shaping the future of money",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+      "source": "ECB",
+      "sourceId": "ecb",
+      "domain": "ecb.europa.eu",
+      "publishedAt": "2026-11-05T07:30:00+00:00"
+    },
+    {
+      "id": "124f824b0e07",
+      "title": "What the Democrats' midterms win means for the US economy and Trump",
+      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-05T07:03:00+00:00"
+    },
+    {
+      "id": "99ce4cf8c5d2",
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T06:58:03+00:00"
+    },
+    {
+      "id": "73e4e248ed92",
+      "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
+      "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T06:01:05+00:00"
+    },
+    {
+      "id": "fcee2a9e058a",
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T04:21:35+00:00"
+    },
+    {
+      "id": "16a411279563",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T03:47:56+00:00"
+    },
+    {
+      "id": "75338b81e578",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T02:09:23+00:00"
+    },
+    {
+      "id": "4a1e62086151",
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T00:59:22+00:00"
+    },
+    {
+      "id": "58b92c0b8f6a",
+      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T00:32:09+00:00"
+    },
+    {
+      "id": "a74355112a92",
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-05T00:30:37+00:00"
+    },
+    {
+      "id": "50a3a5fe175e",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T23:12:47+00:00"
+    },
+    {
+      "id": "ba0ab1521258",
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T21:41:15+00:00"
+    },
+    {
+      "id": "d5d91689d3d2",
+      "title": "Winners, losers, the EU: Five takeaways from the US midterms",
+      "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-04T20:27:00+00:00"
+    },
+    {
+      "id": "41816c05805f",
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T19:38:53+00:00"
+    },
+    {
+      "id": "dc09772faa12",
+      "title": "36 years later: Hungary opens Communist-era secret service files",
+      "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-04T19:30:00+00:00"
+    },
+    {
+      "id": "dd4127a56a94",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T18:01:27+00:00"
+    },
+    {
+      "id": "34859fc77a44",
+      "title": "Kosovo: Outrage as authorities accused of not helping femicide victim",
+      "url": "https://www.dw.com/en/kosovo-outrage-as-authorities-accused-of-not-helping-femicide-victim/a-79856726?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-04T16:17:00+00:00"
+    },
+    {
+      "id": "a33472b9e48a",
+      "title": "Africa's shifting role in the global drug trade",
+      "url": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-04T15:18:00+00:00"
+    },
+    {
+      "id": "3ec7659fde9a",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T11:47:44+00:00"
+    },
+    {
+      "id": "f69d84fdce0a",
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T10:47:31+00:00"
+    },
+    {
+      "id": "360364430d8e",
+      "title": "Swim and gym prices set to rise above inflation",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T06:13:19+00:00"
+    },
+    {
+      "id": "674036464ba4",
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T00:09:35+00:00"
+    },
+    {
+      "id": "da121aad8145",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-04T00:04:35+00:00"
+    },
+    {
+      "id": "995a2369a7ff",
+      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "source": "ECB",
+      "sourceId": "ecb",
+      "domain": "ecb.europa.eu",
+      "publishedAt": "2026-11-04T00:00:00+00:00"
+    },
+    {
+      "id": "3b6ab8d64292",
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T23:58:36+00:00"
+    },
+    {
+      "id": "5bb6ba782f19",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T20:53:03+00:00"
+    },
+    {
+      "id": "28125238fb27",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T16:19:29+00:00"
+    },
+    {
+      "id": "88fa85d3743a",
+      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T15:12:35+00:00"
+    },
+    {
+      "id": "632ff7df63b1",
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T15:05:01+00:00"
+    },
+    {
+      "id": "83ba23720168",
+      "title": "What in the World",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T14:30:00+00:00"
+    },
+    {
+      "id": "df0a549dcdc3",
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T11:56:31+00:00"
+    },
+    {
+      "id": "b4d7afbd4525",
+      "title": "'Quiet quitting' could be hitting the economy - here's why",
+      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T11:15:51+00:00"
+    },
+    {
+      "id": "539efef896c1",
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T07:50:14+00:00"
+    },
+    {
+      "id": "9e398fbdacb4",
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-03T00:09:13+00:00"
+    },
+    {
+      "id": "13f720a6c23e",
+      "title": "Business Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-02T21:30:00+00:00"
+    }
+  ],
+  "topics": [
+    {
+      "id": "energy",
+      "name": "Enerji & jeopolitik",
+      "short": "Enerji",
+      "icon": "01",
+      "color": "#b45b37",
+      "terms": [
+        "iran",
+        "hormuz",
+        "oil",
+        "crude",
+        "opec",
+        "tanker",
+        "refinery",
+        "gulf",
+        "petrol",
+        "doğalgaz",
+        "natural gas"
+      ],
+      "stress": [
+        "war",
+        "strike",
+        "attack",
+        "military",
+        "blockade",
+        "sanction",
+        "disruption",
+        "threat",
+        "savaş",
+        "saldırı"
+      ],
+      "chain": [
+        "Arz / geçiş riski",
+        "Enerji maliyetleri",
+        "Enflasyon & cari denge"
+      ],
+      "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir.",
+      "turkey": "Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
+      "global": "Enerji ithalatçıları maliyet baskısı yaşarken ihracatçılar farklı etkilenebilir. Etkinin büyüklüğü kesintinin süresine bağlıdır.",
+      "invalidator": "Teyit edilmiş gerilimi azaltma adımları, kesintisiz enerji akışı ve kalıcı arz telafisi bu yolu zayıflatır.",
+      "channels": {
+        "Enerji maliyeti": 0.95,
+        "Enflasyon baskısı": 0.65,
+        "Tedarik baskısı": 0.55,
+        "Finansman baskısı": 0.3,
+        "Büyüme baskısı": 0.45
+      },
+      "forecasts": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "İlk baskı enerji ve taşımacılıkta",
+          "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Maliyetler enflasyona yayılabilir",
+          "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Tedarik güvenliği öne çıkacak",
+          "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "score": 35,
+      "evidenceIds": [
+        "b32a1b5b0f8e",
+        "f14e22022dc8",
+        "d63c306cd3da",
+        "16a411279563"
+      ],
+      "articleCount": 4,
+      "sourceCount": 3,
+      "stressHeadlines": 2,
+      "coverage": "çok kaynaklı"
+    },
+    {
+      "id": "rates",
+      "name": "Faiz & enflasyon",
+      "short": "Faiz",
+      "icon": "02",
+      "color": "#697b64",
+      "terms": [
+        "inflation",
+        "interest rate",
+        "central bank",
+        "federal reserve",
+        "ecb",
+        "fed ",
+        "monetary",
+        "enflasyon",
+        "faiz"
+      ],
+      "stress": [
+        "hike",
+        "surge",
+        "sticky",
+        "tighten",
+        "higher",
+        "raise",
+        "pressure",
+        "artış"
+      ],
+      "chain": [
+        "Fiyat / politika sinyali",
+        "Faiz beklentileri",
+        "Finansman & talep"
+      ],
+      "summary": "Enflasyon ve para politikası haberleri, faiz beklentileri üzerinden finansman koşullarını değiştirebilir.",
+      "turkey": "Küresel faizler dış finansman maliyetini etkileyebilir. Yerel yansıma TCMB politikası ve kur gelişmelerine bağlıdır.",
+      "global": "Sıkı finansman koşulları kredi talebini ve yatırımı yavaşlatabilir; ülke ve sektör etkileri farklılaşır.",
+      "invalidator": "Kalıcı dezenflasyon ve kaynaklarla doğrulanan gevşeme sinyalleri sıkılaşma senaryosunu zayıflatır.",
+      "channels": {
+        "Enerji maliyeti": 0.1,
+        "Enflasyon baskısı": 0.6,
+        "Tedarik baskısı": 0.1,
+        "Finansman baskısı": 0.95,
+        "Büyüme baskısı": 0.65
+      },
+      "forecasts": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "Piyasalar faiz beklentisini fiyatlıyor",
+          "text": "Sıkılaşma sinyalleri sürerse kredi ve tahvil piyasalarında temkinli fiyatlama bekliyoruz. Dış finansmana bağımlı şirketlerde maliyet baskısı öne çıkabilir.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Kredi talebi ve yatırım yavaşlayabilir",
+          "text": "Yüksek faizler sürerse finansman maliyetlerinin iç talep ve yatırım kararlarına daha belirgin yansımasını bekliyoruz.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Enflasyon yönü belirleyecek",
+          "text": "Fiyat artışları kalıcı biçimde yavaşlarsa finansman koşullarında kademeli rahatlama bekliyoruz. Enerji ve kur baskısı sürerse geçiş uzayabilir.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "score": 20,
+      "evidenceIds": [
+        "97a364511298",
+        "b35bb5aa079a",
+        "360364430d8e",
+        "995a2369a7ff"
+      ],
+      "articleCount": 4,
+      "sourceCount": 2,
+      "stressHeadlines": 1,
+      "coverage": "sınırlı"
+    },
+    {
+      "id": "trade",
+      "name": "Ticaret & tedarik",
+      "short": "Ticaret",
+      "icon": "03",
+      "color": "#6a7190",
+      "terms": [
+        "tariff",
+        "trade",
+        "supply chain",
+        "shipping",
+        "port ",
+        "export",
+        "import",
+        "sanction",
+        "freight",
+        "ticaret",
+        "gümrük"
+      ],
+      "stress": [
+        "ban",
+        "disrupt",
+        "block",
+        "tariff",
+        "sanction",
+        "restrict",
+        "halt",
+        "closure",
+        "kesinti"
+      ],
+      "chain": [
+        "Ticaret engeli",
+        "Teslim süresi & maliyet",
+        "Üretim & dış talep"
+      ],
+      "summary": "Ticaret kısıtları ve lojistik kesintiler teslim sürelerini ve girdi maliyetlerini artırabilir.",
+      "turkey": "İhracat siparişleri, ithal girdiler ve alternatif ticaret koridorları etkilenebilir; net etki sektörlere göre değişir.",
+      "global": "Tedarik rotalarının değişmesi maliyetleri artırabilir. Alternatif kapasitenin bulunması etkinin süresini belirler.",
+      "invalidator": "Gümrük uzlaşması, yeniden açılan hatlar veya doğrulanmış alternatif kapasite baskıyı azaltır.",
+      "channels": {
+        "Enerji maliyeti": 0.2,
+        "Enflasyon baskısı": 0.55,
+        "Tedarik baskısı": 0.95,
+        "Finansman baskısı": 0.2,
+        "Büyüme baskısı": 0.7
+      },
+      "forecasts": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "Teslim süreleri baskı altında",
+          "text": "Ticaret kısıtları ve rota belirsizliği sürerse sevkiyat maliyetlerinde artış ve teslim sürelerinde uzama bekliyoruz.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Üretim ağları yeni rotalar arayacak",
+          "text": "Kalıcı engellerde şirketlerin alternatif tedarikçi ve taşıma rotalarına yönelmesini bekliyoruz. Türkiye için etki, sektöre ve pazara göre değişebilir.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Bölgesel tedarik güçlenebilir",
+          "text": "Uzayan kısıtlamalar üretimin pazarlara yakınlaşmasını hızlandırabilir. Alternatif üretim ve lojistik kapasitesi kurabilen bölgelerin avantaj kazanmasını bekliyoruz.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "score": 10,
+      "evidenceIds": [
+        "d831b46c670a",
+        "a33472b9e48a"
+      ],
+      "articleCount": 2,
+      "sourceCount": 1,
+      "stressHeadlines": 0,
+      "coverage": "sınırlı"
+    },
+    {
+      "id": "security",
+      "name": "Çatışma & güvenlik",
+      "short": "Güvenlik",
+      "icon": "04",
+      "color": "#99724f",
+      "terms": [
+        "war",
+        "military",
+        "missile",
+        "conflict",
+        "airstrike",
+        "invasion",
+        "ceasefire",
+        "nato",
+        "defence",
+        "defense",
+        "savaş",
+        "çatışma"
+      ],
+      "stress": [
+        "escalat",
+        "invasion",
+        "attack",
+        "strike",
+        "mobiliz",
+        "threat",
+        "missile",
+        "saldırı"
+      ],
+      "chain": [
+        "Güvenlik belirsizliği",
+        "Riskten kaçış",
+        "Ticaret & yatırım"
+      ],
+      "summary": "Çatışmanın yayılması risk iştahı, turizm ve ticaret kanallarını etkileyebilir. Bir haber başlığı olayın teyidi sayılmaz.",
+      "turkey": "Bölgesel yakınlık turizm, lojistik, sigorta ve risk primine yansıyabilir; her çatışmanın Türkiye etkisi aynı değildir.",
+      "global": "Riskten kaçış ve lojistik belirsizlik artabilir; etki çatışmanın coğrafi kapsamına bağlıdır.",
+      "invalidator": "Teyit edilmiş ve sürdürülen ateşkes veya diplomatik anlaşma tırmanma senaryosunu zayıflatır.",
+      "channels": {
+        "Enerji maliyeti": 0.55,
+        "Enflasyon baskısı": 0.4,
+        "Tedarik baskısı": 0.7,
+        "Finansman baskısı": 0.6,
+        "Büyüme baskısı": 0.65
+      },
+      "forecasts": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "Risk iştahında temkinli seyir",
+          "text": "Gerilim genişlerse bölgesel varlıklarda temkinli fiyatlama ve sigorta maliyetlerinde baskı bekliyoruz.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Turizm ve ticaret etkilenebilir",
+          "text": "Belirsizlik uzarsa turizm ve bölgesel ticaretin yavaşlamasını bekliyoruz. Türkiye’ye yansıma coğrafi yakınlığa ve lojistik güzergâhlara bağlı kalabilir.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Yatırım kararları değişebilir",
+          "text": "Kalıcı güvenlik riski şirketlerin yatırım ve tedarik planlarını değiştirebilir. Diplomatik normalleşme ertelenen yatırımın geri dönmesini destekleyebilir.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "score": 5,
+      "evidenceIds": [
+        "16a411279563"
+      ],
+      "articleCount": 1,
+      "sourceCount": 1,
+      "stressHeadlines": 0,
+      "coverage": "sınırlı"
+    },
+    {
+      "id": "climate",
+      "name": "İklim & gıda",
+      "short": "İklim",
+      "icon": "05",
+      "color": "#60848b",
+      "terms": [
+        "drought",
+        "flood",
+        "tropical storm",
+        "storm surge",
+        "hurricane",
+        "heatwave",
+        "wheat",
+        "harvest",
+        "food price",
+        "climate",
+        "kuraklık",
+        "sel ",
+        "gıda"
+      ],
+      "stress": [
+        "destroy",
+        "damage",
+        "shortage",
+        "extreme",
+        "record",
+        "fail",
+        "crisis",
+        "kıtlık"
+      ],
+      "chain": [
+        "Fiziksel tehlike",
+        "Üretim & hasat",
+        "Gıda & sigorta maliyeti"
+      ],
+      "summary": "Aşırı hava olayları tarımsal üretim, enerji altyapısı ve lojistik üzerinde baskı oluşturabilir.",
+      "turkey": "Gıda arzı, tarımsal girdi ve sigorta maliyetleri etkilenebilir. Yerel etki için bölgesel veri gerekir.",
+      "global": "Üretici bölgelerdeki kayıplar emtia ve gıda maliyetlerine yansıyabilir; stoklar ve alternatif üretim belirleyicidir.",
+      "invalidator": "Hasat tahminlerinin toparlanması ve fiziksel altyapının korunması bu senaryoyu zayıflatır.",
+      "channels": {
+        "Enerji maliyeti": 0.25,
+        "Enflasyon baskısı": 0.65,
+        "Tedarik baskısı": 0.7,
+        "Finansman baskısı": 0.15,
+        "Büyüme baskısı": 0.5
+      },
+      "forecasts": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "Üretim ve lojistik ilk sırada",
+          "text": "Fiziksel hasar teyit edilirse ilgili bölgelerde üretim ve sevkiyat kesintileri bekliyoruz.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Gıda maliyetleri öne çıkabilir",
+          "text": "Üretim kaybı sürerse gıda fiyatlarında ve sigorta maliyetlerinde baskı bekliyoruz. Hasat ve stok verileri etkinin büyüklüğünü belirleyecek.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Dayanıklılık yatırımları hızlanabilir",
+          "text": "Tekrarlayan iklim şoklarının su, tarım ve altyapı yatırımlarına yönelimi artırmasını bekliyoruz.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "score": 0,
+      "evidenceIds": [],
+      "articleCount": 0,
+      "sourceCount": 0,
+      "stressHeadlines": 0,
+      "coverage": "veri yok"
+    }
+  ],
+  "series": [
+    {
+      "id": "brent",
+      "name": "Brent petrol",
+      "unit": "USD / varil",
+      "source": "FRED · EIA",
+      "sourceUrl": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "points": [
+        {
+          "date": "2026-07-08",
+          "value": 76.5
+        },
+        {
+          "date": "2026-07-09",
+          "value": 74.46
+        },
+        {
+          "date": "2026-07-10",
+          "value": 74.34
+        },
+        {
+          "date": "2026-07-13",
+          "value": 81.62
+        },
+        {
+          "date": "2026-07-14",
+          "value": 83.69
+        },
+        {
+          "date": "2026-07-15",
+          "value": 83.08
+        },
+        {
+          "date": "2026-07-16",
+          "value": 81.23
+        },
+        {
+          "date": "2026-07-17",
+          "value": 85.01
+        },
+        {
+          "date": "2026-07-20",
+          "value": 86.99
+        },
+        {
+          "date": "2026-07-21",
+          "value": 93.85
+        },
+        {
+          "date": "2026-07-22",
+          "value": 94.12
+        },
+        {
+          "date": "2026-07-23",
+          "value": 105.32
+        },
+        {
+          "date": "2026-07-24",
+          "value": 100.31
+        },
+        {
+          "date": "2026-07-27",
+          "value": 91.82
+        },
+        {
+          "date": "2026-07-28",
+          "value": 85.51
+        },
+        {
+          "date": "2026-07-29",
+          "value": 91.95
+        },
+        {
+          "date": "2026-07-30",
+          "value": 91.91
+        },
+        {
+          "date": "2026-07-31",
+          "value": 96.95
+        },
+        {
+          "date": "2026-08-03",
+          "value": 88.9
+        },
+        {
+          "date": "2026-08-04",
+          "value": 86.47
+        },
+        {
+          "date": "2026-08-05",
+          "value": 86.65
+        },
+        {
+          "date": "2026-08-06",
+          "value": 89.65
+        },
+        {
+          "date": "2026-08-07",
+          "value": 87.62
+        },
+        {
+          "date": "2026-08-10",
+          "value": 92.74
+        },
+        {
+          "date": "2026-08-11",
+          "value": 93.26
+        },
+        {
+          "date": "2026-08-12",
+          "value": 92.52
+        },
+        {
+          "date": "2026-08-13",
+          "value": 92.03
+        },
+        {
+          "date": "2026-08-14",
+          "value": 92.02
+        },
+        {
+          "date": "2026-08-17",
+          "value": 92.43
+        },
+        {
+          "date": "2026-08-18",
+          "value": 95.29
+        },
+        {
+          "date": "2026-08-19",
+          "value": 92.37
+        },
+        {
+          "date": "2026-08-20",
+          "value": 94.0
+        },
+        {
+          "date": "2026-08-21",
+          "value": 96.92
+        },
+        {
+          "date": "2026-08-24",
+          "value": 92.71
+        },
+        {
+          "date": "2026-08-25",
+          "value": 88.24
+        },
+        {
+          "date": "2026-08-26",
+          "value": 87.77
+        },
+        {
+          "date": "2026-08-27",
+          "value": 90.18
+        },
+        {
+          "date": "2026-08-28",
+          "value": 89.75
+        },
+        {
+          "date": "2026-09-01",
+          "value": 96.02
+        },
+        {
+          "date": "2026-09-02",
+          "value": 97.59
+        },
+        {
+          "date": "2026-09-03",
+          "value": 100.52
+        },
+        {
+          "date": "2026-09-04",
+          "value": 102.24
+        },
+        {
+          "date": "2026-09-07",
+          "value": 104.47
+        },
+        {
+          "date": "2026-09-08",
+          "value": 106.12
+        },
+        {
+          "date": "2026-09-09",
+          "value": 109.51
+        },
+        {
+          "date": "2026-09-10",
+          "value": 120.98
+        },
+        {
+          "date": "2026-09-11",
+          "value": 118.06
+        },
+        {
+          "date": "2026-09-14",
+          "value": 121.25
+        },
+        {
+          "date": "2026-09-15",
+          "value": 130.8
+        },
+        {
+          "date": "2026-09-16",
+          "value": 127.84
+        },
+        {
+          "date": "2026-09-17",
+          "value": 121.18
+        },
+        {
+          "date": "2026-09-18",
+          "value": 119.66
+        },
+        {
+          "date": "2026-09-21",
+          "value": 116.15
+        },
+        {
+          "date": "2026-09-22",
+          "value": 114.89
+        },
+        {
+          "date": "2026-09-23",
+          "value": 117.45
+        },
+        {
+          "date": "2026-09-24",
+          "value": 120.92
+        },
+        {
+          "date": "2026-09-25",
+          "value": 116.01
+        },
+        {
+          "date": "2026-09-28",
+          "value": 119.97
+        },
+        {
+          "date": "2026-09-29",
+          "value": 113.96
+        },
+        {
+          "date": "2026-09-30",
+          "value": 115.91
+        },
+        {
+          "date": "2026-10-01",
+          "value": 114.82
+        },
+        {
+          "date": "2026-10-02",
+          "value": 135.51
+        },
+        {
+          "date": "2026-10-05",
+          "value": 125.51
+        },
+        {
+          "date": "2026-10-06",
+          "value": 125.44
+        },
+        {
+          "date": "2026-10-07",
+          "value": 126.0
+        },
+        {
+          "date": "2026-10-08",
+          "value": 130.18
+        },
+        {
+          "date": "2026-10-09",
+          "value": 130.03
+        },
+        {
+          "date": "2026-10-12",
+          "value": 129.95
+        },
+        {
+          "date": "2026-10-13",
+          "value": 125.78
+        },
+        {
+          "date": "2026-10-14",
+          "value": 126.55
+        },
+        {
+          "date": "2026-10-15",
+          "value": 126.35
+        },
+        {
+          "date": "2026-10-16",
+          "value": 119.33
+        },
+        {
+          "date": "2026-10-19",
+          "value": 118.82
+        },
+        {
+          "date": "2026-10-20",
+          "value": 115.22
+        },
+        {
+          "date": "2026-10-21",
+          "value": 117.37
+        },
+        {
+          "date": "2026-10-22",
+          "value": 125.39
+        },
+        {
+          "date": "2026-10-23",
+          "value": 128.3
+        },
+        {
+          "date": "2026-10-26",
+          "value": 128.12
+        },
+        {
+          "date": "2026-10-27",
+          "value": 123.1
+        },
+        {
+          "date": "2026-10-28",
+          "value": 119.2
+        },
+        {
+          "date": "2026-10-29",
+          "value": 115.28
+        },
+        {
+          "date": "2026-10-30",
+          "value": 120.15
+        },
+        {
+          "date": "2026-11-02",
+          "value": 107.39
+        },
+        {
+          "date": "2026-11-03",
+          "value": 107.03
+        }
+      ],
+      "status": "ok",
+      "fetchedAt": "2026-11-05T19:08:37+00:00",
+      "latest": {
+        "date": "2026-11-03",
+        "value": 107.03
+      },
+      "stale": false,
+      "change": -0.36
+    },
+    {
+      "id": "us10y",
+      "name": "ABD 10 yıllık",
+      "unit": "%",
+      "source": "FRED · Federal Reserve",
+      "sourceUrl": "https://fred.stlouisfed.org/series/DGS10",
+      "points": [
+        {
+          "date": "2026-07-08",
+          "value": 4.56
+        },
+        {
+          "date": "2026-07-09",
+          "value": 4.54
+        },
+        {
+          "date": "2026-07-10",
+          "value": 4.56
+        },
+        {
+          "date": "2026-07-13",
+          "value": 4.62
+        },
+        {
+          "date": "2026-07-14",
+          "value": 4.58
+        },
+        {
+          "date": "2026-07-15",
+          "value": 4.55
+        },
+        {
+          "date": "2026-07-16",
+          "value": 4.57
+        },
+        {
+          "date": "2026-07-17",
+          "value": 4.55
+        },
+        {
+          "date": "2026-07-20",
+          "value": 4.6
+        },
+        {
+          "date": "2026-07-21",
+          "value": 4.63
+        },
+        {
+          "date": "2026-07-22",
+          "value": 4.67
+        },
+        {
+          "date": "2026-07-23",
+          "value": 4.71
+        },
+        {
+          "date": "2026-07-24",
+          "value": 4.69
+        },
+        {
+          "date": "2026-07-27",
+          "value": 4.65
+        },
+        {
+          "date": "2026-07-28",
+          "value": 4.61
+        },
+        {
+          "date": "2026-07-29",
+          "value": 4.67
+        },
+        {
+          "date": "2026-07-30",
+          "value": 4.68
+        },
+        {
+          "date": "2026-07-31",
+          "value": 4.75
+        },
+        {
+          "date": "2026-08-03",
+          "value": 4.7
+        },
+        {
+          "date": "2026-08-04",
+          "value": 4.63
+        },
+        {
+          "date": "2026-08-05",
+          "value": 4.63
+        },
+        {
+          "date": "2026-08-06",
+          "value": 4.69
+        },
+        {
+          "date": "2026-08-07",
+          "value": 4.65
+        },
+        {
+          "date": "2026-08-10",
+          "value": 4.72
+        },
+        {
+          "date": "2026-08-11",
+          "value": 4.7
+        },
+        {
+          "date": "2026-08-12",
+          "value": 4.68
+        },
+        {
+          "date": "2026-08-13",
+          "value": 4.63
+        },
+        {
+          "date": "2026-08-14",
+          "value": 4.68
+        },
+        {
+          "date": "2026-08-17",
+          "value": 4.72
+        },
+        {
+          "date": "2026-08-18",
+          "value": 4.71
+        },
+        {
+          "date": "2026-08-19",
+          "value": 4.65
+        },
+        {
+          "date": "2026-08-20",
+          "value": 4.69
+        },
+        {
+          "date": "2026-08-21",
+          "value": 4.74
+        },
+        {
+          "date": "2026-08-24",
+          "value": 4.7
+        },
+        {
+          "date": "2026-08-25",
+          "value": 4.64
+        },
+        {
+          "date": "2026-08-26",
+          "value": 4.66
+        },
+        {
+          "date": "2026-08-27",
+          "value": 4.67
+        },
+        {
+          "date": "2026-08-28",
+          "value": 4.73
+        },
+        {
+          "date": "2026-08-31",
+          "value": 4.75
+        },
+        {
+          "date": "2026-09-01",
+          "value": 4.79
+        },
+        {
+          "date": "2026-09-02",
+          "value": 4.79
+        },
+        {
+          "date": "2026-09-03",
+          "value": 4.77
+        },
+        {
+          "date": "2026-09-04",
+          "value": 4.78
+        },
+        {
+          "date": "2026-09-08",
+          "value": 4.8
+        },
+        {
+          "date": "2026-09-09",
+          "value": 4.83
+        },
+        {
+          "date": "2026-09-10",
+          "value": 4.95
+        },
+        {
+          "date": "2026-09-11",
+          "value": 4.96
+        },
+        {
+          "date": "2026-09-14",
+          "value": 4.97
+        },
+        {
+          "date": "2026-09-15",
+          "value": 5.0
+        },
+        {
+          "date": "2026-09-16",
+          "value": 5.01
+        },
+        {
+          "date": "2026-09-17",
+          "value": 4.94
+        },
+        {
+          "date": "2026-09-18",
+          "value": 5.01
+        },
+        {
+          "date": "2026-09-21",
+          "value": 4.96
+        },
+        {
+          "date": "2026-09-22",
+          "value": 4.96
+        },
+        {
+          "date": "2026-09-23",
+          "value": 5.11
+        },
+        {
+          "date": "2026-09-24",
+          "value": 5.18
+        },
+        {
+          "date": "2026-09-25",
+          "value": 5.17
+        },
+        {
+          "date": "2026-09-28",
+          "value": 5.24
+        },
+        {
+          "date": "2026-09-29",
+          "value": 5.26
+        },
+        {
+          "date": "2026-09-30",
+          "value": 5.29
+        },
+        {
+          "date": "2026-10-01",
+          "value": 5.24
+        },
+        {
+          "date": "2026-10-02",
+          "value": 5.28
+        },
+        {
+          "date": "2026-10-05",
+          "value": 5.31
+        },
+        {
+          "date": "2026-10-06",
+          "value": 5.27
+        },
+        {
+          "date": "2026-10-07",
+          "value": 5.28
+        },
+        {
+          "date": "2026-10-08",
+          "value": 5.22
+        },
+        {
+          "date": "2026-10-09",
+          "value": 5.24
+        },
+        {
+          "date": "2026-10-13",
+          "value": 5.21
+        },
+        {
+          "date": "2026-10-14",
+          "value": 5.19
+        },
+        {
+          "date": "2026-10-15",
+          "value": 5.1
+        },
+        {
+          "date": "2026-10-16",
+          "value": 5.09
+        },
+        {
+          "date": "2026-10-19",
+          "value": 5.15
+        },
+        {
+          "date": "2026-10-20",
+          "value": 5.12
+        },
+        {
+          "date": "2026-10-21",
+          "value": 5.13
+        },
+        {
+          "date": "2026-10-22",
+          "value": 4.96
+        },
+        {
+          "date": "2026-10-23",
+          "value": 5.0
+        },
+        {
+          "date": "2026-10-26",
+          "value": 5.0
+        },
+        {
+          "date": "2026-10-27",
+          "value": 4.99
+        },
+        {
+          "date": "2026-10-28",
+          "value": 5.05
+        },
+        {
+          "date": "2026-10-29",
+          "value": 4.98
+        },
+        {
+          "date": "2026-10-30",
+          "value": 4.94
+        },
+        {
+          "date": "2026-11-02",
+          "value": 4.91
+        },
+        {
+          "date": "2026-11-03",
+          "value": 4.95
+        }
+      ],
+      "status": "ok",
+      "fetchedAt": "2026-11-05T19:08:37+00:00",
+      "latest": {
+        "date": "2026-11-03",
+        "value": 4.95
+      },
+      "stale": false,
+      "change": 0.04
+    },
+    {
+      "id": "usdtry",
+      "name": "USD / TRY",
+      "unit": "TL",
+      "source": "ECB · çapraz referans kur",
+      "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+      "points": [
+        {
+          "date": "2026-08-10",
+          "value": 47.695
+        },
+        {
+          "date": "2026-08-11",
+          "value": 47.7267
+        },
+        {
+          "date": "2026-08-12",
+          "value": 47.7577
+        },
+        {
+          "date": "2026-08-13",
+          "value": 47.7748
+        },
+        {
+          "date": "2026-08-14",
+          "value": 47.8844
+        },
+        {
+          "date": "2026-08-17",
+          "value": 47.9018
+        },
+        {
+          "date": "2026-08-18",
+          "value": 47.912
+        },
+        {
+          "date": "2026-08-19",
+          "value": 47.9346
+        },
+        {
+          "date": "2026-08-20",
+          "value": 47.9535
+        },
+        {
+          "date": "2026-08-21",
+          "value": 48.0655
+        },
+        {
+          "date": "2026-08-24",
+          "value": 48.0814
+        },
+        {
+          "date": "2026-08-25",
+          "value": 48.0994
+        },
+        {
+          "date": "2026-08-26",
+          "value": 48.1173
+        },
+        {
+          "date": "2026-08-27",
+          "value": 48.1308
+        },
+        {
+          "date": "2026-08-28",
+          "value": 48.2451
+        },
+        {
+          "date": "2026-08-31",
+          "value": 48.2622
+        },
+        {
+          "date": "2026-09-01",
+          "value": 48.2742
+        },
+        {
+          "date": "2026-09-02",
+          "value": 48.2937
+        },
+        {
+          "date": "2026-09-03",
+          "value": 48.3149
+        },
+        {
+          "date": "2026-09-04",
+          "value": 48.4422
+        },
+        {
+          "date": "2026-09-07",
+          "value": 48.4331
+        },
+        {
+          "date": "2026-09-08",
+          "value": 48.46
+        },
+        {
+          "date": "2026-09-09",
+          "value": 48.4773
+        },
+        {
+          "date": "2026-09-10",
+          "value": 48.4948
+        },
+        {
+          "date": "2026-09-11",
+          "value": 48.5964
+        },
+        {
+          "date": "2026-09-14",
+          "value": 48.6223
+        },
+        {
+          "date": "2026-09-15",
+          "value": 48.6398
+        },
+        {
+          "date": "2026-09-16",
+          "value": 48.6574
+        },
+        {
+          "date": "2026-09-17",
+          "value": 48.6753
+        },
+        {
+          "date": "2026-09-18",
+          "value": 48.7851
+        },
+        {
+          "date": "2026-09-21",
+          "value": 48.799
+        },
+        {
+          "date": "2026-09-22",
+          "value": 48.8085
+        },
+        {
+          "date": "2026-09-23",
+          "value": 48.8373
+        },
+        {
+          "date": "2026-09-24",
+          "value": 48.8548
+        },
+        {
+          "date": "2026-09-25",
+          "value": 48.9323
+        },
+        {
+          "date": "2026-09-28",
+          "value": 48.9821
+        },
+        {
+          "date": "2026-09-29",
+          "value": 49.0003
+        },
+        {
+          "date": "2026-09-30",
+          "value": 49.0177
+        },
+        {
+          "date": "2026-10-01",
+          "value": 49.0346
+        },
+        {
+          "date": "2026-10-02",
+          "value": 49.1448
+        },
+        {
+          "date": "2026-10-05",
+          "value": 49.157
+        },
+        {
+          "date": "2026-10-06",
+          "value": 49.1788
+        },
+        {
+          "date": "2026-10-07",
+          "value": 49.1923
+        },
+        {
+          "date": "2026-10-08",
+          "value": 49.2154
+        },
+        {
+          "date": "2026-10-09",
+          "value": 49.173
+        },
+        {
+          "date": "2026-10-12",
+          "value": 49.3368
+        },
+        {
+          "date": "2026-10-13",
+          "value": 49.3676
+        },
+        {
+          "date": "2026-10-14",
+          "value": 49.39
+        },
+        {
+          "date": "2026-10-15",
+          "value": 49.4176
+        },
+        {
+          "date": "2026-10-16",
+          "value": 49.5271
+        },
+        {
+          "date": "2026-10-19",
+          "value": 49.5525
+        },
+        {
+          "date": "2026-10-20",
+          "value": 49.5773
+        },
+        {
+          "date": "2026-10-21",
+          "value": 49.6024
+        },
+        {
+          "date": "2026-10-22",
+          "value": 49.6278
+        },
+        {
+          "date": "2026-10-23",
+          "value": 49.7378
+        },
+        {
+          "date": "2026-10-26",
+          "value": 49.7628
+        },
+        {
+          "date": "2026-10-27",
+          "value": 49.7874
+        },
+        {
+          "date": "2026-10-28",
+          "value": 49.838
+        },
+        {
+          "date": "2026-10-29",
+          "value": 49.8375
+        },
+        {
+          "date": "2026-10-30",
+          "value": 49.9476
+        },
+        {
+          "date": "2026-11-02",
+          "value": 49.9681
+        },
+        {
+          "date": "2026-11-03",
+          "value": 49.9974
+        },
+        {
+          "date": "2026-11-04",
+          "value": 50.022
+        },
+        {
+          "date": "2026-11-05",
+          "value": 50.0471
+        }
+      ],
+      "status": "ok",
+      "fetchedAt": "2026-11-05T19:08:37+00:00",
+      "latest": {
+        "date": "2026-11-05",
+        "value": 50.0471
+      },
+      "stale": false,
+      "change": 0.0251
+    }
+  ],
+  "feeds": [
+    {
+      "id": "bbc-world",
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "status": "ok",
+      "checkedAt": "2026-11-05T19:08:37+00:00",
+      "count": 20
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "status": "ok",
+      "checkedAt": "2026-11-05T19:08:37+00:00",
+      "count": 30
+    },
+    {
+      "id": "dw",
+      "name": "DW",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "status": "ok",
+      "checkedAt": "2026-11-05T19:08:37+00:00",
+      "count": 11
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "status": "ok",
+      "checkedAt": "2026-11-05T19:08:37+00:00",
+      "count": 25
+    },
+    {
+      "id": "ecb",
+      "name": "ECB",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "status": "ok",
+      "checkedAt": "2026-11-05T19:08:37+00:00",
+      "count": 3
+    }
+  ],
+  "analysis": {
+    "status": "unavailable",
+    "provider": null,
+    "model": null,
+    "summary": "",
+    "notes": [],
+    "generatedAt": "2026-11-05T19:39:41+00:00",
+    "fingerprint": "dfd9ef80c026b2e61f4c0f90be4fe22b3587bbc415744177b3a234b4d6ab9f8c",
+    "reason": "AI yanıtı alınamadı veya kaynak doğrulamasını geçemedi; kural modeli kullanılıyor."
+  },
+  "history": [
+    {
+      "date": "2026-11-05",
+      "scores": {
+        "energy": 35,
+        "rates": 20,
+        "trade": 10,
+        "security": 5,
+        "climate": 0
+      },
+      "articleCount": 87
+    }
+  ],
+  "methodologyVersion": "1.0",
+  "forecastStatus": "uncalibrated-scenarios",
+  "timezone": "Europe/Istanbul",
+  "editorial": {
+    "leadTopic": "energy",
+    "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
+    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
+    "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
+    "timeline": [
+      {
+        "id": "near",
+        "label": "KISA VADE",
+        "range": "İlk 2 hafta",
+        "title": "İlk baskı enerji ve taşımacılıkta",
+        "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
+        "tags": [
+          "Enerji maliyeti",
+          "Enflasyon baskısı"
+        ]
+      },
+      {
+        "id": "medium",
+        "label": "ORTA VADE",
+        "range": "2 hafta – 3 ay",
+        "title": "Maliyetler enflasyona yayılabilir",
+        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+        "tags": [
+          "Enflasyon baskısı",
+          "Tedarik baskısı"
+        ]
+      },
+      {
+        "id": "long",
+        "label": "UZUN VADE",
+        "range": "3 – 12 ay",
+        "title": "Tedarik güvenliği öne çıkacak",
+        "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+        "tags": [
+          "Tedarik baskısı",
+          "Finansman baskısı"
+        ]
+      }
+    ],
+    "watch": [
+      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
+      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
+      "Diplomatik gerilimi azaltan veya artıran somut adımlar."
+    ],
+    "evidenceIds": [
+      "b32a1b5b0f8e",
+      "f14e22022dc8",
+      "d63c306cd3da",
+      "16a411279563"
+    ],
+    "events": [],
+    "origin": "rules"
+  }
+}

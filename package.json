@@ -1,0 +1,13 @@
+{
+  "name": "monarch-signal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "refresh": "python pipeline/refresh.py",
+    "test": "python -m unittest discover -s tests -v",
+    "preview": "python -m http.server 4178 --directory dist"
+  },
+  "engines": { "node": ">=20", "python": ">=3.11" }
+}

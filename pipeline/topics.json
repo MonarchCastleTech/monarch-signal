@@ -1,0 +1,411 @@
+[
+  {
+    "id": "energy",
+    "name": "Enerji & jeopolitik",
+    "short": "Enerji",
+    "icon": "01",
+    "color": "#b45b37",
+    "terms": [
+      "iran",
+      "hormuz",
+      "oil",
+      "crude",
+      "opec",
+      "tanker",
+      "refinery",
+      "gulf",
+      "petrol",
+      "doğalgaz",
+      "natural gas"
+    ],
+    "stress": [
+      "war",
+      "strike",
+      "attack",
+      "military",
+      "blockade",
+      "sanction",
+      "disruption",
+      "threat",
+      "savaş",
+      "saldırı"
+    ],
+    "chain": [
+      "Arz / geçiş riski",
+      "Enerji maliyetleri",
+      "Enflasyon & cari denge"
+    ],
+    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir.",
+    "turkey": "Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
+    "global": "Enerji ithalatçıları maliyet baskısı yaşarken ihracatçılar farklı etkilenebilir. Etkinin büyüklüğü kesintinin süresine bağlıdır.",
+    "invalidator": "Teyit edilmiş gerilimi azaltma adımları, kesintisiz enerji akışı ve kalıcı arz telafisi bu yolu zayıflatır.",
+    "channels": {
+      "Enerji maliyeti": 0.95,
+      "Enflasyon baskısı": 0.65,
+      "Tedarik baskısı": 0.55,
+      "Finansman baskısı": 0.3,
+      "Büyüme baskısı": 0.45
+    },
+    "forecasts": [
+      {
+        "id": "near",
+        "label": "KISA VADE",
+        "range": "İlk 2 hafta",
+        "title": "İlk baskı enerji ve taşımacılıkta",
+        "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
+        "tags": [
+          "Enerji maliyeti",
+          "Enflasyon baskısı"
+        ]
+      },
+      {
+        "id": "medium",
+        "label": "ORTA VADE",
+        "range": "2 hafta – 3 ay",
+        "title": "Maliyetler enflasyona yayılabilir",
+        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+        "tags": [
+          "Enflasyon baskısı",
+          "Tedarik baskısı"
+        ]
+      },
+      {
+        "id": "long",
+        "label": "UZUN VADE",
+        "range": "3 – 12 ay",
+        "title": "Tedarik güvenliği öne çıkacak",
+        "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+        "tags": [
+          "Tedarik baskısı",
+          "Finansman baskısı"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rates",
+    "name": "Faiz & enflasyon",
+    "short": "Faiz",
+    "icon": "02",
+    "color": "#697b64",
+    "terms": [
+      "inflation",
+      "interest rate",
+      "central bank",
+      "federal reserve",
+      "ecb",
+      "fed ",
+      "monetary",
+      "enflasyon",
+      "faiz"
+    ],
+    "stress": [
+      "hike",
+      "surge",
+      "sticky",
+      "tighten",
+      "higher",
+      "raise",
+      "pressure",
+      "artış"
+    ],
+    "chain": [
+      "Fiyat / politika sinyali",
+      "Faiz beklentileri",
+      "Finansman & talep"
+    ],
+    "summary": "Enflasyon ve para politikası haberleri, faiz beklentileri üzerinden finansman koşullarını değiştirebilir.",
+    "turkey": "Küresel faizler dış finansman maliyetini etkileyebilir. Yerel yansıma TCMB politikası ve kur gelişmelerine bağlıdır.",
+    "global": "Sıkı finansman koşulları kredi talebini ve yatırımı yavaşlatabilir; ülke ve sektör etkileri farklılaşır.",
+    "invalidator": "Kalıcı dezenflasyon ve kaynaklarla doğrulanan gevşeme sinyalleri sıkılaşma senaryosunu zayıflatır.",
+    "channels": {
+      "Enerji maliyeti": 0.1,
+      "Enflasyon baskısı": 0.6,
+      "Tedarik baskısı": 0.1,
+      "Finansman baskısı": 0.95,
+      "Büyüme baskısı": 0.65
+    },
+    "forecasts": [
+      {
+        "id": "near",
+        "label": "KISA VADE",
+        "range": "İlk 2 hafta",
+        "title": "Piyasalar faiz beklentisini fiyatlıyor",
+        "text": "Sıkılaşma sinyalleri sürerse kredi ve tahvil piyasalarında temkinli fiyatlama bekliyoruz. Dış finansmana bağımlı şirketlerde maliyet baskısı öne çıkabilir.",
+        "tags": [
+          "Enerji maliyeti",
+          "Enflasyon baskısı"
+        ]
+      },
+      {
+        "id": "medium",
+        "label": "ORTA VADE",
+        "range": "2 hafta – 3 ay",
+        "title": "Kredi talebi ve yatırım yavaşlayabilir",
+        "text": "Yüksek faizler sürerse finansman maliyetlerinin iç talep ve yatırım kararlarına daha belirgin yansımasını bekliyoruz.",
+        "tags": [
+          "Enflasyon baskısı",
+          "Tedarik baskısı"
+        ]
+      },
+      {
+        "id": "long",
+        "label": "UZUN VADE",
+        "range": "3 – 12 ay",
+        "title": "Enflasyon yönü belirleyecek",
+        "text": "Fiyat artışları kalıcı biçimde yavaşlarsa finansman koşullarında kademeli rahatlama bekliyoruz. Enerji ve kur baskısı sürerse geçiş uzayabilir.",
+        "tags": [
+          "Tedarik baskısı",
+          "Finansman baskısı"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trade",
+    "name": "Ticaret & tedarik",
+    "short": "Ticaret",
+    "icon": "03",
+    "color": "#6a7190",
+    "terms": [
+      "tariff",
+      "trade",
+      "supply chain",
+      "shipping",
+      "port ",
+      "export",
+      "import",
+      "sanction",
+      "freight",
+      "ticaret",
+      "gümrük"
+    ],
+    "stress": [
+      "ban",
+      "disrupt",
+      "block",
+      "tariff",
+      "sanction",
+      "restrict",
+      "halt",
+      "closure",
+      "kesinti"
+    ],
+    "chain": [
+      "Ticaret engeli",
+      "Teslim süresi & maliyet",
+      "Üretim & dış talep"
+    ],
+    "summary": "Ticaret kısıtları ve lojistik kesintiler teslim sürelerini ve girdi maliyetlerini artırabilir.",
+    "turkey": "İhracat siparişleri, ithal girdiler ve alternatif ticaret koridorları etkilenebilir; net etki sektörlere göre değişir.",
+    "global": "Tedarik rotalarının değişmesi maliyetleri artırabilir. Alternatif kapasitenin bulunması etkinin süresini belirler.",
+    "invalidator": "Gümrük uzlaşması, yeniden açılan hatlar veya doğrulanmış alternatif kapasite baskıyı azaltır.",
+    "channels": {
+      "Enerji maliyeti": 0.2,
+      "Enflasyon baskısı": 0.55,
+      "Tedarik baskısı": 0.95,
+      "Finansman baskısı": 0.2,
+      "Büyüme baskısı": 0.7
+    },
+    "forecasts": [
+      {
+        "id": "near",
+        "label": "KISA VADE",
+        "range": "İlk 2 hafta",
+        "title": "Teslim süreleri baskı altında",
+        "text": "Ticaret kısıtları ve rota belirsizliği sürerse sevkiyat maliyetlerinde artış ve teslim sürelerinde uzama bekliyoruz.",
+        "tags": [
+          "Enerji maliyeti",
+          "Enflasyon baskısı"
+        ]
+      },
+      {
+        "id": "medium",
+        "label": "ORTA VADE",
+        "range": "2 hafta – 3 ay",
+        "title": "Üretim ağları yeni rotalar arayacak",
+        "text": "Kalıcı engellerde şirketlerin alternatif tedarikçi ve taşıma rotalarına yönelmesini bekliyoruz. Türkiye için etki, sektöre ve pazara göre değişebilir.",
+        "tags": [
+          "Enflasyon baskısı",
+          "Tedarik baskısı"
+        ]
+      },
+      {
+        "id": "long",
+        "label": "UZUN VADE",
+        "range": "3 – 12 ay",
+        "title": "Bölgesel tedarik güçlenebilir",
+        "text": "Uzayan kısıtlamalar üretimin pazarlara yakınlaşmasını hızlandırabilir. Alternatif üretim ve lojistik kapasitesi kurabilen bölgelerin avantaj kazanmasını bekliyoruz.",
+        "tags": [
+          "Tedarik baskısı",
+          "Finansman baskısı"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "security",
+    "name": "Çatışma & güvenlik",
+    "short": "Güvenlik",
+    "icon": "04",
+    "color": "#99724f",
+    "terms": [
+      "war",
+      "military",
+      "missile",
+      "conflict",
+      "airstrike",
+      "invasion",
+      "ceasefire",
+      "nato",
+      "defence",
+      "defense",
+      "savaş",
+      "çatışma"
+    ],
+    "stress": [
+      "escalat",
+      "invasion",
+      "attack",
+      "strike",
+      "mobiliz",
+      "threat",
+      "missile",
+      "saldırı"
+    ],
+    "chain": [
+      "Güvenlik belirsizliği",
+      "Riskten kaçış",
+      "Ticaret & yatırım"
+    ],
+    "summary": "Çatışmanın yayılması risk iştahı, turizm ve ticaret kanallarını etkileyebilir. Bir haber başlığı olayın teyidi sayılmaz.",
+    "turkey": "Bölgesel yakınlık turizm, lojistik, sigorta ve risk primine yansıyabilir; her çatışmanın Türkiye etkisi aynı değildir.",
+    "global": "Riskten kaçış ve lojistik belirsizlik artabilir; etki çatışmanın coğrafi kapsamına bağlıdır.",
+    "invalidator": "Teyit edilmiş ve sürdürülen ateşkes veya diplomatik anlaşma tırmanma senaryosunu zayıflatır.",
+    "channels": {
+      "Enerji maliyeti": 0.55,
+      "Enflasyon baskısı": 0.4,
+      "Tedarik baskısı": 0.7,
+      "Finansman baskısı": 0.6,
+      "Büyüme baskısı": 0.65
+    },
+    "forecasts": [
+      {
+        "id": "near",
+        "label": "KISA VADE",
+        "range": "İlk 2 hafta",
+        "title": "Risk iştahında temkinli seyir",
+        "text": "Gerilim genişlerse bölgesel varlıklarda temkinli fiyatlama ve sigorta maliyetlerinde baskı bekliyoruz.",
+        "tags": [
+          "Enerji maliyeti",
+          "Enflasyon baskısı"
+        ]
+      },
+      {
+        "id": "medium",
+        "label": "ORTA VADE",
+        "range": "2 hafta – 3 ay",
+        "title": "Turizm ve ticaret etkilenebilir",
+        "text": "Belirsizlik uzarsa turizm ve bölgesel ticaretin yavaşlamasını bekliyoruz. Türkiye’ye yansıma coğrafi yakınlığa ve lojistik güzergâhlara bağlı kalabilir.",
+        "tags": [
+          "Enflasyon baskısı",
+          "Tedarik baskısı"
+        ]
+      },
+      {
+        "id": "long",
+        "label": "UZUN VADE",
+        "range": "3 – 12 ay",
+        "title": "Yatırım kararları değişebilir",
+        "text": "Kalıcı güvenlik riski şirketlerin yatırım ve tedarik planlarını değiştirebilir. Diplomatik normalleşme ertelenen yatırımın geri dönmesini destekleyebilir.",
+        "tags": [
+          "Tedarik baskısı",
+          "Finansman baskısı"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "climate",
+    "name": "İklim & gıda",
+    "short": "İklim",
+    "icon": "05",
+    "color": "#60848b",
+    "terms": [
+      "drought",
+      "flood",
+      "tropical storm",
+      "storm surge",
+      "hurricane",
+      "heatwave",
+      "wheat",
+      "harvest",
+      "food price",
+      "climate",
+      "kuraklık",
+      "sel ",
+      "gıda"
+    ],
+    "stress": [
+      "destroy",
+      "damage",
+      "shortage",
+      "extreme",
+      "record",
+      "fail",
+      "crisis",
+      "kıtlık"
+    ],
+    "chain": [
+      "Fiziksel tehlike",
+      "Üretim & hasat",
+      "Gıda & sigorta maliyeti"
+    ],
+    "summary": "Aşırı hava olayları tarımsal üretim, enerji altyapısı ve lojistik üzerinde baskı oluşturabilir.",
+    "turkey": "Gıda arzı, tarımsal girdi ve sigorta maliyetleri etkilenebilir. Yerel etki için bölgesel veri gerekir.",
+    "global": "Üretici bölgelerdeki kayıplar emtia ve gıda maliyetlerine yansıyabilir; stoklar ve alternatif üretim belirleyicidir.",
+    "invalidator": "Hasat tahminlerinin toparlanması ve fiziksel altyapının korunması bu senaryoyu zayıflatır.",
+    "channels": {
+      "Enerji maliyeti": 0.25,
+      "Enflasyon baskısı": 0.65,
+      "Tedarik baskısı": 0.7,
+      "Finansman baskısı": 0.15,
+      "Büyüme baskısı": 0.5
+    },
+    "forecasts": [
+      {
+        "id": "near",
+        "label": "KISA VADE",
+        "range": "İlk 2 hafta",
+        "title": "Üretim ve lojistik ilk sırada",
+        "text": "Fiziksel hasar teyit edilirse ilgili bölgelerde üretim ve sevkiyat kesintileri bekliyoruz.",
+        "tags": [
+          "Enerji maliyeti",
+          "Enflasyon baskısı"
+        ]
+      },
+      {
+        "id": "medium",
+        "label": "ORTA VADE",
+        "range": "2 hafta – 3 ay",
+        "title": "Gıda maliyetleri öne çıkabilir",
+        "text": "Üretim kaybı sürerse gıda fiyatlarında ve sigorta maliyetlerinde baskı bekliyoruz. Hasat ve stok verileri etkinin büyüklüğünü belirleyecek.",
+        "tags": [
+          "Enflasyon baskısı",
+          "Tedarik baskısı"
+        ]
+      },
+      {
+        "id": "long",
+        "label": "UZUN VADE",
+        "range": "3 – 12 ay",
+        "title": "Dayanıklılık yatırımları hızlanabilir",
+        "text": "Tekrarlayan iklim şoklarının su, tarım ve altyapı yatırımlarına yönelimi artırmasını bekliyoruz.",
+        "tags": [
+          "Tedarik baskısı",
+          "Finansman baskısı"
+        ]
+      }
+    ]
+  }
+]

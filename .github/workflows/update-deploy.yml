@@ -1,0 +1,55 @@
+name: Refresh intelligence & deploy
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: monarch-signal-production
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check the data and AI boundaries
+        run: python -m unittest discover -s tests -v
+      - name: Refresh public feeds and free AI
+        if: github.event_name != 'push'
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python pipeline/refresh.py
+      - name: Keep the sourced snapshot
+        if: github.event_name != 'push'
+        run: |
+          if ! git diff --quiet -- data/snapshot.json; then
+            git config user.name 'monarch-signal[bot]'
+            git config user.email 'monarch-signal[bot]@users.noreply.github.com'
+            git add data/snapshot.json
+            git commit -m 'data: refresh sourced intelligence snapshot'
+            git push
+          fi
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+          include-hidden-files: true
+      - name: Deploy public product
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,11 @@
+import { cp, mkdir, readFile, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+import path from 'node:path';
+const root = fileURLToPath(new URL('../', import.meta.url));
+const data = JSON.parse(await readFile(path.join(root, 'data/snapshot.json'), 'utf8'));
+if (data.schemaVersion !== 1 || !Array.isArray(data.articles) || !data.generatedAt) throw Error('Invalid snapshot');
+await mkdir(path.join(root, 'dist/data'), { recursive: true });
+await cp(path.join(root, 'web'), path.join(root, 'dist'), { recursive: true });
+await cp(path.join(root, 'data/snapshot.json'), path.join(root, 'dist/data/snapshot.json'));
+await writeFile(path.join(root, 'dist/.nojekyll'), '');
+console.log(`Built Monarch Signal: ${data.articles.length} sourced headlines, ${data.series.length} economic series.`);
