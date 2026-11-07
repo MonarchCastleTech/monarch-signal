@@ -1,8 +1,116 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T21:33:47+00:00",
+  "generatedAt": "2026-11-07T01:58:42+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "81faa6c941ab",
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-07T01:41:36+00:00"
+    },
+    {
+      "id": "37c9527f8292",
+      "title": "EU prosecutor office investigates fatal train crash in Spain",
+      "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T01:33:39+00:00"
+    },
+    {
+      "id": "ac8b74480060",
+      "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T00:55:51+00:00"
+    },
+    {
+      "id": "1b51165a7261",
+      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T00:31:41+00:00"
+    },
+    {
+      "id": "430d3ee1659d",
+      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T00:21:49+00:00"
+    },
+    {
+      "id": "758b7e05c2a7",
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T00:00:00+00:00"
+    },
+    {
+      "id": "338d01ab779e",
+      "title": "New Zealanders head to polls on final day of voting",
+      "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-06T23:48:01+00:00"
+    },
+    {
+      "id": "1c7303c5a635",
+      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+      "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-06T23:33:28+00:00"
+    },
+    {
+      "id": "fd4eebfc2733",
+      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-06T23:07:22+00:00"
+    },
+    {
+      "id": "d17c78f889b4",
+      "title": "US urges China to honour Busan trade deal commitments",
+      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-06T23:00:37+00:00"
+    },
+    {
+      "id": "9b225e31f95f",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-06T21:49:50+00:00"
+    },
+    {
+      "id": "91b6d9bbe949",
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-06T21:37:30+00:00"
+    },
     {
       "id": "c496f1cc70f4",
       "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
@@ -68,7 +176,7 @@
     },
     {
       "id": "cc7032f293c4",
-      "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
       "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
@@ -166,15 +274,6 @@
       "publishedAt": "2026-11-06T18:45:00+00:00"
     },
     {
-      "id": "0c2f4e46d6b4",
-      "title": "‘Message to the West’ bomb threats target European newsrooms, travel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T18:38:44+00:00"
-    },
-    {
       "id": "01c9d29f2df6",
       "title": "Why the US midterms sparked an AI stock selloff",
       "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
@@ -184,58 +283,13 @@
       "publishedAt": "2026-11-06T18:32:16+00:00"
     },
     {
-      "id": "de512de14c42",
-      "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-      "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T18:23:11+00:00"
-    },
-    {
-      "id": "d835eaecc247",
-      "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T18:17:39+00:00"
-    },
-    {
-      "id": "8e23f8096356",
-      "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-      "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T18:09:49+00:00"
-    },
-    {
-      "id": "b5dd8ef78ae5",
-      "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-      "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T17:50:13+00:00"
-    },
-    {
-      "id": "95287807b7cf",
-      "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
-      "url": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T17:42:22+00:00"
-    },
-    {
-      "id": "771b9629eea0",
-      "title": "US city votes to divest from Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T17:40:13+00:00"
+      "id": "236c2ad056ef",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-06T17:44:02+00:00"
     },
     {
       "id": "e767c5baa51e",
@@ -256,24 +310,6 @@
       "publishedAt": "2026-11-06T17:19:38+00:00"
     },
     {
-      "id": "50dbf4f75e37",
-      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-      "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T17:02:19+00:00"
-    },
-    {
-      "id": "7e5e295fc294",
-      "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-      "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T16:58:56+00:00"
-    },
-    {
       "id": "8d18e311052d",
       "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
       "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
@@ -290,15 +326,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-06T16:42:23+00:00"
-    },
-    {
-      "id": "ce875852455f",
-      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-      "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T16:40:39+00:00"
     },
     {
       "id": "49e032ae2724",
@@ -499,15 +526,6 @@
       "publishedAt": "2026-11-06T10:10:38+00:00"
     },
     {
-      "id": "9b225e31f95f",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T09:57:04+00:00"
-    },
-    {
       "id": "492d73eacc7e",
       "title": "How does it affect me if share prices fall?",
       "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
@@ -551,15 +569,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-06T06:46:21+00:00"
-    },
-    {
-      "id": "7734cad685a6",
-      "title": "Did a data centre revolt affect the US midterm election results?",
-      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T06:01:13+00:00"
     },
     {
       "id": "99117beecd82",
@@ -794,33 +803,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-04T19:38:53+00:00"
-    },
-    {
-      "id": "674036464ba4",
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-04T00:09:35+00:00"
-    },
-    {
-      "id": "da121aad8145",
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-04T00:04:35+00:00"
-    },
-    {
-      "id": "995a2369a7ff",
-      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-      "source": "ECB",
-      "sourceId": "ecb",
-      "domain": "ecb.europa.eu",
-      "publishedAt": "2026-11-04T00:00:00+00:00"
     }
   ],
   "topics": [
@@ -906,18 +888,20 @@
           ]
         }
       ],
-      "score": 31,
+      "score": 47,
       "evidenceIds": [
+        "758b7e05c2a7",
+        "fd4eebfc2733",
         "15c623b3dc73",
         "05830de0f691",
         "106be822f284",
         "8084b702dfa9",
         "f14e22022dc8"
       ],
-      "articleCount": 5,
-      "sourceCount": 2,
-      "stressHeadlines": 2,
-      "coverage": "sınırlı"
+      "articleCount": 7,
+      "sourceCount": 3,
+      "stressHeadlines": 3,
+      "coverage": "çok kaynaklı"
     },
     {
       "id": "rates",
@@ -997,16 +981,15 @@
           ]
         }
       ],
-      "score": 14,
+      "score": 11,
       "evidenceIds": [
         "308c455948d2",
         "97a364511298",
-        "b35bb5aa079a",
-        "995a2369a7ff"
+        "b35bb5aa079a"
       ],
-      "articleCount": 4,
+      "articleCount": 3,
       "sourceCount": 2,
-      "stressHeadlines": 1,
+      "stressHeadlines": 0,
       "coverage": "sınırlı"
     },
     {
@@ -1092,7 +1075,7 @@
       ],
       "score": 8,
       "evidenceIds": [
-        "8e23f8096356"
+        "d17c78f889b4"
       ],
       "articleCount": 1,
       "sourceCount": 1,
@@ -1180,17 +1163,18 @@
           ]
         }
       ],
-      "score": 29,
+      "score": 34,
       "evidenceIds": [
+        "758b7e05c2a7",
         "897a0df46a70",
         "15c623b3dc73",
         "106be822f284",
         "8084b702dfa9"
       ],
-      "articleCount": 4,
-      "sourceCount": 2,
+      "articleCount": 5,
+      "sourceCount": 3,
       "stressHeadlines": 2,
-      "coverage": "sınırlı"
+      "coverage": "çok kaynaklı"
     },
     {
       "id": "climate",
@@ -2250,7 +2234,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-06T21:33:47+00:00",
+      "fetchedAt": "2026-11-07T01:58:42+00:00",
       "latest": {
         "date": "2026-11-06",
         "value": 50.1529
@@ -2265,7 +2249,7 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-06T21:33:47+00:00",
+      "checkedAt": "2026-11-07T01:58:42+00:00",
       "count": 25
     },
     {
@@ -2273,15 +2257,15 @@
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-06T21:33:47+00:00",
-      "count": 29
+      "checkedAt": "2026-11-07T01:58:42+00:00",
+      "count": 27
     },
     {
       "id": "dw",
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-06T21:33:47+00:00",
+      "checkedAt": "2026-11-07T01:58:42+00:00",
       "count": 12
     },
     {
@@ -2289,7 +2273,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-06T21:33:47+00:00",
+      "checkedAt": "2026-11-07T01:58:42+00:00",
       "count": 25
     },
     {
@@ -2297,32 +2281,60 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-06T21:33:47+00:00",
-      "count": 4
+      "checkedAt": "2026-11-07T01:58:42+00:00",
+      "count": 3
     }
   ],
   "analysis": {
-    "summary": "Enerji arz kesilirse petrol ve taşıma maliyetleri artabilir; faiz artışıyla enflasyon baskısı artabilir.",
+    "summary": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor. Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
     "notes": [
       {
         "topic": "energy",
-        "text": "Enerji arz kesilirse petrol ve taşıma maliyetleri artabilir; faiz artışıyla enflasyon baskısı artabilir.",
+        "text": "Arz kesilirse petrol ve navlun maliyetlerinde yukarı yönlü baskı oluşabilir; Türkiye’de akaryakıt, taşımacılık ve ithal girdi fiyatları etkilenebilir.",
         "evidenceIds": [
-          "05830de0f691"
+          "758b7e05c2a7"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz; bu durum faiz indirimleri için alanı daraltabilir.",
+        "evidenceIds": [
+          "fd4eebfc2733"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz; kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+        "evidenceIds": [
+          "15c623b3dc73"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "İran yakınlarındaki inşaat faaliyetleri, askeri altyapıya yönelik artan ilgiden kaynaklanıyor olabilir; bu durum enerji arzı veya deniz geçişlerinde kesinti riskini artırabilir.",
+        "evidenceIds": [
+          "106be822f284"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "Diplomatik gerilimi azaltan veya artıran somut adımlar, enerji piyasalarında dalgalanmalara neden olabilir; bu da maliyet beklentilerini etkileyebilir.",
+        "evidenceIds": [
+          "8084b702dfa9"
         ]
       }
     ],
     "editorial": {
       "leadTopic": "energy",
       "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
-      "summary": "Enerji arz kesilirse fiyatlar artabilir; faiz artışı enflasyonu tetikleyebilir.",
+      "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
       "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
       "timeline": [
         {
           "id": "near",
           "label": "KISA VADE",
           "range": "İlk 2 hafta",
-          "title": "İlk baskı enerji ve taşımacılıkta",
+          "title": "Kısa vadeli beklentinin başlığı",
           "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
           "tags": [
             "Enerji maliyeti",
@@ -2333,7 +2345,7 @@
           "id": "medium",
           "label": "ORTA VADE",
           "range": "2 hafta – 3 ay",
-          "title": "Maliyetler enflasyona yayılabilir",
+          "title": "Orta vadeli beklentinin başlığı",
           "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
           "tags": [
             "Enflasyon baskısı",
@@ -2344,7 +2356,7 @@
           "id": "long",
           "label": "UZUN VADE",
           "range": "3 – 12 ay",
-          "title": "Tedarik güvenliği öne çıkacak",
+          "title": "Uzun vadeli beklentinin başlığı",
           "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
           "tags": [
             "Tedarik baskısı",
@@ -2354,27 +2366,48 @@
       ],
       "watch": [
         "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
-        "Petrol fiyatlarıındaki hareketin kalıcı hâle gelmesi.",
+        "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
         "Diplomatik gerilimi azaltan veya artıran somut adımlar."
       ],
       "evidenceIds": [
+        "758b7e05c2a7",
+        "fd4eebfc2733",
         "15c623b3dc73",
-        "05830de0f691",
         "106be822f284",
-        "8084b702dfa9",
-        "f14e22022dc8"
+        "8084b702dfa9"
       ],
-      "events": [],
+      "events": [
+        {
+          "evidenceId": "758b7e05c2a7",
+          "headline": "İran savaşı canlı yayın: Katar, ABD ve İran'ın bir barış anlaşmasına ulaşmak için beklememesi gerektiğini söyledi."
+        },
+        {
+          "evidenceId": "fd4eebfc2733",
+          "headline": "Trump'ın İran'a yönelik ikna edici olmayan anlatısı, ABD orta dönem seçimlerinde kendisine kaybettirdi."
+        },
+        {
+          "evidenceId": "15c623b3dc73",
+          "headline": "İran halkı için sürekli bir savaş tehdidi ve bilgi eksikliği."
+        },
+        {
+          "evidenceId": "106be822f284",
+          "headline": "Uydu görüntüleri, İran füks tabanları yakınında büyük inşaat faaliyetlerinin devam ettiğini gösteriyor."
+        },
+        {
+          "evidenceId": "8084b702dfa9",
+          "headline": "Amerikalılar Trump'ın İran savaşına karşı oy verdi. Körfez ülkeleri, bunun çatışmanın sona ereceği anlamına geleceğini umuyor."
+        }
+      ],
       "origin": "free-ai"
     },
     "status": "ok",
     "provider": "OpenRouter Free",
-    "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "generatedAt": "2026-11-06T21:33:47+00:00",
-    "fingerprint": "6b97ae27c0bb1533d67a3304bb7fc8ebf8d7582d1fbceaec4aa2af58a8b5dc5f",
+    "model": "cohere/north-mini-code:free",
+    "generatedAt": "2026-11-07T01:58:42+00:00",
+    "fingerprint": "085c189123e0a3c6356929dc57a04096f982843e2954b6a87367101ec078f4a5",
     "requestedModel": "nvidia/nemotron-3.5-lightning:free",
     "usage": {
-      "totalTokens": 2916,
+      "totalTokens": 3229,
       "cost": 0
     }
   },
@@ -2400,19 +2433,30 @@
         "climate": 0
       },
       "articleCount": 91
+    },
+    {
+      "date": "2026-11-07",
+      "scores": {
+        "energy": 47,
+        "rates": 11,
+        "trade": 8,
+        "security": 34,
+        "climate": 0
+      },
+      "articleCount": 89
     }
   ],
   "editorial": {
     "leadTopic": "energy",
     "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
-    "summary": "Enerji arz kesilirse fiyatlar artabilir; faiz artışı enflasyonu tetikleyebilir.",
+    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
     "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
     "timeline": [
       {
         "id": "near",
         "label": "KISA VADE",
         "range": "İlk 2 hafta",
-        "title": "İlk baskı enerji ve taşımacılıkta",
+        "title": "Kısa vadeli beklentinin başlığı",
         "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
         "tags": [
           "Enerji maliyeti",
@@ -2423,7 +2467,7 @@
         "id": "medium",
         "label": "ORTA VADE",
         "range": "2 hafta – 3 ay",
-        "title": "Maliyetler enflasyona yayılabilir",
+        "title": "Orta vadeli beklentinin başlığı",
         "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
         "tags": [
           "Enflasyon baskısı",
@@ -2434,7 +2478,7 @@
         "id": "long",
         "label": "UZUN VADE",
         "range": "3 – 12 ay",
-        "title": "Tedarik güvenliği öne çıkacak",
+        "title": "Uzun vadeli beklentinin başlığı",
         "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
         "tags": [
           "Tedarik baskısı",
@@ -2444,17 +2488,38 @@
     ],
     "watch": [
       "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
-      "Petrol fiyatlarıındaki hareketin kalıcı hâle gelmesi.",
+      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
+      "758b7e05c2a7",
+      "fd4eebfc2733",
       "15c623b3dc73",
-      "05830de0f691",
       "106be822f284",
-      "8084b702dfa9",
-      "f14e22022dc8"
+      "8084b702dfa9"
     ],
-    "events": [],
+    "events": [
+      {
+        "evidenceId": "758b7e05c2a7",
+        "headline": "İran savaşı canlı yayın: Katar, ABD ve İran'ın bir barış anlaşmasına ulaşmak için beklememesi gerektiğini söyledi."
+      },
+      {
+        "evidenceId": "fd4eebfc2733",
+        "headline": "Trump'ın İran'a yönelik ikna edici olmayan anlatısı, ABD orta dönem seçimlerinde kendisine kaybettirdi."
+      },
+      {
+        "evidenceId": "15c623b3dc73",
+        "headline": "İran halkı için sürekli bir savaş tehdidi ve bilgi eksikliği."
+      },
+      {
+        "evidenceId": "106be822f284",
+        "headline": "Uydu görüntüleri, İran füks tabanları yakınında büyük inşaat faaliyetlerinin devam ettiğini gösteriyor."
+      },
+      {
+        "evidenceId": "8084b702dfa9",
+        "headline": "Amerikalılar Trump'ın İran savaşına karşı oy verdi. Körfez ülkeleri, bunun çatışmanın sona ereceği anlamına geleceğini umuyor."
+      }
+    ],
     "origin": "free-ai"
   },
   "methodologyVersion": "1.0",
