@@ -1,8 +1,260 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T01:58:42+00:00",
+  "generatedAt": "2026-11-07T08:52:04+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "cfe82f83bc9d",
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+      "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T08:45:36+00:00"
+    },
+    {
+      "id": "50648477f294",
+      "title": "Amid protests, France's rising debt costs threaten stability",
+      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-07T08:16:00+00:00"
+    },
+    {
+      "id": "69be48f85d49",
+      "title": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
+      "url": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T08:10:01+00:00"
+    },
+    {
+      "id": "a941db068f7d",
+      "title": "Houston mayor curbs cooperation of US city’s police with ICE",
+      "url": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T07:50:16+00:00"
+    },
+    {
+      "id": "b468c87ae7ff",
+      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
+      "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-07T07:33:00+00:00"
+    },
+    {
+      "id": "be598de6f5ea",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-07T07:20:00+00:00"
+    },
+    {
+      "id": "3481f02e276a",
+      "title": "Qatari PM says US willing to seek solution to war with Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T07:10:37+00:00"
+    },
+    {
+      "id": "e10c67290905",
+      "title": "WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva",
+      "url": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T07:09:12+00:00"
+    },
+    {
+      "id": "bdf634329e30",
+      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T07:05:01+00:00"
+    },
+    {
+      "id": "c006246eca07",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-07T06:59:48+00:00"
+    },
+    {
+      "id": "0aad8a3c5763",
+      "title": "‘Every person has their luck’: Morocco’s beach metal detectorists",
+      "url": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T06:47:45+00:00"
+    },
+    {
+      "id": "4037d9db3c25",
+      "title": "Do not investigate Trump’s corporate allies until he leaves office",
+      "url": "https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T06:38:27+00:00"
+    },
+    {
+      "id": "7f9fc54fef90",
+      "title": "How the Iran war helped Democrats win the midterms",
+      "url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T06:26:58+00:00"
+    },
+    {
+      "id": "21e21a664d7f",
+      "title": "Carlos Alcaraz saves match points to reach Paris Masters semifinals",
+      "url": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T06:21:04+00:00"
+    },
+    {
+      "id": "3d99b9115f8c",
+      "title": "Two main parties neck and neck after New Zealand vote, early count",
+      "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T06:20:27+00:00"
+    },
+    {
+      "id": "5759318f2ca3",
+      "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
+      "url": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T05:57:25+00:00"
+    },
+    {
+      "id": "b64c6213892f",
+      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T05:51:23+00:00"
+    },
+    {
+      "id": "05e549520e6e",
+      "title": "Khawaja claims entire Australia team knew about 2018 ball-tampering scandal",
+      "url": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T05:46:54+00:00"
+    },
+    {
+      "id": "aadc8d9ae201",
+      "title": "President Herzog faces key choice as Israel struggles to form government",
+      "url": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T05:16:18+00:00"
+    },
+    {
+      "id": "8ac0f13ac048",
+      "title": "Russia launches missile attack on Kyiv, injuring residents",
+      "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T05:11:03+00:00"
+    },
+    {
+      "id": "f4330d5d0c7d",
+      "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+      "url": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T05:02:49+00:00"
+    },
+    {
+      "id": "a5ac31f6badf",
+      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T04:50:46+00:00"
+    },
+    {
+      "id": "7107d3b9b548",
+      "title": "US asks China to uphold Busan trade deal commitments",
+      "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-07T04:44:00+00:00"
+    },
+    {
+      "id": "75f2a936ad98",
+      "title": "Los Angeles reacts to historic mayoral election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T04:14:12+00:00"
+    },
+    {
+      "id": "a71a6181caa2",
+      "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T04:08:02+00:00"
+    },
+    {
+      "id": "5d660bdcc6ea",
+      "title": "Trump confirms new US strikes on Iran’s Qeshm island",
+      "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T03:53:01+00:00"
+    },
+    {
+      "id": "dd8750a692d0",
+      "title": "How the US midterm elections reflected resistance to data centres",
+      "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T03:22:41+00:00"
+    },
+    {
+      "id": "8b15b3de0d70",
+      "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+      "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T01:55:03+00:00"
+    },
     {
       "id": "81faa6c941ab",
       "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
@@ -22,6 +274,24 @@
       "publishedAt": "2026-11-07T01:33:39+00:00"
     },
     {
+      "id": "836b457f205a",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-07T01:27:47+00:00"
+    },
+    {
+      "id": "ec715c7ab10b",
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-07T01:19:49+00:00"
+    },
+    {
       "id": "ac8b74480060",
       "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
@@ -31,67 +301,22 @@
       "publishedAt": "2026-11-07T00:55:51+00:00"
     },
     {
-      "id": "1b51165a7261",
-      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-      "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T00:31:41+00:00"
+      "id": "3fc9238c3874",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-06T23:46:08+00:00"
     },
     {
-      "id": "430d3ee1659d",
-      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T00:21:49+00:00"
-    },
-    {
-      "id": "758b7e05c2a7",
-      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T00:00:00+00:00"
-    },
-    {
-      "id": "338d01ab779e",
-      "title": "New Zealanders head to polls on final day of voting",
-      "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T23:48:01+00:00"
-    },
-    {
-      "id": "1c7303c5a635",
-      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
-      "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T23:33:28+00:00"
-    },
-    {
-      "id": "fd4eebfc2733",
-      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T23:07:22+00:00"
-    },
-    {
-      "id": "d17c78f889b4",
-      "title": "US urges China to honour Busan trade deal commitments",
-      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T23:00:37+00:00"
+      "id": "b2ba464dc311",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-06T23:24:15+00:00"
     },
     {
       "id": "9b225e31f95f",
@@ -103,24 +328,6 @@
       "publishedAt": "2026-11-06T21:49:50+00:00"
     },
     {
-      "id": "91b6d9bbe949",
-      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T21:37:30+00:00"
-    },
-    {
-      "id": "c496f1cc70f4",
-      "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
-      "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T21:22:57+00:00"
-    },
-    {
       "id": "8d72e9082925",
       "title": "AI stocks climb after trillions wiped from market values",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -128,42 +335,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-06T21:06:25+00:00"
-    },
-    {
-      "id": "9e580684f9b4",
-      "title": "Protesters break into Microsoft data centre site in Amsterdam",
-      "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T21:04:40+00:00"
-    },
-    {
-      "id": "93565785cdf2",
-      "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T20:48:25+00:00"
-    },
-    {
-      "id": "62ee33fc7b61",
-      "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-      "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T20:28:07+00:00"
-    },
-    {
-      "id": "e0750f138f53",
-      "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T20:27:09+00:00"
     },
     {
       "id": "35a7e5f2572b",
@@ -175,60 +346,6 @@
       "publishedAt": "2026-11-06T20:23:00+00:00"
     },
     {
-      "id": "cc7032f293c4",
-      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
-      "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T20:22:22+00:00"
-    },
-    {
-      "id": "adf71e3b6325",
-      "title": "How ‘Street Medics’ protect French protesters",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T20:17:32+00:00"
-    },
-    {
-      "id": "d5f40edd2d1b",
-      "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T19:42:46+00:00"
-    },
-    {
-      "id": "a1ea8b4ed41f",
-      "title": "Why is Britain refusing to pay slavery reparations?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T19:34:33+00:00"
-    },
-    {
-      "id": "a5625fb828d5",
-      "title": "Could Trump’s veto stop the Democratic majority?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T19:18:33+00:00"
-    },
-    {
-      "id": "4568a795b9cc",
-      "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-      "url": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T19:16:07+00:00"
-    },
-    {
       "id": "54038fc6b2c6",
       "title": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
       "url": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-world-4025-rdf",
@@ -236,42 +353,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-06T19:16:00+00:00"
-    },
-    {
-      "id": "1e0d2b2562b8",
-      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
-      "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T19:08:31+00:00"
-    },
-    {
-      "id": "00f6257f898e",
-      "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-      "url": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T19:07:06+00:00"
-    },
-    {
-      "id": "b937643b5b9b",
-      "title": "Why is Paraguay facing a banking and political crisis?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T18:54:08+00:00"
-    },
-    {
-      "id": "8d3a143abdd8",
-      "title": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-06T18:45:00+00:00"
     },
     {
       "id": "01c9d29f2df6",
@@ -418,15 +499,6 @@
       "publishedAt": "2026-11-06T14:46:03+00:00"
     },
     {
-      "id": "ed74af6123ad",
-      "title": "Protests and reforms: France's rising debt costs threaten stability",
-      "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-06T14:37:00+00:00"
-    },
-    {
       "id": "897a0df46a70",
       "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
       "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf",
@@ -508,24 +580,6 @@
       "publishedAt": "2026-11-06T11:40:35+00:00"
     },
     {
-      "id": "67ce803de4cd",
-      "title": "Homes and temples glow across India as Diwali celebrations begin",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T10:21:30+00:00"
-    },
-    {
-      "id": "e6fef4ced09e",
-      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T10:10:38+00:00"
-    },
-    {
       "id": "492d73eacc7e",
       "title": "How does it affect me if share prices fall?",
       "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
@@ -569,15 +623,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-06T06:46:21+00:00"
-    },
-    {
-      "id": "99117beecd82",
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T06:00:46+00:00"
     },
     {
       "id": "1c7f2dcbbdab",
@@ -652,15 +697,6 @@
       "publishedAt": "2026-11-05T17:09:55+00:00"
     },
     {
-      "id": "11d8610a120e",
-      "title": "Arrests and investigations as Serbia begins postelection cleanup",
-      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-postelection-cleanup/a-79868652?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-05T17:00:00+00:00"
-    },
-    {
       "id": "45b493d0b9ca",
       "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
       "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
@@ -668,15 +704,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-05T15:27:09+00:00"
-    },
-    {
-      "id": "f14e22022dc8",
-      "title": "Iran signals satisfaction, skepticism after US midterm vote",
-      "url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-05T15:04:00+00:00"
     },
     {
       "id": "a6504e059dca",
@@ -888,19 +915,22 @@
           ]
         }
       ],
-      "score": 47,
+      "score": 83,
       "evidenceIds": [
-        "758b7e05c2a7",
-        "fd4eebfc2733",
+        "cfe82f83bc9d",
+        "3481f02e276a",
+        "bdf634329e30",
+        "7f9fc54fef90",
+        "a5ac31f6badf",
+        "5d660bdcc6ea",
         "15c623b3dc73",
         "05830de0f691",
         "106be822f284",
-        "8084b702dfa9",
-        "f14e22022dc8"
+        "8084b702dfa9"
       ],
-      "articleCount": 7,
+      "articleCount": 10,
       "sourceCount": 3,
-      "stressHeadlines": 3,
+      "stressHeadlines": 6,
       "coverage": "çok kaynaklı"
     },
     {
@@ -981,7 +1011,7 @@
           ]
         }
       ],
-      "score": 11,
+      "score": 9,
       "evidenceIds": [
         "308c455948d2",
         "97a364511298",
@@ -1073,9 +1103,9 @@
           ]
         }
       ],
-      "score": 8,
+      "score": 7,
       "evidenceIds": [
-        "d17c78f889b4"
+        "7107d3b9b548"
       ],
       "articleCount": 1,
       "sourceCount": 1,
@@ -1163,17 +1193,21 @@
           ]
         }
       ],
-      "score": 34,
+      "score": 64,
       "evidenceIds": [
-        "758b7e05c2a7",
+        "3481f02e276a",
+        "bdf634329e30",
+        "7f9fc54fef90",
+        "b64c6213892f",
+        "8ac0f13ac048",
         "897a0df46a70",
         "15c623b3dc73",
         "106be822f284",
         "8084b702dfa9"
       ],
-      "articleCount": 5,
+      "articleCount": 9,
       "sourceCount": 3,
-      "stressHeadlines": 2,
+      "stressHeadlines": 3,
       "coverage": "çok kaynaklı"
     },
     {
@@ -2234,7 +2268,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-07T01:58:42+00:00",
+      "fetchedAt": "2026-11-07T08:52:04+00:00",
       "latest": {
         "date": "2026-11-06",
         "value": 50.1529
@@ -2249,15 +2283,15 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-07T01:58:42+00:00",
-      "count": 25
+      "checkedAt": "2026-11-07T08:52:04+00:00",
+      "count": 28
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-07T01:58:42+00:00",
+      "checkedAt": "2026-11-07T08:52:04+00:00",
       "count": 27
     },
     {
@@ -2265,7 +2299,7 @@
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-07T01:58:42+00:00",
+      "checkedAt": "2026-11-07T08:52:04+00:00",
       "count": 12
     },
     {
@@ -2273,7 +2307,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-07T01:58:42+00:00",
+      "checkedAt": "2026-11-07T08:52:04+00:00",
       "count": 25
     },
     {
@@ -2281,133 +2315,60 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-07T01:58:42+00:00",
+      "checkedAt": "2026-11-07T08:52:04+00:00",
       "count": 3
     }
   ],
   "analysis": {
-    "summary": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor. Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
+    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
     "notes": [
       {
         "topic": "energy",
-        "text": "Arz kesilirse petrol ve navlun maliyetlerinde yukarı yönlü baskı oluşabilir; Türkiye’de akaryakıt, taşımacılık ve ithal girdi fiyatları etkilenebilir.",
+        "text": "Arz kesilirse ithalat maliyeti artabilir.",
         "evidenceIds": [
-          "758b7e05c2a7"
+          "cfe82f83bc9d",
+          "3481f02e276a",
+          "bdf634329e30",
+          "7f9fc54fef90",
+          "a5ac31f6badf"
         ]
       },
       {
-        "topic": "energy",
-        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz; bu durum faiz indirimleri için alanı daraltabilir.",
+        "topic": "rates",
+        "text": "Enerji fiyatlarındaki artış, üretici maliyetleri artırarak enflasyonu körükleyebilir.",
         "evidenceIds": [
-          "fd4eebfc2733"
+          "308c455948d2",
+          "97a364511298",
+          "b35bb5aa079a"
         ]
       },
       {
-        "topic": "energy",
-        "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz; kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+        "topic": "trade",
+        "text": "Enerji maliyetlerindeki artış, nakliye ve lojistik maliyetlerini artırarak ticaret dengesini etkileyebilir.",
         "evidenceIds": [
-          "15c623b3dc73"
+          "7107d3b9b548"
         ]
       },
       {
-        "topic": "energy",
-        "text": "İran yakınlarındaki inşaat faaliyetleri, askeri altyapıya yönelik artan ilgiden kaynaklanıyor olabilir; bu durum enerji arzı veya deniz geçişlerinde kesinti riskini artırabilir.",
+        "topic": "security",
+        "text": "Diplomatik gerilimler, enerji arzını kesintiye uğratarak maliyetlerde dalgalanmalara yol açabilir.",
         "evidenceIds": [
-          "106be822f284"
-        ]
-      },
-      {
-        "topic": "energy",
-        "text": "Diplomatik gerilimi azaltan veya artıran somut adımlar, enerji piyasalarında dalgalanmalara neden olabilir; bu da maliyet beklentilerini etkileyebilir.",
-        "evidenceIds": [
-          "8084b702dfa9"
+          "3481f02e276a",
+          "bdf634329e30",
+          "7f9fc54fef90",
+          "b64c6213892f",
+          "8ac0f13ac048"
         ]
       }
     ],
-    "editorial": {
-      "leadTopic": "energy",
-      "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
-      "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
-      "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
-      "timeline": [
-        {
-          "id": "near",
-          "label": "KISA VADE",
-          "range": "İlk 2 hafta",
-          "title": "Kısa vadeli beklentinin başlığı",
-          "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
-          "tags": [
-            "Enerji maliyeti",
-            "Enflasyon baskısı"
-          ]
-        },
-        {
-          "id": "medium",
-          "label": "ORTA VADE",
-          "range": "2 hafta – 3 ay",
-          "title": "Orta vadeli beklentinin başlığı",
-          "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
-          "tags": [
-            "Enflasyon baskısı",
-            "Tedarik baskısı"
-          ]
-        },
-        {
-          "id": "long",
-          "label": "UZUN VADE",
-          "range": "3 – 12 ay",
-          "title": "Uzun vadeli beklentinin başlığı",
-          "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
-          "tags": [
-            "Tedarik baskısı",
-            "Finansman baskısı"
-          ]
-        }
-      ],
-      "watch": [
-        "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
-        "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
-        "Diplomatik gerilimi azaltan veya artıran somut adımlar."
-      ],
-      "evidenceIds": [
-        "758b7e05c2a7",
-        "fd4eebfc2733",
-        "15c623b3dc73",
-        "106be822f284",
-        "8084b702dfa9"
-      ],
-      "events": [
-        {
-          "evidenceId": "758b7e05c2a7",
-          "headline": "İran savaşı canlı yayın: Katar, ABD ve İran'ın bir barış anlaşmasına ulaşmak için beklememesi gerektiğini söyledi."
-        },
-        {
-          "evidenceId": "fd4eebfc2733",
-          "headline": "Trump'ın İran'a yönelik ikna edici olmayan anlatısı, ABD orta dönem seçimlerinde kendisine kaybettirdi."
-        },
-        {
-          "evidenceId": "15c623b3dc73",
-          "headline": "İran halkı için sürekli bir savaş tehdidi ve bilgi eksikliği."
-        },
-        {
-          "evidenceId": "106be822f284",
-          "headline": "Uydu görüntüleri, İran füks tabanları yakınında büyük inşaat faaliyetlerinin devam ettiğini gösteriyor."
-        },
-        {
-          "evidenceId": "8084b702dfa9",
-          "headline": "Amerikalılar Trump'ın İran savaşına karşı oy verdi. Körfez ülkeleri, bunun çatışmanın sona ereceği anlamına geleceğini umuyor."
-        }
-      ],
-      "origin": "free-ai"
-    },
     "status": "ok",
     "provider": "OpenRouter Free",
     "model": "cohere/north-mini-code:free",
-    "generatedAt": "2026-11-07T01:58:42+00:00",
-    "fingerprint": "085c189123e0a3c6356929dc57a04096f982843e2954b6a87367101ec078f4a5",
+    "generatedAt": "2026-11-07T08:52:04+00:00",
+    "fingerprint": "96f63c05043f6d268e5041175c17ae1ef0af1e5d7a734ac2f099800411a6460e",
     "requestedModel": "nvidia/nemotron-3.5-lightning:free",
     "usage": {
-      "totalTokens": 3229,
+      "totalTokens": 3162,
       "cost": 0
     }
   },
@@ -2437,13 +2398,13 @@
     {
       "date": "2026-11-07",
       "scores": {
-        "energy": 47,
-        "rates": 11,
-        "trade": 8,
-        "security": 34,
+        "energy": 83,
+        "rates": 9,
+        "trade": 7,
+        "security": 64,
         "climate": 0
       },
-      "articleCount": 89
+      "articleCount": 92
     }
   ],
   "editorial": {
@@ -2456,7 +2417,7 @@
         "id": "near",
         "label": "KISA VADE",
         "range": "İlk 2 hafta",
-        "title": "Kısa vadeli beklentinin başlığı",
+        "title": "İlk baskı enerji ve taşımacılıkta",
         "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
         "tags": [
           "Enerji maliyeti",
@@ -2467,7 +2428,7 @@
         "id": "medium",
         "label": "ORTA VADE",
         "range": "2 hafta – 3 ay",
-        "title": "Orta vadeli beklentinin başlığı",
+        "title": "Maliyetler enflasyona yayılabilir",
         "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
         "tags": [
           "Enflasyon baskısı",
@@ -2478,7 +2439,7 @@
         "id": "long",
         "label": "UZUN VADE",
         "range": "3 – 12 ay",
-        "title": "Uzun vadeli beklentinin başlığı",
+        "title": "Tedarik güvenliği öne çıkacak",
         "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
         "tags": [
           "Tedarik baskısı",
@@ -2492,35 +2453,15 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "758b7e05c2a7",
-      "fd4eebfc2733",
-      "15c623b3dc73",
-      "106be822f284",
-      "8084b702dfa9"
+      "cfe82f83bc9d",
+      "3481f02e276a",
+      "bdf634329e30",
+      "7f9fc54fef90",
+      "a5ac31f6badf",
+      "5d660bdcc6ea"
     ],
-    "events": [
-      {
-        "evidenceId": "758b7e05c2a7",
-        "headline": "İran savaşı canlı yayın: Katar, ABD ve İran'ın bir barış anlaşmasına ulaşmak için beklememesi gerektiğini söyledi."
-      },
-      {
-        "evidenceId": "fd4eebfc2733",
-        "headline": "Trump'ın İran'a yönelik ikna edici olmayan anlatısı, ABD orta dönem seçimlerinde kendisine kaybettirdi."
-      },
-      {
-        "evidenceId": "15c623b3dc73",
-        "headline": "İran halkı için sürekli bir savaş tehdidi ve bilgi eksikliği."
-      },
-      {
-        "evidenceId": "106be822f284",
-        "headline": "Uydu görüntüleri, İran füks tabanları yakınında büyük inşaat faaliyetlerinin devam ettiğini gösteriyor."
-      },
-      {
-        "evidenceId": "8084b702dfa9",
-        "headline": "Amerikalılar Trump'ın İran savaşına karşı oy verdi. Körfez ülkeleri, bunun çatışmanın sona ereceği anlamına geleceğini umuyor."
-      }
-    ],
-    "origin": "free-ai"
+    "events": [],
+    "origin": "rules"
   },
   "methodologyVersion": "1.0",
   "forecastStatus": "uncalibrated-scenarios",
