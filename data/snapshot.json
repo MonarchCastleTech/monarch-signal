@@ -1,16 +1,133 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T20:15:58+00:00",
+  "generatedAt": "2026-11-07T23:41:39+00:00",
   "windowHours": 72,
   "articles": [
     {
       "id": "bcc676a14cba",
-      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "title": "What we know so far after Krakow gun attack",
       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T20:08:31+00:00"
+      "publishedAt": "2026-11-07T22:58:49+00:00"
+    },
+    {
+      "id": "cdff17bce18a",
+      "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+      "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T22:21:58+00:00"
+    },
+    {
+      "id": "0fd700b21f78",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-07T22:19:59+00:00"
+    },
+    {
+      "id": "c248c6afbbb4",
+      "title": "Ipswich Town's new club shop 'here to stay'",
+      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-07T21:40:32+00:00"
+    },
+    {
+      "id": "691b7d4bba1d",
+      "title": "Can New Zealand's new government win over disillusioned voters?",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-07T21:36:16+00:00"
+    },
+    {
+      "id": "e9fa4a201d63",
+      "title": "Police clash with protesters as anti-government rallies sweep France",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T21:24:10+00:00"
+    },
+    {
+      "id": "134cc892a91f",
+      "title": "Ebola: Why is there still no vaccine?",
+      "url": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-07T21:03:00+00:00"
+    },
+    {
+      "id": "f2cd05ef9077",
+      "title": "Mélenchon promises action against Israeli annexation if elected President",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T20:53:47+00:00"
+    },
+    {
+      "id": "8dbfbfd5f6ff",
+      "title": "Who is behind Europe’s suspected hybrid attacks?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T20:48:58+00:00"
+    },
+    {
+      "id": "4b1a4c7626a7",
+      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T20:44:34+00:00"
+    },
+    {
+      "id": "fa9c9e9e338f",
+      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T20:26:58+00:00"
+    },
+    {
+      "id": "deddf001b111",
+      "title": "More than 140,000 rally as new protests against rising costs sweep France",
+      "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T20:12:22+00:00"
+    },
+    {
+      "id": "ad2a580cf6a6",
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T20:10:38+00:00"
+    },
+    {
+      "id": "a4d60e19872a",
+      "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-07T20:08:47+00:00"
     },
     {
       "id": "cb0b09832f0e",
@@ -185,7 +302,7 @@
     },
     {
       "id": "7a37bf0621bc",
-      "title": "Valencia vs Real Madrid LIVE: La Liga",
+      "title": "Valencia 0-3 Real Madrid: La Liga – as it happened",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
@@ -220,24 +337,6 @@
       "publishedAt": "2026-11-07T16:15:18+00:00"
     },
     {
-      "id": "54ede44681fc",
-      "title": "Hundreds march in Pau, France against high living costs",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T16:09:11+00:00"
-    },
-    {
-      "id": "eab7e199dba2",
-      "title": "Five killed and at least 10 injured in Krakow shooting",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T16:06:58+00:00"
-    },
-    {
       "id": "85ece2f5694e",
       "title": "No clear winner after tight New Zealand general election",
       "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
@@ -245,33 +344,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-07T15:56:28+00:00"
-    },
-    {
-      "id": "bf0aad0cc531",
-      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T15:34:58+00:00"
-    },
-    {
-      "id": "34a7dd17e278",
-      "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T15:29:11+00:00"
-    },
-    {
-      "id": "c7fa70695d3c",
-      "title": "At least six people killed in shooting in Poland’s Krakow",
-      "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T15:22:55+00:00"
     },
     {
       "id": "3756bd77d3ea",
@@ -301,24 +373,6 @@
       "publishedAt": "2026-11-07T14:38:00+00:00"
     },
     {
-      "id": "4a07dba49356",
-      "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-      "url": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T14:30:00+00:00"
-    },
-    {
-      "id": "b684ba3b3dec",
-      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-      "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T14:24:48+00:00"
-    },
-    {
       "id": "f8ad14f3dbbf",
       "title": "After victory in the midterms, what next for US Democrats?",
       "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-world-4025-rdf",
@@ -328,15 +382,6 @@
       "publishedAt": "2026-11-07T14:15:00+00:00"
     },
     {
-      "id": "471d3e40f35f",
-      "title": "New Zealand’s prime minister says election is ‘too close to call’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T14:03:06+00:00"
-    },
-    {
       "id": "b9dcd2ec4985",
       "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
@@ -344,15 +389,6 @@
       "sourceId": "ecb",
       "domain": "ecb.europa.eu",
       "publishedAt": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "id": "3ea9c602d811",
-      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
-      "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-07T13:50:15+00:00"
     },
     {
       "id": "4b2c83578e55",
@@ -616,15 +652,6 @@
       "publishedAt": "2026-11-06T14:00:00+00:00"
     },
     {
-      "id": "f6feaaea394e",
-      "title": "Zambia's opposition criticizes government restructuring and layoffs",
-      "url": "https://www.dw.com/en/zambia-s-opposition-criticizes-government-restructuring-and-layoffs/a-79875892?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-06T13:28:00+00:00"
-    },
-    {
       "id": "a1e3da5a26ef",
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
       "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
@@ -803,15 +830,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-05T00:59:22+00:00"
-    },
-    {
-      "id": "ba0ab1521258",
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-04T21:41:15+00:00"
     }
   ],
   "topics": [
@@ -897,17 +915,16 @@
           ]
         }
       ],
-      "score": 26,
+      "score": 17,
       "evidenceIds": [
         "b7ba65c704ad",
-        "bf0aad0cc531",
         "aa99dccac573",
         "05830de0f691"
       ],
-      "articleCount": 4,
-      "sourceCount": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
       "stressHeadlines": 0,
-      "coverage": "çok kaynaklı"
+      "coverage": "sınırlı"
     },
     {
       "id": "rates",
@@ -1079,14 +1096,15 @@
           ]
         }
       ],
-      "score": 13,
+      "score": 24,
       "evidenceIds": [
+        "4b1a4c7626a7",
         "6514f4fa88c8",
         "7107d3b9b548"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "sourceCount": 2,
-      "stressHeadlines": 0,
+      "stressHeadlines": 1,
       "coverage": "sınırlı"
     },
     {
@@ -1170,12 +1188,13 @@
           ]
         }
       ],
-      "score": 11,
+      "score": 18,
       "evidenceIds": [
+        "4b1a4c7626a7",
         "7b27e43922d0",
         "897a0df46a70"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "sourceCount": 2,
       "stressHeadlines": 0,
       "coverage": "sınırlı"
@@ -1262,7 +1281,7 @@
           ]
         }
       ],
-      "score": 8,
+      "score": 7,
       "evidenceIds": [
         "4e2d64ccd73d"
       ],
@@ -2240,7 +2259,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-07T20:15:58+00:00",
+      "fetchedAt": "2026-11-07T23:41:39+00:00",
       "latest": {
         "date": "2026-11-06",
         "value": 50.1529
@@ -2255,15 +2274,15 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-07T20:15:58+00:00",
-      "count": 24
+      "checkedAt": "2026-11-07T23:41:39+00:00",
+      "count": 25
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-07T20:15:58+00:00",
+      "checkedAt": "2026-11-07T23:41:39+00:00",
       "count": 26
     },
     {
@@ -2271,7 +2290,7 @@
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-07T20:15:58+00:00",
+      "checkedAt": "2026-11-07T23:41:39+00:00",
       "count": 13
     },
     {
@@ -2279,7 +2298,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-07T20:15:58+00:00",
+      "checkedAt": "2026-11-07T23:41:39+00:00",
       "count": 25
     },
     {
@@ -2287,7 +2306,7 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-07T20:15:58+00:00",
+      "checkedAt": "2026-11-07T23:41:39+00:00",
       "count": 4
     }
   ],
@@ -2297,9 +2316,9 @@
     "model": null,
     "summary": "",
     "notes": [],
-    "generatedAt": "2026-11-07T20:15:58+00:00",
-    "fingerprint": "e2fcba5e619dae6742802784d2e69964b55787f0762ebdf2fca14f681664fbe4",
-    "reason": "Ücretsiz AI servisi HTTP 400 döndürdü; kural modeli kullanılıyor."
+    "generatedAt": "2026-11-07T23:41:39+00:00",
+    "fingerprint": "af6c7c21106f479f5e6614e84d742742711570bbe676cc719f7efe4375cae136",
+    "reason": "AI yanıtı alınamadı veya kaynak doğrulamasını geçemedi; kural modeli kullanılıyor."
   },
   "history": [
     {
@@ -2327,13 +2346,13 @@
     {
       "date": "2026-11-07",
       "scores": {
-        "energy": 26,
+        "energy": 17,
         "rates": 6,
-        "trade": 13,
-        "security": 11,
-        "climate": 8
+        "trade": 24,
+        "security": 18,
+        "climate": 7
       },
-      "articleCount": 90
+      "articleCount": 92
     }
   ],
   "editorial": {
@@ -2383,7 +2402,6 @@
     ],
     "evidenceIds": [
       "b7ba65c704ad",
-      "bf0aad0cc531",
       "aa99dccac573",
       "05830de0f691"
     ],
