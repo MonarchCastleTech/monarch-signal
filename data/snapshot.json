@@ -1,8 +1,134 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T18:51:57+00:00",
+  "generatedAt": "2026-11-08T22:55:53+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "3e9b7a430684",
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T22:16:50+00:00"
+    },
+    {
+      "id": "24c01244f068",
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T22:16:10+00:00"
+    },
+    {
+      "id": "3c00a636e87e",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-08T22:05:12+00:00"
+    },
+    {
+      "id": "40c078bec43a",
+      "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+      "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T22:03:54+00:00"
+    },
+    {
+      "id": "717f7822855e",
+      "title": "Deadly sand cliff collapses on displaced families in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T21:05:07+00:00"
+    },
+    {
+      "id": "b8c01ccaf787",
+      "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T21:01:33+00:00"
+    },
+    {
+      "id": "c441a31093a5",
+      "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T20:51:22+00:00"
+    },
+    {
+      "id": "99103deebe6f",
+      "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T20:29:47+00:00"
+    },
+    {
+      "id": "e2e236678c99",
+      "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T20:26:01+00:00"
+    },
+    {
+      "id": "14a484227caa",
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T20:13:39+00:00"
+    },
+    {
+      "id": "1069919706c8",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-08T19:58:02+00:00"
+    },
+    {
+      "id": "1b780316637f",
+      "title": "Al Jazeera tries Baseball5 at Youth Olympics",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T19:26:38+00:00"
+    },
+    {
+      "id": "2ad2e20b277e",
+      "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T19:15:36+00:00"
+    },
+    {
+      "id": "273316764d18",
+      "title": "After the midterms, where does the Republican Party stand?",
+      "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T19:09:18+00:00"
+    },
     {
       "id": "09638caa2944",
       "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
@@ -47,15 +173,6 @@
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
       "publishedAt": "2026-11-08T17:44:51+00:00"
-    },
-    {
-      "id": "1069919706c8",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T17:35:13+00:00"
     },
     {
       "id": "98e867ce01e0",
@@ -157,15 +274,6 @@
       "publishedAt": "2026-11-08T16:05:57+00:00"
     },
     {
-      "id": "f898b537dea3",
-      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T15:47:11+00:00"
-    },
-    {
       "id": "fdb62f9abf15",
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
       "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
@@ -173,24 +281,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-08T15:37:25+00:00"
-    },
-    {
-      "id": "f8677c8c09fc",
-      "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T15:37:16+00:00"
-    },
-    {
-      "id": "1ce4b6356b92",
-      "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T14:53:29+00:00"
     },
     {
       "id": "67ce803de4cd",
@@ -202,33 +292,6 @@
       "publishedAt": "2026-11-08T14:42:09+00:00"
     },
     {
-      "id": "1740c3d010ce",
-      "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T14:19:17+00:00"
-    },
-    {
-      "id": "704c038bf56a",
-      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-      "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T14:06:19+00:00"
-    },
-    {
-      "id": "8192bcd9c604",
-      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T14:02:35+00:00"
-    },
-    {
       "id": "953dd5f93879",
       "title": "Iran executes three men for 'armed unrest' after January protests",
       "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
@@ -236,60 +299,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-08T13:37:50+00:00"
-    },
-    {
-      "id": "b64af1b67821",
-      "title": "At least 21 dead as small boat sinks off Senegal",
-      "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T13:32:17+00:00"
-    },
-    {
-      "id": "6e3d4311ba07",
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T13:27:57+00:00"
-    },
-    {
-      "id": "a0879df218d4",
-      "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T13:11:41+00:00"
-    },
-    {
-      "id": "883ad2718042",
-      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-      "url": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T13:06:28+00:00"
-    },
-    {
-      "id": "85573a8d72d2",
-      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-      "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T12:40:12+00:00"
-    },
-    {
-      "id": "0305d66ded68",
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T12:20:17+00:00"
     },
     {
       "id": "6729df2677d6",
@@ -807,16 +816,17 @@
           ]
         }
       ],
-      "score": 23,
+      "score": 33,
       "evidenceIds": [
-        "704c038bf56a",
+        "c441a31093a5",
+        "14a484227caa",
         "953dd5f93879",
         "b7ba65c704ad",
         "aa99dccac573"
       ],
-      "articleCount": 4,
+      "articleCount": 5,
       "sourceCount": 3,
-      "stressHeadlines": 0,
+      "stressHeadlines": 1,
       "coverage": "çok kaynaklı"
     },
     {
@@ -897,7 +907,7 @@
           ]
         }
       ],
-      "score": 2,
+      "score": 1,
       "evidenceIds": [
         "308c455948d2"
       ],
@@ -1077,12 +1087,14 @@
           ]
         }
       ],
-      "score": 0,
-      "evidenceIds": [],
-      "articleCount": 0,
-      "sourceCount": 0,
+      "score": 8,
+      "evidenceIds": [
+        "14a484227caa"
+      ],
+      "articleCount": 1,
+      "sourceCount": 1,
       "stressHeadlines": 0,
-      "coverage": "veri yok"
+      "coverage": "sınırlı"
     },
     {
       "id": "climate",
@@ -2142,7 +2154,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-08T18:51:57+00:00",
+      "fetchedAt": "2026-11-08T22:55:53+00:00",
       "latest": {
         "date": "2026-11-06",
         "value": 50.1529
@@ -2157,15 +2169,15 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-08T18:51:57+00:00",
-      "count": 27
+      "checkedAt": "2026-11-08T22:55:53+00:00",
+      "count": 28
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-08T18:51:57+00:00",
+      "checkedAt": "2026-11-08T22:55:53+00:00",
       "count": 18
     },
     {
@@ -2173,7 +2185,7 @@
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-08T18:51:57+00:00",
+      "checkedAt": "2026-11-08T22:55:53+00:00",
       "count": 11
     },
     {
@@ -2181,7 +2193,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-08T18:51:57+00:00",
+      "checkedAt": "2026-11-08T22:55:53+00:00",
       "count": 25
     },
     {
@@ -2189,7 +2201,7 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-08T18:51:57+00:00",
+      "checkedAt": "2026-11-08T22:55:53+00:00",
       "count": 2
     }
   ],
@@ -2199,8 +2211,8 @@
     "model": null,
     "summary": "",
     "notes": [],
-    "generatedAt": "2026-11-08T18:51:57+00:00",
-    "fingerprint": "9c8dd3379ff61f1c0286c96073484b2e78320c965a15a5008a743b632c8b4ebe",
+    "generatedAt": "2026-11-08T22:55:53+00:00",
+    "fingerprint": "0427ec110a78630f81067407a94f2dfa53af4857341dc6a9ac599e35ca1f50e8",
     "reason": "AI yanıtı alınamadı veya kaynak doğrulamasını geçemedi; kural modeli kullanılıyor."
   },
   "history": [
@@ -2240,13 +2252,13 @@
     {
       "date": "2026-11-08",
       "scores": {
-        "energy": 23,
-        "rates": 2,
+        "energy": 33,
+        "rates": 1,
         "trade": 3,
-        "security": 0,
+        "security": 8,
         "climate": 0
       },
-      "articleCount": 80
+      "articleCount": 81
     }
   ],
   "editorial": {
@@ -2295,7 +2307,8 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "704c038bf56a",
+      "c441a31093a5",
+      "14a484227caa",
       "953dd5f93879",
       "b7ba65c704ad",
       "aa99dccac573"
