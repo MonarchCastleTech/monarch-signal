@@ -1,8 +1,116 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T22:55:53+00:00",
+  "generatedAt": "2026-11-09T02:42:51+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "ed84a7de7c8d",
+      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T02:23:11+00:00"
+    },
+    {
+      "id": "632e20280ebf",
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T01:19:09+00:00"
+    },
+    {
+      "id": "3f503ca86beb",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T00:50:06+00:00"
+    },
+    {
+      "id": "d453b3f9734b",
+      "title": "India’s night lights up for Diwali",
+      "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T00:24:04+00:00"
+    },
+    {
+      "id": "5de19af138df",
+      "title": "Doing these things now will help you save money at Christmas",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T00:09:14+00:00"
+    },
+    {
+      "id": "954c94371abc",
+      "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T00:07:02+00:00"
+    },
+    {
+      "id": "ddf3ba3a8a2d",
+      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T00:00:34+00:00"
+    },
+    {
+      "id": "9f4707d31260",
+      "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T23:58:53+00:00"
+    },
+    {
+      "id": "1393807a8a45",
+      "title": "Mexican mayor found alive after hours-long abduction",
+      "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T23:55:37+00:00"
+    },
+    {
+      "id": "e10e1dba33c5",
+      "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+      "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T23:39:47+00:00"
+    },
+    {
+      "id": "3340b42b7000",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-08T23:34:18+00:00"
+    },
+    {
+      "id": "fc761fc0be7a",
+      "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-08T22:42:12+00:00"
+    },
     {
       "id": "3e9b7a430684",
       "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
@@ -23,7 +131,7 @@
     },
     {
       "id": "3c00a636e87e",
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sourceId": "bbc-world",
@@ -32,12 +140,21 @@
     },
     {
       "id": "40c078bec43a",
-      "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+      "title": "Why Trump joked about having Dana White as his White House press secretary",
       "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
       "publishedAt": "2026-11-08T22:03:54+00:00"
+    },
+    {
+      "id": "758129ee12ce",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-08T21:37:36+00:00"
     },
     {
       "id": "717f7822855e",
@@ -59,7 +176,7 @@
     },
     {
       "id": "c441a31093a5",
-      "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+      "title": "Iran waiting to resume talks after US midterms ‘shock’",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
@@ -139,15 +256,6 @@
       "publishedAt": "2026-11-08T18:22:58+00:00"
     },
     {
-      "id": "3340b42b7000",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T18:22:53+00:00"
-    },
-    {
       "id": "6c44cf3c2101",
       "title": "Eisenkot open to Netanyahu joining Israel’s next government",
       "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
@@ -182,87 +290,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-08T17:35:00+00:00"
-    },
-    {
-      "id": "64744fa3b353",
-      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T17:11:52+00:00"
-    },
-    {
-      "id": "538d4a17b0df",
-      "title": "Photos: Diwali celebrations light up India and its global diaspora",
-      "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T17:03:14+00:00"
-    },
-    {
-      "id": "b84c3ec0592b",
-      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T17:00:00+00:00"
-    },
-    {
-      "id": "ddffff78d9d9",
-      "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T16:59:31+00:00"
-    },
-    {
-      "id": "143890bca26e",
-      "title": "Fan hospitalised after falling through stand at Norwegian football match",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T16:53:03+00:00"
-    },
-    {
-      "id": "646cf7879f4e",
-      "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T16:51:41+00:00"
-    },
-    {
-      "id": "ab54bef2b4f4",
-      "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-      "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T16:37:20+00:00"
-    },
-    {
-      "id": "330ea679023f",
-      "title": "Seven killed, 112 injured in train collision in Egypt",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T16:31:54+00:00"
-    },
-    {
-      "id": "77c873ece529",
-      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-      "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-08T16:18:09+00:00"
     },
     {
       "id": "e20e75c8efc1",
@@ -317,15 +344,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-08T07:11:02+00:00"
-    },
-    {
-      "id": "e62725ac95ea",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T04:03:12+00:00"
     },
     {
       "id": "4088e956e34a",
@@ -643,15 +661,6 @@
       "publishedAt": "2026-11-06T16:42:23+00:00"
     },
     {
-      "id": "49e032ae2724",
-      "title": "Winter support for residents facing cost pressures",
-      "url": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T16:22:18+00:00"
-    },
-    {
       "id": "ca5a231c35bd",
       "title": "PM tells firms to publish salaries in job adverts ahead of new law",
       "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
@@ -688,15 +697,6 @@
       "publishedAt": "2026-11-06T14:52:49+00:00"
     },
     {
-      "id": "939512efbcd1",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T14:46:03+00:00"
-    },
-    {
       "id": "492d73eacc7e",
       "title": "How does it affect me if share prices fall?",
       "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
@@ -713,24 +713,6 @@
       "sourceId": "ecb",
       "domain": "ecb.europa.eu",
       "publishedAt": "2026-11-06T09:00:00+00:00"
-    },
-    {
-      "id": "1c7f2dcbbdab",
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T00:06:06+00:00"
-    },
-    {
-      "id": "232d13baa8e3",
-      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T00:02:52+00:00"
     }
   ],
   "topics": [
@@ -816,17 +798,18 @@
           ]
         }
       ],
-      "score": 33,
+      "score": 41,
       "evidenceIds": [
+        "ddf3ba3a8a2d",
         "c441a31093a5",
         "14a484227caa",
         "953dd5f93879",
         "b7ba65c704ad",
         "aa99dccac573"
       ],
-      "articleCount": 5,
+      "articleCount": 6,
       "sourceCount": 3,
-      "stressHeadlines": 1,
+      "stressHeadlines": 2,
       "coverage": "çok kaynaklı"
     },
     {
@@ -997,7 +980,7 @@
           ]
         }
       ],
-      "score": 3,
+      "score": 2,
       "evidenceIds": [
         "7107d3b9b548"
       ],
@@ -1087,11 +1070,12 @@
           ]
         }
       ],
-      "score": 8,
+      "score": 15,
       "evidenceIds": [
+        "ddf3ba3a8a2d",
         "14a484227caa"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "sourceCount": 1,
       "stressHeadlines": 0,
       "coverage": "sınırlı"
@@ -2154,7 +2138,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-08T22:55:53+00:00",
+      "fetchedAt": "2026-11-09T02:42:51+00:00",
       "latest": {
         "date": "2026-11-06",
         "value": 50.1529
@@ -2169,15 +2153,15 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-08T22:55:53+00:00",
-      "count": 28
+      "checkedAt": "2026-11-09T02:42:51+00:00",
+      "count": 27
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-08T22:55:53+00:00",
+      "checkedAt": "2026-11-09T02:42:51+00:00",
       "count": 18
     },
     {
@@ -2185,7 +2169,7 @@
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-08T22:55:53+00:00",
+      "checkedAt": "2026-11-09T02:42:51+00:00",
       "count": 11
     },
     {
@@ -2193,7 +2177,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-08T22:55:53+00:00",
+      "checkedAt": "2026-11-09T02:42:51+00:00",
       "count": 25
     },
     {
@@ -2201,7 +2185,7 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-08T22:55:53+00:00",
+      "checkedAt": "2026-11-09T02:42:51+00:00",
       "count": 2
     }
   ],
@@ -2211,8 +2195,8 @@
     "model": null,
     "summary": "",
     "notes": [],
-    "generatedAt": "2026-11-08T22:55:53+00:00",
-    "fingerprint": "0427ec110a78630f81067407a94f2dfa53af4857341dc6a9ac599e35ca1f50e8",
+    "generatedAt": "2026-11-09T02:42:51+00:00",
+    "fingerprint": "df04992b7a6cfa6e6c65be5700da29f9008a29b0fa853c5c6ceecf2cfbd723db",
     "reason": "AI yanıtı alınamadı veya kaynak doğrulamasını geçemedi; kural modeli kullanılıyor."
   },
   "history": [
@@ -2259,6 +2243,17 @@
         "climate": 0
       },
       "articleCount": 81
+    },
+    {
+      "date": "2026-11-09",
+      "scores": {
+        "energy": 41,
+        "rates": 1,
+        "trade": 2,
+        "security": 15,
+        "climate": 0
+      },
+      "articleCount": 79
     }
   ],
   "editorial": {
@@ -2307,6 +2302,7 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
+      "ddf3ba3a8a2d",
       "c441a31093a5",
       "14a484227caa",
       "953dd5f93879",
