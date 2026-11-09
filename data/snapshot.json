@@ -1,97 +1,457 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T11:42:02+00:00",
+  "generatedAt": "2026-11-09T22:26:52+00:00",
   "windowHours": 72,
   "articles": [
     {
-      "id": "fe7b61df42d0",
-      "title": "Paraguay former president’s mansion raided in ongoing investigation",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
+      "id": "f25fb608076d",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T22:17:23+00:00"
+    },
+    {
+      "id": "ed681ae952ab",
+      "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+      "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T11:19:45+00:00"
+      "publishedAt": "2026-11-09T22:13:29+00:00"
+    },
+    {
+      "id": "b7215ce02885",
+      "title": "Saudi Arabia reports new attack on key East-West pipeline",
+      "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T22:10:52+00:00"
+    },
+    {
+      "id": "206c0e976201",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T21:52:28+00:00"
+    },
+    {
+      "id": "858318871984",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T21:37:02+00:00"
+    },
+    {
+      "id": "9c7e0859a535",
+      "title": "COP31 opens amid energy crisis as activists demand climate action",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T21:18:25+00:00"
+    },
+    {
+      "id": "e1b5c31e751e",
+      "title": "Will Najib Razak be transferred to house arrest?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T21:13:02+00:00"
+    },
+    {
+      "id": "7b917d20a5df",
+      "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T21:04:11+00:00"
+    },
+    {
+      "id": "f7222d302871",
+      "title": "Cyprus rivals agree new crossings across island’s dividing line",
+      "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T20:50:20+00:00"
+    },
+    {
+      "id": "bfba74fdc28f",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T20:42:04+00:00"
+    },
+    {
+      "id": "378762c45f75",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T20:20:08+00:00"
+    },
+    {
+      "id": "7ad9eaa16979",
+      "title": "Deadly explosion at Iron and steel plant in Turkiye",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T20:19:18+00:00"
+    },
+    {
+      "id": "55628c7da360",
+      "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T20:08:18+00:00"
+    },
+    {
+      "id": "ed6df1988611",
+      "title": "Explosion at Turkish steel plant kills at least 16 people",
+      "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T19:58:40+00:00"
+    },
+    {
+      "id": "f7175dd57967",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T19:58:01+00:00"
+    },
+    {
+      "id": "85b58a3f1313",
+      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+      "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T19:56:45+00:00"
+    },
+    {
+      "id": "74ebd4ca37cb",
+      "title": "How is Gaza coping with another severe winter?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T19:47:46+00:00"
+    },
+    {
+      "id": "2a11fac6c68e",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T19:09:27+00:00"
+    },
+    {
+      "id": "b8da168ddb3f",
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T19:07:56+00:00"
+    },
+    {
+      "id": "ca9dd8dfba58",
+      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T19:07:42+00:00"
+    },
+    {
+      "id": "bad1191f299a",
+      "title": "What’s next for US Republicans and Trumpism?",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T19:02:54+00:00"
+    },
+    {
+      "id": "39df55c83744",
+      "title": "The facial recognition technology stopping shoplifters",
+      "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T19:00:43+00:00"
+    },
+    {
+      "id": "071d02e72321",
+      "title": "Two security breaches near White House prompt brief lockdown",
+      "url": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T18:57:01+00:00"
+    },
+    {
+      "id": "4e3241932c90",
+      "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
+      "url": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T18:50:29+00:00"
+    },
+    {
+      "id": "e75e63e6a0d1",
+      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T18:48:00+00:00"
+    },
+    {
+      "id": "1c3b617c8e52",
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T18:40:31+00:00"
+    },
+    {
+      "id": "8cf6f8c72137",
+      "title": "Yemen government forces claim new advances as Houthi border attacks resume",
+      "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T18:37:03+00:00"
+    },
+    {
+      "id": "a3fb59fa6bef",
+      "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+      "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T18:21:38+00:00"
+    },
+    {
+      "id": "01bc4ff7bf47",
+      "title": "Krakow shooting suspect dies as Poland mourns six victims",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T18:12:46+00:00"
+    },
+    {
+      "id": "517284277f6d",
+      "title": "Meta rolls out automated age checks for teens globally",
+      "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T18:09:26+00:00"
+    },
+    {
+      "id": "280a48f869e8",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T18:08:07+00:00"
+    },
+    {
+      "id": "9a47210a9956",
+      "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T17:55:47+00:00"
+    },
+    {
+      "id": "5ed8d6ca7a7c",
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T17:47:29+00:00"
+    },
+    {
+      "id": "a7d8cc81ec48",
+      "title": "France accelerates minimum wage hike in bid to quell protest",
+      "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T17:46:28+00:00"
+    },
+    {
+      "id": "cd7546d2871c",
+      "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T17:17:39+00:00"
+    },
+    {
+      "id": "0780cdd3f8ee",
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T17:17:16+00:00"
+    },
+    {
+      "id": "bc3a98214190",
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T17:06:18+00:00"
+    },
+    {
+      "id": "2e1ab1557898",
+      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T16:59:46+00:00"
+    },
+    {
+      "id": "2386cfa03e81",
+      "title": "Al Jazeera tries skateboarding at Youth Olympics",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-09T16:48:34+00:00"
+    },
+    {
+      "id": "ce0cfa4122c2",
+      "title": "Poundland unable to buy new stock as fears over collapse grow",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T16:46:40+00:00"
     },
     {
       "id": "1db04d5b973d",
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
       "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-09T10:59:26+00:00"
+      "publishedAt": "2026-11-09T16:33:55+00:00"
     },
     {
-      "id": "e6fd0a5010ad",
-      "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
-      "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T10:50:49+00:00"
+      "id": "d187f3fbc3fc",
+      "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+      "url": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-09T16:22:00+00:00"
     },
     {
-      "id": "03b15f4555ac",
-      "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-      "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T10:49:02+00:00"
+      "id": "9f3e44d05923",
+      "title": "India’s demonetization: 10 years on, promises remain unfulfilled",
+      "url": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-09T16:21:00+00:00"
     },
     {
-      "id": "560f33ea006b",
-      "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
-      "url": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T10:38:10+00:00"
+      "id": "d04fc36642f9",
+      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T16:01:19+00:00"
     },
     {
-      "id": "aeb773eab25d",
-      "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T10:35:53+00:00"
+      "id": "77395478e042",
+      "title": "Fake news in Africa: In an age of disinformation, who decides what's true?",
+      "url": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-09T15:56:00+00:00"
     },
     {
-      "id": "4db607a9ab8f",
-      "title": "At least four killed as Russia and Ukraine trade strikes overnight",
-      "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T10:08:45+00:00"
+      "id": "b76a63ca5ce2",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T15:46:20+00:00"
     },
     {
-      "id": "303e2943991f",
-      "title": "Iran’s authorities harden domestic security controls amid US strike threats",
-      "url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T09:56:13+00:00"
+      "id": "6bf4cd2a9651",
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T14:50:35+00:00"
     },
     {
-      "id": "b5f45ec39a93",
-      "title": "The DNA that Unmasked a Killer | True Crime Reports",
-      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/9/the-dna-that-unmasked-a-killer-true-crime-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T09:36:53+00:00"
+      "id": "d567b41d9be2",
+      "title": "Strait of Hormuz still a source of leverage for Iran",
+      "url": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-09T14:49:00+00:00"
     },
     {
-      "id": "cdbc88a6590d",
-      "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
-      "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T09:27:35+00:00"
+      "id": "18e9c76d50d6",
+      "title": "Thirteen migrants die after boat sinks off Crete",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T13:50:01+00:00"
+    },
+    {
+      "id": "cdca797e9dda",
+      "title": "Rising cost of living tests UK's net zero ambitions",
+      "url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T13:42:03+00:00"
     },
     {
       "id": "72696c60be36",
@@ -100,7 +460,34 @@
       "source": "BBC Business",
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-09T09:24:03+00:00"
+      "publishedAt": "2026-11-09T12:06:22+00:00"
+    },
+    {
+      "id": "4bd23233bd32",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T11:56:25+00:00"
+    },
+    {
+      "id": "04bae0a2e38e",
+      "title": "EU aims to pick new ECB chief by year-end",
+      "url": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-09T11:55:00+00:00"
+    },
+    {
+      "id": "9b1e4f717554",
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-09T10:41:57+00:00"
     },
     {
       "id": "b090dff1a243",
@@ -112,33 +499,6 @@
       "publishedAt": "2026-11-09T08:49:17+00:00"
     },
     {
-      "id": "f93663c658e2",
-      "title": "Trump says his immigration policy ‘too tough’ for voters",
-      "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T08:35:05+00:00"
-    },
-    {
-      "id": "adf47d9a5247",
-      "title": "US top Democrat backs impeachment of Pete Hegseth",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T08:26:50+00:00"
-    },
-    {
-      "id": "172f1364f5bb",
-      "title": "Trump ‘only kidding’ about Dana White press secretary role",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T08:18:00+00:00"
-    },
-    {
       "id": "8b8f051cee74",
       "title": "Is it the end of free school milk?",
       "url": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&at_campaign=rss",
@@ -146,51 +506,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-09T08:12:30+00:00"
-    },
-    {
-      "id": "3f503ca86beb",
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-09T08:10:25+00:00"
-    },
-    {
-      "id": "56f99b3a8944",
-      "title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
-      "url": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T07:56:16+00:00"
-    },
-    {
-      "id": "4bd23233bd32",
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-09T07:26:09+00:00"
-    },
-    {
-      "id": "aa45cf5dfb55",
-      "title": "Which countries and industries emit the most greenhouse gases?",
-      "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T07:21:37+00:00"
-    },
-    {
-      "id": "1735547ff9d4",
-      "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
-      "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T07:12:09+00:00"
     },
     {
       "id": "8347c3f8af95",
@@ -202,24 +517,6 @@
       "publishedAt": "2026-11-09T07:10:11+00:00"
     },
     {
-      "id": "6f6834ae7320",
-      "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
-      "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T07:07:26+00:00"
-    },
-    {
-      "id": "2d19000e3798",
-      "title": "Poland mass shooting assailant dies in hospital, police say",
-      "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T07:03:24+00:00"
-    },
-    {
       "id": "6dfb07803fa4",
       "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
       "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-world-4025-rdf",
@@ -227,42 +524,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-09T06:53:00+00:00"
-    },
-    {
-      "id": "73c4b368e40f",
-      "title": "Why we disrupted Annalena Baerbock’s award speech",
-      "url": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T06:49:55+00:00"
-    },
-    {
-      "id": "b3531824c398",
-      "title": "What is next for Israel?",
-      "url": "https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T06:42:03+00:00"
-    },
-    {
-      "id": "6669911631ff",
-      "title": "How Israel’s separation wall compares with the Berlin Wall",
-      "url": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T06:32:18+00:00"
-    },
-    {
-      "id": "05dd15921453",
-      "title": "Lando Norris wins Sao Palo Grand Prix, but Mercedes seal constructors title",
-      "url": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T06:21:08+00:00"
     },
     {
       "id": "0d704b2c5295",
@@ -283,24 +544,6 @@
       "publishedAt": "2026-11-09T06:11:28+00:00"
     },
     {
-      "id": "9c434c001092",
-      "title": "Hot summers and soaring bills putting soft play centres at risk",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g11exqqwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-09T06:10:03+00:00"
-    },
-    {
-      "id": "b76a63ca5ce2",
-      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-09T06:01:52+00:00"
-    },
-    {
       "id": "12f162b3644c",
       "title": "Inside the French drug gangs recruiting children to kill",
       "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
@@ -317,42 +560,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-09T05:30:37+00:00"
-    },
-    {
-      "id": "e9ad257d5beb",
-      "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
-      "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T05:20:08+00:00"
-    },
-    {
-      "id": "e210834da65c",
-      "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
-      "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T05:18:39+00:00"
-    },
-    {
-      "id": "efb19bf985f4",
-      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
-      "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T05:02:19+00:00"
-    },
-    {
-      "id": "9dca4fcf60b8",
-      "title": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary",
-      "url": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-09T05:02:16+00:00"
     },
     {
       "id": "e67e1d9c0961",
@@ -373,15 +580,6 @@
       "publishedAt": "2026-11-09T00:09:14+00:00"
     },
     {
-      "id": "3340b42b7000",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T23:34:18+00:00"
-    },
-    {
       "id": "3c00a636e87e",
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
@@ -389,33 +587,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-08T22:05:12+00:00"
-    },
-    {
-      "id": "758129ee12ce",
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T21:37:36+00:00"
-    },
-    {
-      "id": "1069919706c8",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T19:58:02+00:00"
-    },
-    {
-      "id": "beefb22fa1c8",
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T17:51:03+00:00"
     },
     {
       "id": "98e867ce01e0",
@@ -443,33 +614,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-08T15:37:25+00:00"
-    },
-    {
-      "id": "67ce803de4cd",
-      "title": "Homes and temples glow across India to mark Diwali",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T14:42:09+00:00"
-    },
-    {
-      "id": "953dd5f93879",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T13:37:50+00:00"
-    },
-    {
-      "id": "6729df2677d6",
-      "title": "How the deadly shooting in Krakow unfolded",
-      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-08T09:29:24+00:00"
     },
     {
       "id": "4088e956e34a",
@@ -508,15 +652,6 @@
       "publishedAt": "2026-11-07T21:40:32+00:00"
     },
     {
-      "id": "691b7d4bba1d",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T21:36:16+00:00"
-    },
-    {
       "id": "134cc892a91f",
       "title": "Ebola: Why is there still no vaccine?",
       "url": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-world-4025-rdf",
@@ -535,15 +670,6 @@
       "publishedAt": "2026-11-07T19:56:00+00:00"
     },
     {
-      "id": "be598de6f5ea",
-      "title": "Paraguay's former president charged after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T19:17:22+00:00"
-    },
-    {
       "id": "345ae9a3ae32",
       "title": "Armenia's selective prosecution: A threat to EU relations?",
       "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-world-4025-rdf",
@@ -551,42 +677,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-07T18:36:00+00:00"
-    },
-    {
-      "id": "b7ba65c704ad",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T18:14:38+00:00"
-    },
-    {
-      "id": "b8e51085a95d",
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T17:58:41+00:00"
-    },
-    {
-      "id": "26814394bd58",
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T16:50:06+00:00"
-    },
-    {
-      "id": "3756bd77d3ea",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T15:19:35+00:00"
     },
     {
       "id": "921e36bf95d6",
@@ -607,15 +697,6 @@
       "publishedAt": "2026-11-07T14:38:00+00:00"
     },
     {
-      "id": "f8ad14f3dbbf",
-      "title": "After victory in the midterms, what next for US Democrats?",
-      "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-07T14:15:00+00:00"
-    },
-    {
       "id": "b9dcd2ec4985",
       "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
@@ -625,60 +706,6 @@
       "publishedAt": "2026-11-07T14:00:00+00:00"
     },
     {
-      "id": "4b2c83578e55",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T12:49:36+00:00"
-    },
-    {
-      "id": "e9f880c38325",
-      "title": "New Zealand election too close to call with over 95% of votes counted",
-      "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-07T11:54:00+00:00"
-    },
-    {
-      "id": "55817e315a75",
-      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
-      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-07T09:21:00+00:00"
-    },
-    {
-      "id": "50648477f294",
-      "title": "Amid protests, France's rising debt costs threaten stability",
-      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-07T08:16:00+00:00"
-    },
-    {
-      "id": "7af1d6929c51",
-      "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T08:15:55+00:00"
-    },
-    {
-      "id": "49308f565866",
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T07:27:44+00:00"
-    },
-    {
       "id": "81faa6c941ab",
       "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
       "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
@@ -686,78 +713,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-07T01:41:36+00:00"
-    },
-    {
-      "id": "836b457f205a",
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-07T01:27:47+00:00"
-    },
-    {
-      "id": "b2ba464dc311",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T23:24:15+00:00"
-    },
-    {
-      "id": "9b225e31f95f",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T21:49:50+00:00"
-    },
-    {
-      "id": "8d72e9082925",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T21:06:25+00:00"
-    },
-    {
-      "id": "01c9d29f2df6",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T18:32:16+00:00"
-    },
-    {
-      "id": "aeb658062a6f",
-      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T17:19:38+00:00"
-    },
-    {
-      "id": "ca5a231c35bd",
-      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T15:25:43+00:00"
-    },
-    {
-      "id": "fda7c9d67c35",
-      "title": "Workers' rights 'second place' to economic growth",
-      "url": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-06T14:52:49+00:00"
     }
   ],
   "topics": [
@@ -843,18 +798,16 @@
           ]
         }
       ],
-      "score": 40,
+      "score": 28,
       "evidenceIds": [
-        "303e2943991f",
-        "cdbc88a6590d",
-        "6f6834ae7320",
-        "953dd5f93879",
-        "b7ba65c704ad",
+        "378762c45f75",
+        "e75e63e6a0d1",
+        "d567b41d9be2",
         "aa99dccac573"
       ],
-      "articleCount": 6,
+      "articleCount": 4,
       "sourceCount": 3,
-      "stressHeadlines": 2,
+      "stressHeadlines": 1,
       "coverage": "çok kaynaklı"
     },
     {
@@ -935,12 +888,14 @@
           ]
         }
       ],
-      "score": 0,
-      "evidenceIds": [],
-      "articleCount": 0,
-      "sourceCount": 0,
+      "score": 6,
+      "evidenceIds": [
+        "04bae0a2e38e"
+      ],
+      "articleCount": 1,
+      "sourceCount": 1,
       "stressHeadlines": 0,
-      "coverage": "veri yok"
+      "coverage": "sınırlı"
     },
     {
       "id": "trade",
@@ -1023,14 +978,12 @@
           ]
         }
       ],
-      "score": 8,
-      "evidenceIds": [
-        "4db607a9ab8f"
-      ],
-      "articleCount": 1,
-      "sourceCount": 1,
+      "score": 0,
+      "evidenceIds": [],
+      "articleCount": 0,
+      "sourceCount": 0,
       "stressHeadlines": 0,
-      "coverage": "sınırlı"
+      "coverage": "veri yok"
     },
     {
       "id": "security",
@@ -1113,12 +1066,14 @@
           ]
         }
       ],
-      "score": 7,
+      "score": 24,
       "evidenceIds": [
-        "6f6834ae7320"
+        "858318871984",
+        "7b917d20a5df",
+        "e75e63e6a0d1"
       ],
-      "articleCount": 1,
-      "sourceCount": 1,
+      "articleCount": 3,
+      "sourceCount": 2,
       "stressHeadlines": 0,
       "coverage": "sınırlı"
     },
@@ -1204,14 +1159,13 @@
           ]
         }
       ],
-      "score": 14,
+      "score": 12,
       "evidenceIds": [
-        "e210834da65c",
-        "efb19bf985f4"
+        "9c7e0859a535"
       ],
-      "articleCount": 2,
+      "articleCount": 1,
       "sourceCount": 1,
-      "stressHeadlines": 0,
+      "stressHeadlines": 1,
       "coverage": "sınırlı"
     }
   ],
@@ -1922,14 +1876,6 @@
       "sourceUrl": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
       "points": [
         {
-          "date": "2026-08-10",
-          "value": 47.695
-        },
-        {
-          "date": "2026-08-11",
-          "value": 47.7267
-        },
-        {
           "date": "2026-08-12",
           "value": 47.7577
         },
@@ -2180,16 +2126,20 @@
         {
           "date": "2026-11-06",
           "value": 50.1529
+        },
+        {
+          "date": "2026-11-09",
+          "value": 50.1384
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-09T11:42:02+00:00",
+      "fetchedAt": "2026-11-09T22:26:52+00:00",
       "latest": {
-        "date": "2026-11-06",
-        "value": 50.1529
+        "date": "2026-11-09",
+        "value": 50.1384
       },
       "stale": false,
-      "change": 0.1058
+      "change": -0.0145
     }
   ],
   "feeds": [
@@ -2198,31 +2148,31 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-09T11:42:02+00:00",
-      "count": 31
+      "checkedAt": "2026-11-09T22:26:52+00:00",
+      "count": 26
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-09T11:42:02+00:00",
-      "count": 20
+      "checkedAt": "2026-11-09T22:26:52+00:00",
+      "count": 19
     },
     {
       "id": "dw",
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-09T11:42:02+00:00",
-      "count": 11
+      "checkedAt": "2026-11-09T22:26:52+00:00",
+      "count": 12
     },
     {
       "id": "aljazeera",
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-09T11:42:02+00:00",
+      "checkedAt": "2026-11-09T22:26:52+00:00",
       "count": 25
     },
     {
@@ -2230,143 +2180,55 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-09T11:42:02+00:00",
+      "checkedAt": "2026-11-09T22:26:52+00:00",
       "count": 1
     }
   ],
   "analysis": {
-    "summary": "Enerji arzında kesinti yaşanırsa petrol fiyatları ve taşımacılık maliyetleri artabilir. Deniz geçişi bozulması, ithalat maliyetini yükseltebilir ve cari açı üzerinde baskı oluşturabilir.",
+    "summary": "Arz kesilirse ithalat maliyeti artabilir; deniz geçişi tehlikesindeyse petrol fiyatları ve taşımacılık maliyetleri yükselir.",
     "notes": [
       {
         "topic": "energy",
-        "text": "Enerji arzında kesinti yaşanırsa petrol fiyatları ve taşımacılık maliyetleri artabilir. Deniz geçişi bozulması, ithalat maliyetini yükseltebilir ve cari açı üzerinde baskı oluşturabilir.",
+        "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
         "evidenceIds": [
-          "303e2943991f",
-          "cdbc88a6590d",
-          "6f6834ae7320",
-          "953dd5f93879",
-          "b7ba65c704ad"
+          "378762c45f75",
+          "e75e63e6a0d1",
+          "d567b41d9be2",
+          "aa99dccac573"
         ]
       },
       {
-        "topic": "trade",
-        "text": "Tedarik zincirinde bozulma yaşanırsa ithalat maliyetleri ve fiyatlar artabilir.",
+        "topic": "rates",
+        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
         "evidenceIds": [
-          "4db607a9ab8f"
+          "04bae0a2e38e"
         ]
       },
       {
         "topic": "security",
-        "text": "Çatışma yoğunlaşırsa enerji ve deniz taşıma rotalarında kesinti riski artabilir.",
+        "text": "Republican lawmaker moves to impeach US Defense Secretary Hegseth; çatışma riski enerji tedarik rotalarını etkileyebilir.",
         "evidenceIds": [
-          "6f6834ae7320"
+          "858318871984",
+          "7b917d20a5df",
+          "e75e63e6a0d1"
         ]
       },
       {
         "topic": "climate",
-        "text": "İklimsel olaylar tarımsal üretimi etkileyebilir ve gıda fiyatlarını yükseltebilir.",
+        "text": "COP31 opens amid energy crisis as activists demand climate action; uzun vadeli tedarik stratejilerine iklim faktörleri entegre edilebilir.",
         "evidenceIds": [
-          "e210834da65c",
-          "efb19bf985f4"
+          "9c7e0859a535"
         ]
       }
     ],
-    "editorial": {
-      "leadTopic": "energy",
-      "headline": "Enerji gündemi maliyet beklentilerini öne çıkarıyor",
-      "summary": "Enerji arzındaki belirsizlik, petrol fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yansımaya devam ediyor. Maliyet baskısının enflasyon ve cari dengeyi etkilemesi bekleniyor.",
-      "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
-      "timeline": [
-        {
-          "id": "near",
-          "label": "KISA VADE",
-          "range": "İlk 2 hafta",
-          "title": "İlk baskı enerji ve taşımacılıkta",
-          "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
-          "tags": [
-            "Enerji maliyeti",
-            "Enflasyon baskısı"
-          ]
-        },
-        {
-          "id": "medium",
-          "label": "ORTA VADE",
-          "range": "2 hafta – 3 ay",
-          "title": "Maliyetler enflasyona yayılabilir",
-          "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
-          "tags": [
-            "Enflasyon baskısı",
-            "Tedarik baskısı"
-          ]
-        },
-        {
-          "id": "long",
-          "label": "UZUN VADE",
-          "range": "3 – 12 ay",
-          "title": "Tedarik güvenliği öne çıkacak",
-          "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
-          "tags": [
-            "Tedarik baskısı",
-            "Finansman baskısı"
-          ]
-        }
-      ],
-      "watch": [
-        "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti",
-        "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi",
-        "Diplomatik gerilimi azaltan veya artıran somut adımlar"
-      ],
-      "evidenceIds": [
-        "303e2943991f",
-        "cdbc88a6590d",
-        "6f6834ae7320",
-        "953dd5f93879",
-        "b7ba65c704ad"
-      ],
-      "events": [
-        {
-          "evidenceId": "4db607a9ab8f",
-          "headline": "Rusya ve Ukrayna geceleyici saldırılarında en az dört kişi öldü"
-        },
-        {
-          "evidenceId": "303e2943991f",
-          "headline": "İran yetkilileri ABD saldırı tehditleri karşısında iç güvenlik kontrollerini sıkılaştırıyor"
-        },
-        {
-          "evidenceId": "cdbc88a6590d",
-          "headline": "Katar Başbakanı Trump ile buluşacak: ABD-İran müzakereleri hakkında en son durum"
-        },
-        {
-          "evidenceId": "6f6834ae7320",
-          "headline": "ABD-İsrail'in İran'a yönelik savaşında yakalanan denizciler kimler?"
-        },
-        {
-          "evidenceId": "e210834da65c",
-          "headline": "'Çadırlar bizi korumaz': Gazze'de yağmur sığınaklı Filistinlileri sel vurdu"
-        },
-        {
-          "evidenceId": "efb19bf985f4",
-          "headline": "Türkiye iklim gündeminde elektrifikasyonu ön plana çıkarıyor, COP31 açılışına hazırlanıyor"
-        },
-        {
-          "evidenceId": "953dd5f93879",
-          "headline": "İran Ocak ayaklanması sonrası 'silahlı ayaklanma' suçuyla üç erkeği idam etti"
-        },
-        {
-          "evidenceId": "b7ba65c704ad",
-          "headline": "ABD, İran'ın nükleer programı hakkında bilgi verenlere 20 milyon dolar ödül teklif etti"
-        }
-      ],
-      "origin": "free-ai"
-    },
     "status": "ok",
     "provider": "OpenRouter Free",
-    "model": "nvidia/nemotron-3.5-super-vl:free",
-    "generatedAt": "2026-11-09T11:42:02+00:00",
-    "fingerprint": "d73fe6656ee74c9de497fa3f9683631ef9a444f950a9f12b10c3ba903ace8f8f",
+    "model": "nvidia/nemotron-3.5-lightning:free",
+    "generatedAt": "2026-11-09T22:26:52+00:00",
+    "fingerprint": "07b54028546a397569f8165ed42f020aba93b8161fc029e62d3c5950c2440188",
     "requestedModel": "nvidia/nemotron-3.5-lightning:free",
     "usage": {
-      "totalTokens": 3351,
+      "totalTokens": 3044,
       "cost": 0
     }
   },
@@ -2418,19 +2280,19 @@
     {
       "date": "2026-11-09",
       "scores": {
-        "energy": 40,
-        "rates": 0,
-        "trade": 8,
-        "security": 7,
-        "climate": 14
+        "energy": 28,
+        "rates": 6,
+        "trade": 0,
+        "security": 24,
+        "climate": 12
       },
-      "articleCount": 84
+      "articleCount": 79
     }
   ],
   "editorial": {
     "leadTopic": "energy",
-    "headline": "Enerji gündemi maliyet beklentilerini öne çıkarıyor",
-    "summary": "Enerji arzındaki belirsizlik, petrol fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yansımaya devam ediyor. Maliyet baskısının enflasyon ve cari dengeyi etkilemesi bekleniyor.",
+    "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
+    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
     "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
     "timeline": [
       {
@@ -2468,52 +2330,18 @@
       }
     ],
     "watch": [
-      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti",
-      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi",
-      "Diplomatik gerilimi azaltan veya artıran somut adımlar"
+      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
+      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
+      "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "303e2943991f",
-      "cdbc88a6590d",
-      "6f6834ae7320",
-      "953dd5f93879",
-      "b7ba65c704ad"
+      "378762c45f75",
+      "e75e63e6a0d1",
+      "d567b41d9be2",
+      "aa99dccac573"
     ],
-    "events": [
-      {
-        "evidenceId": "4db607a9ab8f",
-        "headline": "Rusya ve Ukrayna geceleyici saldırılarında en az dört kişi öldü"
-      },
-      {
-        "evidenceId": "303e2943991f",
-        "headline": "İran yetkilileri ABD saldırı tehditleri karşısında iç güvenlik kontrollerini sıkılaştırıyor"
-      },
-      {
-        "evidenceId": "cdbc88a6590d",
-        "headline": "Katar Başbakanı Trump ile buluşacak: ABD-İran müzakereleri hakkında en son durum"
-      },
-      {
-        "evidenceId": "6f6834ae7320",
-        "headline": "ABD-İsrail'in İran'a yönelik savaşında yakalanan denizciler kimler?"
-      },
-      {
-        "evidenceId": "e210834da65c",
-        "headline": "'Çadırlar bizi korumaz': Gazze'de yağmur sığınaklı Filistinlileri sel vurdu"
-      },
-      {
-        "evidenceId": "efb19bf985f4",
-        "headline": "Türkiye iklim gündeminde elektrifikasyonu ön plana çıkarıyor, COP31 açılışına hazırlanıyor"
-      },
-      {
-        "evidenceId": "953dd5f93879",
-        "headline": "İran Ocak ayaklanması sonrası 'silahlı ayaklanma' suçuyla üç erkeği idam etti"
-      },
-      {
-        "evidenceId": "b7ba65c704ad",
-        "headline": "ABD, İran'ın nükleer programı hakkında bilgi verenlere 20 milyon dolar ödül teklif etti"
-      }
-    ],
-    "origin": "free-ai"
+    "events": [],
+    "origin": "rules"
   },
   "methodologyVersion": "1.0",
   "forecastStatus": "uncalibrated-scenarios",
