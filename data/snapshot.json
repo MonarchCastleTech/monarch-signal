@@ -1,16 +1,196 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T17:49:10+00:00",
+  "generatedAt": "2026-11-13T23:38:51+00:00",
   "windowHours": 72,
   "articles": [
     {
-      "id": "ae25152ee718",
-      "title": "The dangers of revising Europe's security architecture",
-      "url": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-world-4025-rdf",
+      "id": "ebf9d86ad0b0",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-13T23:00:31+00:00"
+    },
+    {
+      "id": "3720529b60cf",
+      "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+      "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T22:47:16+00:00"
+    },
+    {
+      "id": "8fa796f5016e",
+      "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T22:02:07+00:00"
+    },
+    {
+      "id": "706b1608b1a0",
+      "title": "FAA grounds US flights nationwide after ‘communication issue’",
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T21:32:08+00:00"
+    },
+    {
+      "id": "29dd618b519d",
+      "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+      "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
       "source": "DW",
       "sourceId": "dw",
       "domain": "dw.com",
-      "publishedAt": "2026-11-13T17:30:00+00:00"
+      "publishedAt": "2026-11-13T21:31:00+00:00"
+    },
+    {
+      "id": "db67b4f4eace",
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-13T21:15:24+00:00"
+    },
+    {
+      "id": "a61501fbc50a",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-13T21:14:22+00:00"
+    },
+    {
+      "id": "0cc82106b9ee",
+      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T20:52:31+00:00"
+    },
+    {
+      "id": "95ae1790812d",
+      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T20:48:02+00:00"
+    },
+    {
+      "id": "10c882047b4d",
+      "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T20:32:42+00:00"
+    },
+    {
+      "id": "3c8db41c6a48",
+      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+      "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T20:28:20+00:00"
+    },
+    {
+      "id": "ad3a713f385c",
+      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+      "url": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T20:18:09+00:00"
+    },
+    {
+      "id": "deaf811e2a09",
+      "title": "Microsoft says services still returning amid widespread outage",
+      "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T20:16:13+00:00"
+    },
+    {
+      "id": "6be513f65c38",
+      "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+      "url": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T20:12:34+00:00"
+    },
+    {
+      "id": "6756af101ccd",
+      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-13T20:12:02+00:00"
+    },
+    {
+      "id": "49b7f4e09f25",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-13T19:53:57+00:00"
+    },
+    {
+      "id": "7abb7aba741c",
+      "title": "Migrants risk deadly route to Spain’s Canary Islands",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T19:23:40+00:00"
+    },
+    {
+      "id": "f6a74acdde7a",
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T19:23:05+00:00"
+    },
+    {
+      "id": "9ef83166d516",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-13T19:03:10+00:00"
+    },
+    {
+      "id": "f121c0229767",
+      "title": "How will the US deal with Nvidia scandal?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T18:57:43+00:00"
+    },
+    {
+      "id": "5bc7d4c5388b",
+      "title": "At least 10 killed in Guinea clashes over gold mining ban",
+      "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T18:44:45+00:00"
     },
     {
       "id": "a7179ac49944",
@@ -19,7 +199,70 @@
       "source": "BBC World",
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T17:12:46+00:00"
+      "publishedAt": "2026-11-13T18:36:57+00:00"
+    },
+    {
+      "id": "841377b7806a",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-13T18:34:45+00:00"
+    },
+    {
+      "id": "db8a111a749d",
+      "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T18:28:03+00:00"
+    },
+    {
+      "id": "8289e0c86361",
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T18:09:05+00:00"
+    },
+    {
+      "id": "d94b4112b6a6",
+      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+      "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T18:04:22+00:00"
+    },
+    {
+      "id": "19fff1a24517",
+      "title": "Are board games making a comeback this Christmas?",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-13T18:00:40+00:00"
+    },
+    {
+      "id": "f879249929bd",
+      "title": "No emails, no problem? Workers joke about Microsoft outage",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-13T17:55:05+00:00"
+    },
+    {
+      "id": "ae25152ee718",
+      "title": "The dangers of revising Europe's security architecture",
+      "url": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-13T17:30:00+00:00"
     },
     {
       "id": "9da1a9691f37",
@@ -103,24 +346,6 @@
       "publishedAt": "2026-11-13T15:49:51+00:00"
     },
     {
-      "id": "9ef83166d516",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T15:48:07+00:00"
-    },
-    {
-      "id": "075f207cf9b1",
-      "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
-      "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T15:43:39+00:00"
-    },
-    {
       "id": "f4aab3e216f3",
       "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
       "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
@@ -128,15 +353,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-13T15:42:52+00:00"
-    },
-    {
-      "id": "49b7f4e09f25",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T15:40:08+00:00"
     },
     {
       "id": "dfce4a53e7c3",
@@ -184,15 +400,6 @@
       "publishedAt": "2026-11-13T15:09:40+00:00"
     },
     {
-      "id": "83b6b6fee696",
-      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-      "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T15:02:16+00:00"
-    },
-    {
       "id": "0451bf449bfd",
       "title": "Indonesia's wiretapping scandal opens a political fault line",
       "url": "https://www.dw.com/en/indonesia-s-wiretapping-scandal-opens-a-political-fault-line/a-79939753?maca=en-rss-en-world-4025-rdf",
@@ -200,24 +407,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-13T14:29:00+00:00"
-    },
-    {
-      "id": "d378163236f7",
-      "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
-      "url": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T14:18:25+00:00"
-    },
-    {
-      "id": "094f0508f3dd",
-      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
-      "url": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T14:16:20+00:00"
     },
     {
       "id": "bc03c21ca07a",
@@ -229,94 +418,13 @@
       "publishedAt": "2026-11-13T14:16:09+00:00"
     },
     {
-      "id": "5d2fca14487d",
-      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-      "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T14:15:52+00:00"
-    },
-    {
-      "id": "f420e4d52a37",
-      "title": "China warns against fresh US chip curbs",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T13:42:49+00:00"
-    },
-    {
-      "id": "00c04b1d51fa",
-      "title": "Nvidia scandal: What’s next for the US tech company?",
-      "url": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T13:36:19+00:00"
-    },
-    {
-      "id": "edcdf259d242",
-      "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T13:19:26+00:00"
-    },
-    {
-      "id": "f3a0a31ada62",
-      "title": "Kenyan building collapse near Nairobi kills six people",
-      "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T13:11:24+00:00"
-    },
-    {
-      "id": "55c15e184d57",
-      "title": "Delhi overtakes Lahore as world’s most polluted city",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T13:11:08+00:00"
-    },
-    {
-      "id": "062d77153023",
-      "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-      "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T12:57:08+00:00"
-    },
-    {
-      "id": "08d4fa257b79",
-      "title": "You haven’t got mail: Global Microsoft outage disrupts services",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T12:40:11+00:00"
-    },
-    {
-      "id": "f3c59a576e41",
-      "title": "Mauricio Pochettino announced as new Manchester United manager",
-      "url": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T12:39:34+00:00"
-    },
-    {
-      "id": "eedc1e671f80",
-      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "id": "c2fa4e9e3773",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T12:28:28+00:00"
+      "publishedAt": "2026-11-13T13:11:23+00:00"
     },
     {
       "id": "10f78cdc2264",
@@ -337,42 +445,6 @@
       "publishedAt": "2026-11-13T12:22:30+00:00"
     },
     {
-      "id": "f75fe061895a",
-      "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-      "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T12:06:56+00:00"
-    },
-    {
-      "id": "ae2bb8191cd8",
-      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-      "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T11:59:34+00:00"
-    },
-    {
-      "id": "8a674a894bb8",
-      "title": "India cancels visa of Norwegian journalist who questioned Modi",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T11:54:08+00:00"
-    },
-    {
-      "id": "a6e9dec7110e",
-      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-      "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T11:51:57+00:00"
-    },
-    {
       "id": "803535c4dcf7",
       "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
       "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
@@ -389,24 +461,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-13T11:38:54+00:00"
-    },
-    {
-      "id": "d9493b6c3620",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T11:37:08+00:00"
-    },
-    {
-      "id": "40604ce7f0e2",
-      "title": "Microsoft outage updates: Outlook, Teams recover as disruptions continue",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-13T11:18:01+00:00"
     },
     {
       "id": "a8a6020c54fc",
@@ -488,15 +542,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-13T06:21:34+00:00"
-    },
-    {
-      "id": "22a6a841b63b",
-      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T06:12:20+00:00"
     },
     {
       "id": "ca3a29db9a37",
@@ -607,15 +652,6 @@
       "publishedAt": "2026-11-12T20:21:03+00:00"
     },
     {
-      "id": "346cce68a01b",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-12T18:47:35+00:00"
-    },
-    {
       "id": "856c99598d6f",
       "title": "Can the EU make it harder to trick consumers online?",
       "url": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-world-4025-rdf",
@@ -634,24 +670,6 @@
       "publishedAt": "2026-11-12T17:11:48+00:00"
     },
     {
-      "id": "89b8a9b8f641",
-      "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-      "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-12T16:44:00+00:00"
-    },
-    {
-      "id": "2ab27d7c61c7",
-      "title": "Hungary eases abortion restrictions in women's rights overhaul",
-      "url": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-12T16:13:00+00:00"
-    },
-    {
       "id": "32d9a25b04c4",
       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
       "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
@@ -668,15 +686,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-12T14:29:59+00:00"
-    },
-    {
-      "id": "ab8e563fcf93",
-      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-12T14:12:55+00:00"
     },
     {
       "id": "8576c3bde84f",
@@ -706,15 +715,6 @@
       "publishedAt": "2026-11-12T11:20:25+00:00"
     },
     {
-      "id": "c989fb6d5f64",
-      "title": "Are branded cold and flu tablets really worth the extra money?",
-      "url": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-12T06:17:06+00:00"
-    },
-    {
       "id": "bbef14e746ca",
       "title": "Gas bills to rise as Middle East turmoil persists",
       "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
@@ -742,15 +742,6 @@
       "publishedAt": "2026-11-11T21:43:35+00:00"
     },
     {
-      "id": "97e9c547ff1a",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-11T09:28:36+00:00"
-    },
-    {
       "id": "00e70634b07e",
       "title": "Christmas toy rush being driven by squishies and building sets",
       "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
@@ -767,24 +758,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-11T00:19:13+00:00"
-    },
-    {
-      "id": "95c1566b9198",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-10T22:52:15+00:00"
-    },
-    {
-      "id": "09c95ffbdb04",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-10T17:56:12+00:00"
     }
   ],
   "topics": [
@@ -870,18 +843,19 @@
           ]
         }
       ],
-      "score": 45,
+      "score": 51,
       "evidenceIds": [
+        "3720529b60cf",
+        "29dd618b519d",
+        "f6a74acdde7a",
+        "8289e0c86361",
         "867628d0d14c",
-        "6a6890129eef",
-        "094f0508f3dd",
-        "eedc1e671f80",
-        "a6e9dec7110e"
+        "6a6890129eef"
       ],
-      "articleCount": 5,
-      "sourceCount": 3,
+      "articleCount": 6,
+      "sourceCount": 2,
       "stressHeadlines": 2,
-      "coverage": "çok kaynaklı"
+      "coverage": "sınırlı"
     },
     {
       "id": "rates",
@@ -1137,20 +1111,19 @@
           ]
         }
       ],
-      "score": 53,
+      "score": 47,
       "evidenceIds": [
+        "95ae1790812d",
+        "8289e0c86361",
         "3a42beb57e30",
         "867628d0d14c",
         "7d93c5c4e4f3",
-        "5d2fca14487d",
-        "ae2bb8191cd8",
         "03b1cc153f61",
-        "432ede6f7e77",
-        "346cce68a01b"
+        "432ede6f7e77"
       ],
-      "articleCount": 8,
+      "articleCount": 7,
       "sourceCount": 2,
-      "stressHeadlines": 0,
+      "stressHeadlines": 1,
       "coverage": "sınırlı"
     },
     {
@@ -2211,7 +2184,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-13T17:49:10+00:00",
+      "fetchedAt": "2026-11-13T23:38:51+00:00",
       "latest": {
         "date": "2026-11-13",
         "value": 50.368
@@ -2226,7 +2199,7 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-13T17:49:10+00:00",
+      "checkedAt": "2026-11-13T23:38:51+00:00",
       "count": 25
     },
     {
@@ -2234,23 +2207,23 @@
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-13T17:49:10+00:00",
-      "count": 27
+      "checkedAt": "2026-11-13T23:38:51+00:00",
+      "count": 26
     },
     {
       "id": "dw",
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-13T17:49:10+00:00",
-      "count": 13
+      "checkedAt": "2026-11-13T23:38:51+00:00",
+      "count": 12
     },
     {
       "id": "aljazeera",
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-13T17:49:10+00:00",
+      "checkedAt": "2026-11-13T23:38:51+00:00",
       "count": 25
     },
     {
@@ -2258,19 +2231,59 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-13T17:49:10+00:00",
+      "checkedAt": "2026-11-13T23:38:51+00:00",
       "count": 1
     }
   ],
   "analysis": {
-    "status": "unavailable",
-    "provider": null,
-    "model": null,
-    "summary": "",
-    "notes": [],
-    "generatedAt": "2026-11-13T17:49:10+00:00",
-    "fingerprint": "cee5bddfb9191c2e1f74b159b6c56fdb56dc0d1ef0cf79bbdd3f4462e72e02c0",
-    "reason": "Ücretsiz AI servisi HTTP 400 döndürdü; kural modeli kullanılıyor."
+    "summary": "Arz kesilirse ithalat maliyeti artabilir. Deniz geçişi kesintisi olursa petrol fiyatları ve taşımacılık maliyetleri yükselir.",
+    "notes": [
+      {
+        "topic": "energy",
+        "text": "Arz kesilirse ithalat maliyeti artabilir.",
+        "evidenceIds": [
+          "3720529b60cf"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "Deniz geçişi kesintisi olursa petrol fiyatları ve taşımacılık maliyetleri yükselir.",
+        "evidenceIds": [
+          "29dd618b519d"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "Suçlu gemide yangın çıkarılarak deniz geçişi engellenirse, petrol fiyatları ve ithalat maliyetleri hızla artabilir.",
+        "evidenceIds": [
+          "f6a74acdde7a"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "Enerji alanda askeri gösteriş ve missile gösterileri, bölgesel belirsizliği artırarak piyasa tepkisini volatil yapabilir.",
+        "evidenceIds": [
+          "8289e0c86361"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "US Treasury uyarısı, Iran-Iran savaş koşullarında enerji şokunun maliyet ve cari açık üzerindeki etkisini hatırlatıyor.",
+        "evidenceIds": [
+          "867628d0d14c"
+        ]
+      }
+    ],
+    "status": "ok",
+    "provider": "OpenRouter Free",
+    "model": "nvidia/nemotron-3.5-lightning:free",
+    "generatedAt": "2026-11-13T23:38:51+00:00",
+    "fingerprint": "0d1fa5b3508f2f8249773d9215457b4a3262dd4db9fa59d1d1780200690f70af",
+    "requestedModel": "nvidia/nemotron-3.5-lightning:free",
+    "usage": {
+      "totalTokens": 3116,
+      "cost": 0
+    }
   },
   "history": [
     {
@@ -2364,13 +2377,13 @@
     {
       "date": "2026-11-13",
       "scores": {
-        "energy": 45,
+        "energy": 51,
         "rates": 0,
         "trade": 0,
-        "security": 53,
+        "security": 47,
         "climate": 0
       },
-      "articleCount": 87
+      "articleCount": 84
     }
   ],
   "editorial": {
@@ -2419,11 +2432,12 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
+      "3720529b60cf",
+      "29dd618b519d",
+      "f6a74acdde7a",
+      "8289e0c86361",
       "867628d0d14c",
-      "6a6890129eef",
-      "094f0508f3dd",
-      "eedc1e671f80",
-      "a6e9dec7110e"
+      "6a6890129eef"
     ],
     "events": [],
     "origin": "rules"
