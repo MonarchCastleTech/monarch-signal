@@ -1,8 +1,170 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T19:14:48+00:00",
+  "generatedAt": "2026-11-14T23:04:50+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "570757e68243",
+      "title": "Explosion near Syria’s capital kills father and child",
+      "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T22:43:12+00:00"
+    },
+    {
+      "id": "45c521b7aced",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-14T22:37:25+00:00"
+    },
+    {
+      "id": "8e8be93995d3",
+      "title": "Palestinian stories set for major presence at 2027 Oscars",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T22:28:47+00:00"
+    },
+    {
+      "id": "ffe115de55f1",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-14T22:09:40+00:00"
+    },
+    {
+      "id": "9456a8136dfc",
+      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+      "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T22:00:45+00:00"
+    },
+    {
+      "id": "d86a0621a211",
+      "title": "US flights resume after ageing technology blamed for outage",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T21:36:19+00:00"
+    },
+    {
+      "id": "6a0dd896a9e1",
+      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T21:10:26+00:00"
+    },
+    {
+      "id": "e1618bd315dd",
+      "title": "Nigeria's upcoming election marred by rising AI disinformation",
+      "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-14T21:05:00+00:00"
+    },
+    {
+      "id": "0e43f1d33817",
+      "title": "Fact check: 'Iranian' content farms reach millions",
+      "url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-14T20:26:00+00:00"
+    },
+    {
+      "id": "fdb68417927b",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-14T20:23:06+00:00"
+    },
+    {
+      "id": "f2af24e97e84",
+      "title": "India’s Assam state demolishes homes of 132 Muslim families",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T20:14:10+00:00"
+    },
+    {
+      "id": "f4aa784a106a",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-14T20:03:48+00:00"
+    },
+    {
+      "id": "6685300ab2b0",
+      "title": "Can being ‘non-Western’ cost you your home in Denmark?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T19:52:49+00:00"
+    },
+    {
+      "id": "880c7c48e618",
+      "title": "Deadly car bomb blast kills two near Syria’s capital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T19:46:36+00:00"
+    },
+    {
+      "id": "386fd4776199",
+      "title": "More than 100,000 rally across France in new Yellow Vest protests",
+      "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T19:46:24+00:00"
+    },
+    {
+      "id": "10c4c2655e2c",
+      "title": "Tens of thousands march in latest Portugal housing protests",
+      "url": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T19:27:55+00:00"
+    },
+    {
+      "id": "f523e905abb8",
+      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+      "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T19:20:11+00:00"
+    },
+    {
+      "id": "db67b4f4eace",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-14T19:14:33+00:00"
+    },
     {
       "id": "5bfebd58b944",
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -11,15 +173,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-14T19:12:25+00:00"
-    },
-    {
-      "id": "f4aa784a106a",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-14T19:00:16+00:00"
     },
     {
       "id": "43fa983c10db",
@@ -95,7 +248,7 @@
     },
     {
       "id": "6cf3f11b4557",
-      "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+      "title": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
@@ -157,15 +310,6 @@
       "publishedAt": "2026-11-14T15:36:37+00:00"
     },
     {
-      "id": "45c521b7aced",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-14T15:15:57+00:00"
-    },
-    {
       "id": "b1c78befbdfa",
       "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
       "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
@@ -211,96 +355,6 @@
       "publishedAt": "2026-11-14T14:24:36+00:00"
     },
     {
-      "id": "6756af101ccd",
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-14T14:18:41+00:00"
-    },
-    {
-      "id": "4a345f146941",
-      "title": "Young musicians connect a community across the Line of Control",
-      "url": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T13:56:07+00:00"
-    },
-    {
-      "id": "6ca2fdbf0d79",
-      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-      "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T13:24:44+00:00"
-    },
-    {
-      "id": "c46135f22e61",
-      "title": "Spain vs England: UEFA Nations League – predictions, how to watch, teams",
-      "url": "https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T13:03:06+00:00"
-    },
-    {
-      "id": "6882f38b32ca",
-      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-      "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T12:57:36+00:00"
-    },
-    {
-      "id": "4e12826d442a",
-      "title": "Green turtles move from ‘endangered’ to ‘least concern’ status",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/green-turtles-move-from-endangered-to-least-concern-status?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T12:53:18+00:00"
-    },
-    {
-      "id": "50d51dac0cff",
-      "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
-      "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T12:49:17+00:00"
-    },
-    {
-      "id": "064904503ab7",
-      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T12:28:19+00:00"
-    },
-    {
-      "id": "536f0b28a8ec",
-      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T12:14:14+00:00"
-    },
-    {
-      "id": "376579a718d8",
-      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-      "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T11:43:06+00:00"
-    },
-    {
       "id": "17ea05d7ca0f",
       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
@@ -310,15 +364,6 @@
       "publishedAt": "2026-11-14T11:40:00+00:00"
     },
     {
-      "id": "db67b4f4eace",
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-14T11:30:10+00:00"
-    },
-    {
       "id": "c731be0f2b99",
       "title": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
       "url": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-world-4025-rdf",
@@ -326,24 +371,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-14T11:24:00+00:00"
-    },
-    {
-      "id": "a266871cc281",
-      "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
-      "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T11:14:18+00:00"
-    },
-    {
-      "id": "282b9dabff9f",
-      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-      "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T11:00:39+00:00"
     },
     {
       "id": "412d1643733c",
@@ -380,15 +407,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-14T08:13:40+00:00"
-    },
-    {
-      "id": "d58e239555ba",
-      "title": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
-      "url": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-14T07:54:00+00:00"
     },
     {
       "id": "f182d9df4677",
@@ -481,15 +499,6 @@
       "publishedAt": "2026-11-14T00:03:52+00:00"
     },
     {
-      "id": "fdb68417927b",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T23:40:45+00:00"
-    },
-    {
       "id": "27f615305efd",
       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
       "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
@@ -578,15 +587,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-13T15:37:00+00:00"
-    },
-    {
-      "id": "6a6890129eef",
-      "title": "Iran targeted US radar system in Bahrain",
-      "url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-13T15:32:00+00:00"
     },
     {
       "id": "891f06b10a24",
@@ -852,17 +852,15 @@
           ]
         }
       ],
-      "score": 22,
+      "score": 12,
       "evidenceIds": [
-        "6ca2fdbf0d79",
         "db67b4f4eace",
-        "29dd618b519d",
-        "6a6890129eef"
+        "29dd618b519d"
       ],
-      "articleCount": 4,
-      "sourceCount": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
       "stressHeadlines": 0,
-      "coverage": "çok kaynaklı"
+      "coverage": "sınırlı"
     },
     {
       "id": "rates",
@@ -1118,18 +1116,15 @@
           ]
         }
       ],
-      "score": 53,
+      "score": 30,
       "evidenceIds": [
+        "45c521b7aced",
         "cb71e3d7127d",
         "e5153fc87d08",
-        "45c521b7aced",
-        "6882f38b32ca",
-        "376579a718d8",
         "c731be0f2b99",
-        "282b9dabff9f",
         "432ede6f7e77"
       ],
-      "articleCount": 8,
+      "articleCount": 5,
       "sourceCount": 3,
       "stressHeadlines": 0,
       "coverage": "çok kaynaklı"
@@ -1216,7 +1211,7 @@
           ]
         }
       ],
-      "score": 8,
+      "score": 7,
       "evidenceIds": [
         "5f86c2781d9e"
       ],
@@ -2194,7 +2189,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-14T19:14:48+00:00",
+      "fetchedAt": "2026-11-14T23:04:50+00:00",
       "latest": {
         "date": "2026-11-13",
         "value": 50.368
@@ -2209,7 +2204,7 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-14T19:14:48+00:00",
+      "checkedAt": "2026-11-14T23:04:50+00:00",
       "count": 23
     },
     {
@@ -2217,7 +2212,7 @@
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-14T19:14:48+00:00",
+      "checkedAt": "2026-11-14T23:04:50+00:00",
       "count": 24
     },
     {
@@ -2225,7 +2220,7 @@
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-14T19:14:48+00:00",
+      "checkedAt": "2026-11-14T23:04:50+00:00",
       "count": 13
     },
     {
@@ -2233,7 +2228,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-14T19:14:48+00:00",
+      "checkedAt": "2026-11-14T23:04:50+00:00",
       "count": 25
     },
     {
@@ -2241,32 +2236,36 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-14T19:14:48+00:00",
+      "checkedAt": "2026-11-14T23:04:50+00:00",
       "count": 1
     }
   ],
   "analysis": {
-    "summary": "Arz kesilirse ithalat maliyeti artabilir; diplomatik gerilim yükselirse petrol fiyatları ve taşımacılık maliyetleri artabilir.",
+    "summary": "Arz kesilirse ithalat maliyeti artabilir. Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz.",
     "notes": [
       {
         "topic": "energy",
-        "text": "Arz kesilirse ithalat maliyeti artabilir; diplomatik gerilim yükselirse petrol fiyatları ve taşımacılık maliyetleri artabilir.",
+        "text": "Arz kesilirse ithalat maliyeti artabilir.",
         "evidenceIds": [
-          "6ca2fdbf0d79",
-          "db67b4f4eace",
-          "29dd618b519d",
-          "6a6890129eef"
+          "db67b4f4eace"
+        ]
+      },
+      {
+        "topic": "energy",
+        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz.",
+        "evidenceIds": [
+          "29dd618b519d"
         ]
       }
     ],
     "status": "ok",
     "provider": "OpenRouter Free",
     "model": "nvidia/nemotron-3.5-lightning:free",
-    "generatedAt": "2026-11-14T19:14:48+00:00",
-    "fingerprint": "50494cf17901995093d58a81471398e66cc949febd5e5b1dc8f965508bd79801",
+    "generatedAt": "2026-11-14T23:04:50+00:00",
+    "fingerprint": "8c900fa56f467de0dd4e8218bcdb4c6be98036d25b7b9992e6bcb48fba8bebbe",
     "requestedModel": "nvidia/nemotron-3.5-lightning:free",
     "usage": {
-      "totalTokens": 3111,
+      "totalTokens": 2775,
       "cost": 0
     }
   },
@@ -2373,11 +2372,11 @@
     {
       "date": "2026-11-14",
       "scores": {
-        "energy": 22,
+        "energy": 12,
         "rates": 0,
         "trade": 0,
-        "security": 53,
-        "climate": 8
+        "security": 30,
+        "climate": 7
       },
       "articleCount": 85
     }
@@ -2428,10 +2427,8 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "6ca2fdbf0d79",
       "db67b4f4eace",
-      "29dd618b519d",
-      "6a6890129eef"
+      "29dd618b519d"
     ],
     "events": [],
     "origin": "rules"
