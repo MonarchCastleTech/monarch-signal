@@ -1,8 +1,143 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T23:04:50+00:00",
+  "generatedAt": "2026-11-15T02:45:21+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "2a41bd5916f8",
+      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+      "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-15T01:54:55+00:00"
+    },
+    {
+      "id": "035490f11906",
+      "title": "Netanyahu sends plea to Eisenkot for unity government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-15T01:33:11+00:00"
+    },
+    {
+      "id": "e9d341762b2a",
+      "title": "Thailand’s elderly kept in cages",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-15T01:32:08+00:00"
+    },
+    {
+      "id": "e091535a6508",
+      "title": "SpaceX’s Starship nails a smooth return with historic catch",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-15T01:22:01+00:00"
+    },
+    {
+      "id": "620b63821f89",
+      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-15T01:00:42+00:00"
+    },
+    {
+      "id": "5c7d548f7903",
+      "title": "Hundreds of men march in Switzerland to protest violence against women",
+      "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-15T00:27:14+00:00"
+    },
+    {
+      "id": "7bd3c8f5c12d",
+      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-15T00:14:22+00:00"
+    },
+    {
+      "id": "6ec39c9df1ba",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-15T00:06:55+00:00"
+    },
+    {
+      "id": "73cb95bb1c3d",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-15T00:06:51+00:00"
+    },
+    {
+      "id": "d68b444ca72a",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-15T00:01:07+00:00"
+    },
+    {
+      "id": "0b7f22cc7e17",
+      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-15T00:00:08+00:00"
+    },
+    {
+      "id": "3c7f04c9015d",
+      "title": "Portugal immortalises Ronaldo with a new number 7",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T23:55:18+00:00"
+    },
+    {
+      "id": "f2c5894e8ff8",
+      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T23:34:37+00:00"
+    },
+    {
+      "id": "f4aa784a106a",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-14T23:11:27+00:00"
+    },
+    {
+      "id": "d452bc7110e4",
+      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-14T23:01:30+00:00"
+    },
     {
       "id": "570757e68243",
       "title": "Explosion near Syria’s capital kills father and child",
@@ -101,15 +236,6 @@
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
       "publishedAt": "2026-11-14T20:14:10+00:00"
-    },
-    {
-      "id": "f4aa784a106a",
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-14T20:03:48+00:00"
     },
     {
       "id": "6685300ab2b0",
@@ -238,51 +364,6 @@
       "publishedAt": "2026-11-14T17:19:00+00:00"
     },
     {
-      "id": "cb71e3d7127d",
-      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-      "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T16:53:39+00:00"
-    },
-    {
-      "id": "6cf3f11b4557",
-      "title": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T16:45:00+00:00"
-    },
-    {
-      "id": "8fc02da52c9b",
-      "title": "Italy fines Meta $880m over photo privacy",
-      "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T16:16:15+00:00"
-    },
-    {
-      "id": "e5153fc87d08",
-      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T16:13:43+00:00"
-    },
-    {
-      "id": "c03e9c023b06",
-      "title": "EU calls for immediate humanitarian access to Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T15:57:22+00:00"
-    },
-    {
       "id": "70275d0e699d",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
@@ -299,60 +380,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-14T15:42:54+00:00"
-    },
-    {
-      "id": "0b4782b4b06e",
-      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T15:36:37+00:00"
-    },
-    {
-      "id": "b1c78befbdfa",
-      "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
-      "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T15:14:54+00:00"
-    },
-    {
-      "id": "5aa9f5357291",
-      "title": "Canada’s Stelco to recall 175 workers after government pressure",
-      "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T15:06:52+00:00"
-    },
-    {
-      "id": "ba5d28211dd4",
-      "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T14:57:04+00:00"
-    },
-    {
-      "id": "6eb266240852",
-      "title": "Empower conference: officials and youth discuss peace and security",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T14:49:37+00:00"
-    },
-    {
-      "id": "2bbbea19badc",
-      "title": "When tech founders leave, what happens to their companies?",
-      "url": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-14T14:24:36+00:00"
     },
     {
       "id": "17ea05d7ca0f",
@@ -511,8 +538,8 @@
       "id": "ebf9d86ad0b0",
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-13T23:00:31+00:00"
     },
@@ -560,15 +587,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-13T17:30:00+00:00"
-    },
-    {
-      "id": "e3130f190e2e",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T16:40:31+00:00"
     },
     {
       "id": "613a474422d6",
@@ -852,15 +870,18 @@
           ]
         }
       ],
-      "score": 12,
+      "score": 38,
       "evidenceIds": [
+        "2a41bd5916f8",
+        "0b7f22cc7e17",
+        "f2c5894e8ff8",
         "db67b4f4eace",
         "29dd618b519d"
       ],
-      "articleCount": 2,
-      "sourceCount": 2,
-      "stressHeadlines": 0,
-      "coverage": "sınırlı"
+      "articleCount": 5,
+      "sourceCount": 3,
+      "stressHeadlines": 1,
+      "coverage": "çok kaynaklı"
     },
     {
       "id": "rates",
@@ -1116,15 +1137,14 @@
           ]
         }
       ],
-      "score": 30,
+      "score": 23,
       "evidenceIds": [
+        "0b7f22cc7e17",
         "45c521b7aced",
-        "cb71e3d7127d",
-        "e5153fc87d08",
         "c731be0f2b99",
         "432ede6f7e77"
       ],
-      "articleCount": 5,
+      "articleCount": 4,
       "sourceCount": 3,
       "stressHeadlines": 0,
       "coverage": "çok kaynaklı"
@@ -1211,7 +1231,7 @@
           ]
         }
       ],
-      "score": 7,
+      "score": 6,
       "evidenceIds": [
         "5f86c2781d9e"
       ],
@@ -2189,7 +2209,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-14T23:04:50+00:00",
+      "fetchedAt": "2026-11-15T02:45:21+00:00",
       "latest": {
         "date": "2026-11-13",
         "value": 50.368
@@ -2204,7 +2224,7 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-14T23:04:50+00:00",
+      "checkedAt": "2026-11-15T02:45:21+00:00",
       "count": 23
     },
     {
@@ -2212,15 +2232,15 @@
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-14T23:04:50+00:00",
-      "count": 24
+      "checkedAt": "2026-11-15T02:45:21+00:00",
+      "count": 26
     },
     {
       "id": "dw",
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-14T23:04:50+00:00",
+      "checkedAt": "2026-11-15T02:45:21+00:00",
       "count": 13
     },
     {
@@ -2228,7 +2248,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-14T23:04:50+00:00",
+      "checkedAt": "2026-11-15T02:45:21+00:00",
       "count": 25
     },
     {
@@ -2236,36 +2256,45 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-14T23:04:50+00:00",
+      "checkedAt": "2026-11-15T02:45:21+00:00",
       "count": 1
     }
   ],
   "analysis": {
-    "summary": "Arz kesilirse ithalat maliyeti artabilir. Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz.",
+    "summary": "Irak'taki petrol kaçakçılığı soruşturması ve İran-İsrail gerilimi enerji arzı ve maliyetleri üzerinde baskı yaratma potansiyeline sahip. Bu gelişmeler, ithal petrol maliyetlerini ve dolayısıyla enflasyon baskısını artıracak etkiler yaratabilir.",
     "notes": [
       {
         "topic": "energy",
-        "text": "Arz kesilirse ithalat maliyeti artabilir.",
+        "text": "Irak'ın önde gelen bir milis grubunun merkezine yönelik petrol kaçakçılığı soruşturması, bölgenin enerji arz güvenliği için bir risk unsuru olarak ortaya çıkabilir. Arz kesintisi veya Kaçakçılığın artması, ithal petrol maliyetlerini ve dolayısıyla Türkiye gibi ithalata bağımlı ülkelerin enerji faturalarını artıracak etkiye sahip olabilir.",
         "evidenceIds": [
-          "db67b4f4eace"
+          "2a41bd5916f8",
+          "f2c5894e8ff8"
         ]
       },
       {
-        "topic": "energy",
-        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz.",
+        "topic": "security",
+        "text": "İran ve İsrail arasındaki gerilimin artması, Orta Doğu'daki deniz yolculuklarını ve enerji taşımacılığını riske atabilir. Bu durum, navlun maliyetlerinde yukarı yönlü bir eğilime yol açabilir ve ithal enerji maliyetlerini etkileyebilir.",
         "evidenceIds": [
-          "29dd618b519d"
+          "0b7f22cc7e17",
+          "45c521b7aced"
+        ]
+      },
+      {
+        "topic": "climate",
+        "text": "COP31'de iklim deali için yapılan calling, enerji geçişine odaklanmayı teşvik edebilir. Ancak, bölgedeki jeopolitik gerilimler, yenilenebilir enerji projelerinin finansmanını ve uygulamasını geciktirebilir.",
+        "evidenceIds": [
+          "5f86c2781d9e"
         ]
       }
     ],
     "status": "ok",
     "provider": "OpenRouter Free",
-    "model": "nvidia/nemotron-3.5-lightning:free",
-    "generatedAt": "2026-11-14T23:04:50+00:00",
-    "fingerprint": "8c900fa56f467de0dd4e8218bcdb4c6be98036d25b7b9992e6bcb48fba8bebbe",
+    "model": "dots-studio/dots-3-note-preview:free",
+    "generatedAt": "2026-11-15T02:45:21+00:00",
+    "fingerprint": "8e1012d5e824349697eb6352ff8dc276fc5c0cc08d08500b5fde4840f84b3657",
     "requestedModel": "nvidia/nemotron-3.5-lightning:free",
     "usage": {
-      "totalTokens": 2775,
+      "totalTokens": 3252,
       "cost": 0
     }
   },
@@ -2379,6 +2408,17 @@
         "climate": 7
       },
       "articleCount": 85
+    },
+    {
+      "date": "2026-11-15",
+      "scores": {
+        "energy": 38,
+        "rates": 0,
+        "trade": 0,
+        "security": 23,
+        "climate": 6
+      },
+      "articleCount": 87
     }
   ],
   "editorial": {
@@ -2427,6 +2467,9 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
+      "2a41bd5916f8",
+      "0b7f22cc7e17",
+      "f2c5894e8ff8",
       "db67b4f4eace",
       "29dd618b519d"
     ],
