@@ -1,8 +1,206 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T22:13:11+00:00",
+  "generatedAt": "2026-11-17T04:35:03+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "6bd3307a19ba",
+      "title": "Gunfire erupts in occupied West Bank settler attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T04:00:08+00:00"
+    },
+    {
+      "id": "30bd7f998bfe",
+      "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+      "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T03:12:54+00:00"
+    },
+    {
+      "id": "9a6886971bdf",
+      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T02:52:56+00:00"
+    },
+    {
+      "id": "6b3f9293b8b2",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-17T02:37:53+00:00"
+    },
+    {
+      "id": "ce6a6fc8d36a",
+      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T01:38:13+00:00"
+    },
+    {
+      "id": "ed63cc009309",
+      "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+      "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T01:19:56+00:00"
+    },
+    {
+      "id": "79d73ca14561",
+      "title": "EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T01:12:28+00:00"
+    },
+    {
+      "id": "13d7116d8aa9",
+      "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+      "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T00:45:11+00:00"
+    },
+    {
+      "id": "34cccf0637c1",
+      "title": "UK seeks closer ties with EU after Brexit fail",
+      "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T00:30:21+00:00"
+    },
+    {
+      "id": "205b93c6c31e",
+      "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+      "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-17T00:21:19+00:00"
+    },
+    {
+      "id": "7127d88efd36",
+      "title": "Customers report service outages at major US banks",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-17T00:18:01+00:00"
+    },
+    {
+      "id": "191aa394468b",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-17T00:00:03+00:00"
+    },
+    {
+      "id": "29d469fa3ef7",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-17T00:00:02+00:00"
+    },
+    {
+      "id": "1d45c43a60a0",
+      "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-16T23:57:49+00:00"
+    },
+    {
+      "id": "8e77b0e0071e",
+      "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+      "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-16T23:44:32+00:00"
+    },
+    {
+      "id": "0f280d120f55",
+      "title": "Trump departs for ASEAN on summit with Xi and Putin",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-16T23:42:03+00:00"
+    },
+    {
+      "id": "fb710be5c7d9",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-16T23:20:45+00:00"
+    },
+    {
+      "id": "1a81aea8a69d",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-16T23:12:24+00:00"
+    },
+    {
+      "id": "72c7c780b7b9",
+      "title": "EU agrees to resurrect cooperation deal with Syria",
+      "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-16T23:00:36+00:00"
+    },
+    {
+      "id": "cf951d2fcb57",
+      "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+      "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-16T22:40:07+00:00"
+    },
+    {
+      "id": "15a4aafa0fae",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-16T22:32:47+00:00"
+    },
+    {
+      "id": "b85c8d363adf",
+      "title": "Germany thrash Netherlands to book quarterfinal spot",
+      "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-16T22:04:31+00:00"
+    },
     {
       "id": "0f5ae895890c",
       "title": "Houthi rebel advance in Yemen may further destabilise global economy",
@@ -121,69 +319,6 @@
       "publishedAt": "2026-11-16T19:30:30+00:00"
     },
     {
-      "id": "8e651086d4b9",
-      "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-      "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T19:26:40+00:00"
-    },
-    {
-      "id": "5de9237e8298",
-      "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-      "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T19:19:21+00:00"
-    },
-    {
-      "id": "bb4df0813c7b",
-      "title": "Thousands report difficulties accessing accounts online at major US banks",
-      "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T19:18:10+00:00"
-    },
-    {
-      "id": "6b3f9293b8b2",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-16T19:16:52+00:00"
-    },
-    {
-      "id": "a6a5a2ca7431",
-      "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-      "url": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T19:09:09+00:00"
-    },
-    {
-      "id": "2004e349bb86",
-      "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
-      "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T18:38:16+00:00"
-    },
-    {
-      "id": "cc5bdfab36e8",
-      "title": "British actor Robert Pattinson named as new James Bond",
-      "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T18:13:14+00:00"
-    },
-    {
       "id": "3242263f9815",
       "title": "'Parents are offering to pay kids' wages': Salon owner",
       "url": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo?at_medium=RSS&at_campaign=rss",
@@ -191,33 +326,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-16T18:05:17+00:00"
-    },
-    {
-      "id": "8b21ce13ae58",
-      "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-      "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T17:54:31+00:00"
-    },
-    {
-      "id": "dad63f4a2833",
-      "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-      "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T17:49:16+00:00"
-    },
-    {
-      "id": "4948cc45ea41",
-      "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-      "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T17:24:26+00:00"
     },
     {
       "id": "4b6cc1e3f95b",
@@ -229,60 +337,6 @@
       "publishedAt": "2026-11-16T17:18:54+00:00"
     },
     {
-      "id": "526077774955",
-      "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-      "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T17:18:14+00:00"
-    },
-    {
-      "id": "01d501325f55",
-      "title": "Germany 5-0 Netherlands – UEFA Nations League as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T17:15:12+00:00"
-    },
-    {
-      "id": "d6c32694d97e",
-      "title": "Trump denies responsibility for FAA nationwide ground stop",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T17:08:10+00:00"
-    },
-    {
-      "id": "4eb1bee6a384",
-      "title": "Iran braces for natural gas shortages during winter energy imbalance",
-      "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T16:58:46+00:00"
-    },
-    {
-      "id": "3d0e720a1a8f",
-      "title": "Israeli forces demolish the homes of two Palestinian prisoners",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T16:56:54+00:00"
-    },
-    {
-      "id": "f28dee2b3016",
-      "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-16T16:56:46+00:00"
-    },
-    {
       "id": "39b6798086ba",
       "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
       "url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf",
@@ -290,15 +344,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-16T16:32:00+00:00"
-    },
-    {
-      "id": "fb710be5c7d9",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-16T16:27:24+00:00"
     },
     {
       "id": "aa300b774c88",
@@ -659,15 +704,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-14T06:42:27+00:00"
-    },
-    {
-      "id": "ebf9d86ad0b0",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-13T23:00:31+00:00"
     }
   ],
   "topics": [
@@ -753,15 +789,15 @@
           ]
         }
       ],
-      "score": 22,
+      "score": 25,
       "evidenceIds": [
-        "526077774955",
-        "4eb1bee6a384",
+        "30bd7f998bfe",
+        "1d45c43a60a0",
         "aa300b774c88"
       ],
       "articleCount": 3,
       "sourceCount": 2,
-      "stressHeadlines": 0,
+      "stressHeadlines": 1,
       "coverage": "sınırlı"
     },
     {
@@ -930,7 +966,7 @@
           ]
         }
       ],
-      "score": 7,
+      "score": 6,
       "evidenceIds": [
         "91701301b091"
       ],
@@ -1020,13 +1056,16 @@
           ]
         }
       ],
-      "score": 15,
+      "score": 35,
       "evidenceIds": [
+        "13d7116d8aa9",
+        "1d45c43a60a0",
+        "8e77b0e0071e",
         "b9b16089c989",
         "1c1d4a97c8ff"
       ],
-      "articleCount": 2,
-      "sourceCount": 1,
+      "articleCount": 5,
+      "sourceCount": 2,
       "stressHeadlines": 1,
       "coverage": "sınırlı"
     },
@@ -2086,7 +2125,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-16T22:13:11+00:00",
+      "fetchedAt": "2026-11-17T04:35:03+00:00",
       "latest": {
         "date": "2026-11-16",
         "value": 50.3922
@@ -2101,7 +2140,7 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-16T22:13:11+00:00",
+      "checkedAt": "2026-11-17T04:35:03+00:00",
       "count": 21
     },
     {
@@ -2109,15 +2148,15 @@
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-16T22:13:11+00:00",
-      "count": 18
+      "checkedAt": "2026-11-17T04:35:03+00:00",
+      "count": 22
     },
     {
       "id": "dw",
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-16T22:13:11+00:00",
+      "checkedAt": "2026-11-17T04:35:03+00:00",
       "count": 11
     },
     {
@@ -2125,7 +2164,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-16T22:13:11+00:00",
+      "checkedAt": "2026-11-17T04:35:03+00:00",
       "count": 25
     },
     {
@@ -2133,120 +2172,19 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-16T22:13:11+00:00",
+      "checkedAt": "2026-11-17T04:35:03+00:00",
       "count": 2
     }
   ],
   "analysis": {
-    "summary": "Arz kesilirse ithalat maliyeti artabilir; navlun kesintisi akaryakıt fiyatlarını yükseltebilir.",
-    "notes": [
-      {
-        "topic": "energy",
-        "text": "Arz kesilirse ithalat maliyeti artabilir.",
-        "evidenceIds": [
-          "526077774955"
-        ]
-      },
-      {
-        "topic": "energy",
-        "text": "Navlun kesintisi akaryakıt fiyatlarını yükseltebilir.",
-        "evidenceIds": [
-          "4eb1bee6a384"
-        ]
-      },
-      {
-        "topic": "energy",
-        "text": "Genç yetenek kaybı, uzun vadeli enerji projesi planlamasını zorlaştırabilir.",
-        "evidenceIds": [
-          "aa300b774c88"
-        ]
-      },
-      {
-        "topic": "trade",
-        "text": "Gıda ve endüstriyel girdiler için ticaret koşulları değişebilir.",
-        "evidenceIds": [
-          "91701301b091"
-        ]
-      },
-      {
-        "topic": "security",
-        "text": "Jeopolitik gerilim, enerji altyapısına doğrudan baskı yaratabilir.",
-        "evidenceIds": [
-          "b9b16089c989",
-          "1c1d4a97c8ff"
-        ]
-      },
-      {
-        "topic": "climate",
-        "text": "Iklim hedefleri, enerji kaynaklarının yeniden değerlendirilmesine yol açabilir.",
-        "evidenceIds": [
-          "5f86c2781d9e"
-        ]
-      }
-    ],
-    "editorial": {
-      "leadTopic": "energy",
-      "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor",
-      "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılıyor. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşuyor; akaryakıt ve üretim maliyetleri etkileniyor.",
-      "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
-      "timeline": [
-        {
-          "id": "near",
-          "label": "KISA VADE",
-          "range": "İlk 2 hafta",
-          "title": "Kısa vadeli baskı",
-          "text": "İlk iki haftada petrol ve navlun maliyetlerinde yukarı yönlü baskı Bekliyoruz. Türkiye’de akaryakıt ve taşımacılık fiyatları hızlı yansıyor.",
-          "tags": [
-            "Enerji maliyeti",
-            "Enflasyon baskısı"
-          ]
-        },
-        {
-          "id": "medium",
-          "label": "ORTA VADE",
-          "range": "2 hafta – 3 ay",
-          "title": "Orta vadeli yayılım",
-          "text": "İki hafta ile üç ayda enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını Bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
-          "tags": [
-            "Enflasyon baskısı",
-            "Tedarik baskısı"
-          ]
-        },
-        {
-          "id": "long",
-          "label": "UZUN VADE",
-          "range": "3 – 12 ay",
-          "title": "Uzun vadeli güvenlik",
-          "text": "Üç ile on iki ayda enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını Bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
-          "tags": [
-            "Tedarik baskısı",
-            "Finansman baskısı"
-          ]
-        }
-      ],
-      "watch": [
-        "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti",
-        "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi",
-        "Diplomatik gerilimi azaltan somut adımlar"
-      ],
-      "evidenceIds": [
-        "526077774955",
-        "4eb1bee6a384",
-        "aa300b774c88"
-      ],
-      "events": [],
-      "origin": "free-ai"
-    },
-    "status": "ok",
-    "provider": "OpenRouter Free",
-    "model": "nvidia/nemotron-3.5-lightning:free",
-    "generatedAt": "2026-11-16T22:13:11+00:00",
-    "fingerprint": "6cd52bbbb6e89a7e55928c5d362af526d1695a16e3997c04a91ca28403f27341",
-    "requestedModel": "nvidia/nemotron-3.5-lightning:free",
-    "usage": {
-      "totalTokens": 2972,
-      "cost": 0
-    }
+    "status": "unavailable",
+    "provider": null,
+    "model": null,
+    "summary": "",
+    "notes": [],
+    "generatedAt": "2026-11-17T04:35:03+00:00",
+    "fingerprint": "428de82338da35975f17017c5f423f9bcd8e63c0cb5e47d55f06925c0802ef91",
+    "reason": "Ücretsiz AI servisi HTTP 400 döndürdü; kural modeli kullanılıyor."
   },
   "history": [
     {
@@ -2380,20 +2318,31 @@
         "climate": 2
       },
       "articleCount": 74
+    },
+    {
+      "date": "2026-11-17",
+      "scores": {
+        "energy": 25,
+        "rates": 0,
+        "trade": 6,
+        "security": 35,
+        "climate": 2
+      },
+      "articleCount": 78
     }
   ],
   "editorial": {
     "leadTopic": "energy",
-    "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor",
-    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılıyor. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşuyor; akaryakıt ve üretim maliyetleri etkileniyor.",
+    "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
+    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
     "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
     "timeline": [
       {
         "id": "near",
         "label": "KISA VADE",
         "range": "İlk 2 hafta",
-        "title": "Kısa vadeli baskı",
-        "text": "İlk iki haftada petrol ve navlun maliyetlerinde yukarı yönlü baskı Bekliyoruz. Türkiye’de akaryakıt ve taşımacılık fiyatları hızlı yansıyor.",
+        "title": "İlk baskı enerji ve taşımacılıkta",
+        "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
         "tags": [
           "Enerji maliyeti",
           "Enflasyon baskısı"
@@ -2403,8 +2352,8 @@
         "id": "medium",
         "label": "ORTA VADE",
         "range": "2 hafta – 3 ay",
-        "title": "Orta vadeli yayılım",
-        "text": "İki hafta ile üç ayda enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını Bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+        "title": "Maliyetler enflasyona yayılabilir",
+        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
         "tags": [
           "Enflasyon baskısı",
           "Tedarik baskısı"
@@ -2414,8 +2363,8 @@
         "id": "long",
         "label": "UZUN VADE",
         "range": "3 – 12 ay",
-        "title": "Uzun vadeli güvenlik",
-        "text": "Üç ile on iki ayda enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını Bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+        "title": "Tedarik güvenliği öne çıkacak",
+        "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
         "tags": [
           "Tedarik baskısı",
           "Finansman baskısı"
@@ -2423,17 +2372,17 @@
       }
     ],
     "watch": [
-      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti",
-      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi",
-      "Diplomatik gerilimi azaltan somut adımlar"
+      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
+      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
+      "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "526077774955",
-      "4eb1bee6a384",
+      "30bd7f998bfe",
+      "1d45c43a60a0",
       "aa300b774c88"
     ],
     "events": [],
-    "origin": "free-ai"
+    "origin": "rules"
   },
   "methodologyVersion": "1.0",
   "forecastStatus": "uncalibrated-scenarios",
