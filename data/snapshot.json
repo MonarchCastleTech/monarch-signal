@@ -1,8 +1,188 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T22:12:44+00:00",
+  "generatedAt": "2026-11-20T03:26:32+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "c098c8dea679",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-20T02:54:40+00:00"
+    },
+    {
+      "id": "1856b2281b45",
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T02:54:22+00:00"
+    },
+    {
+      "id": "00dea216aa0b",
+      "title": "Beloved hippo Fiona dies days after swallowing visitor’s hat",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T02:51:44+00:00"
+    },
+    {
+      "id": "f6755fbcc693",
+      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T02:25:33+00:00"
+    },
+    {
+      "id": "44632d39b2eb",
+      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T01:29:28+00:00"
+    },
+    {
+      "id": "e83742be58d0",
+      "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
+      "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T01:10:06+00:00"
+    },
+    {
+      "id": "4f9712209055",
+      "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+      "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T01:06:15+00:00"
+    },
+    {
+      "id": "6098fe5b882d",
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-20T00:54:50+00:00"
+    },
+    {
+      "id": "4517641d3539",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-20T00:50:24+00:00"
+    },
+    {
+      "id": "efddfae4739d",
+      "title": "Haiti police say 34 gang members killed in capital raid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T00:31:02+00:00"
+    },
+    {
+      "id": "eb2419a6de7c",
+      "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+      "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T00:22:02+00:00"
+    },
+    {
+      "id": "3ccb78afd018",
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-20T00:13:24+00:00"
+    },
+    {
+      "id": "715dabc2655a",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-20T00:13:21+00:00"
+    },
+    {
+      "id": "0b91abafbfca",
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-20T00:12:28+00:00"
+    },
+    {
+      "id": "d387df14c87f",
+      "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-20T00:10:04+00:00"
+    },
+    {
+      "id": "d21b20ab332c",
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-20T00:08:37+00:00"
+    },
+    {
+      "id": "7f4bf20916a7",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-20T00:02:07+00:00"
+    },
+    {
+      "id": "560937a18abe",
+      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-19T23:58:40+00:00"
+    },
+    {
+      "id": "5db3dcd93c57",
+      "title": "How did Anthropic's stock market debut unfold?",
+      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-19T23:52:25+00:00"
+    },
+    {
+      "id": "771643191c7b",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-19T23:51:50+00:00"
+    },
     {
       "id": "3a85f592a744",
       "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
@@ -10,7 +190,79 @@
       "source": "BBC World",
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T22:09:04+00:00"
+      "publishedAt": "2026-11-19T23:40:29+00:00"
+    },
+    {
+      "id": "c9042b87348f",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-19T23:33:51+00:00"
+    },
+    {
+      "id": "706d3a995804",
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-19T23:29:00+00:00"
+    },
+    {
+      "id": "14cad182439f",
+      "title": "Six killed in suspected gas explosion at Georgia apartment building",
+      "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-19T23:09:48+00:00"
+    },
+    {
+      "id": "bb63cff12a08",
+      "title": "California targets Nvidia in China AI chip probe",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-19T23:04:30+00:00"
+    },
+    {
+      "id": "d1a9e01e6eb1",
+      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-19T22:58:48+00:00"
+    },
+    {
+      "id": "013099f9aff9",
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-19T22:54:03+00:00"
+    },
+    {
+      "id": "bd8a36762525",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-19T22:48:22+00:00"
+    },
+    {
+      "id": "c505052dd7b8",
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-19T21:58:27+00:00"
     },
     {
       "id": "d93b1fe41da9",
@@ -20,24 +272,6 @@
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
       "publishedAt": "2026-11-19T21:39:39+00:00"
-    },
-    {
-      "id": "c9042b87348f",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T21:38:42+00:00"
-    },
-    {
-      "id": "4517641d3539",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T21:21:43+00:00"
     },
     {
       "id": "5722a6db4253",
@@ -157,87 +391,6 @@
       "publishedAt": "2026-11-19T20:07:02+00:00"
     },
     {
-      "id": "b83071418b3e",
-      "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
-      "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:53:24+00:00"
-    },
-    {
-      "id": "d043d42a48d5",
-      "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:40:23+00:00"
-    },
-    {
-      "id": "d072edefc6d1",
-      "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
-      "url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:33:25+00:00"
-    },
-    {
-      "id": "f03fffb3d917",
-      "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
-      "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:27:32+00:00"
-    },
-    {
-      "id": "3c5984f8cb5a",
-      "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-      "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:23:45+00:00"
-    },
-    {
-      "id": "81e9aaa67272",
-      "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
-      "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:19:06+00:00"
-    },
-    {
-      "id": "b1822ee2079a",
-      "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:16:34+00:00"
-    },
-    {
-      "id": "6d2f39ee4bc4",
-      "title": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:15:10+00:00"
-    },
-    {
-      "id": "47dce47eb06d",
-      "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T19:01:00+00:00"
-    },
-    {
       "id": "f4b636b89172",
       "title": "Iraq's risky standoff: The state vs. Iran-allied militias",
       "url": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf",
@@ -245,42 +398,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-19T18:59:00+00:00"
-    },
-    {
-      "id": "99dce5fa9776",
-      "title": "France awaits verdict six years after police beat Black music producer",
-      "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T18:51:50+00:00"
-    },
-    {
-      "id": "9a8effbc9379",
-      "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-      "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T18:46:10+00:00"
-    },
-    {
-      "id": "f89bf1b404cf",
-      "title": "Iraq reaches compromise with Kataib Hezbollah over armed group’s stronghold",
-      "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T18:16:09+00:00"
-    },
-    {
-      "id": "134175d3fb29",
-      "title": "Trump-Xi-Putin summit: Five things you need to know",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-19T18:13:52+00:00"
     },
     {
       "id": "6af4ec68160a",
@@ -320,7 +437,7 @@
     },
     {
       "id": "6a05d9ec97e8",
-      "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
       "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sourceId": "bbc-world",
@@ -436,15 +553,6 @@
       "publishedAt": "2026-11-19T11:44:57+00:00"
     },
     {
-      "id": "c490ce3984a6",
-      "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-      "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T11:43:06+00:00"
-    },
-    {
       "id": "1622af9cbda3",
       "title": "Myanmar committed genocide against Rohingya, top UN court rules",
       "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
@@ -479,15 +587,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-19T09:21:54+00:00"
-    },
-    {
-      "id": "05a593c347cf",
-      "title": "Trump greets 'my friend' Putin as pair shake hands",
-      "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T08:31:09+00:00"
     },
     {
       "id": "6e07b4fc3c50",
@@ -562,15 +661,6 @@
       "publishedAt": "2026-11-19T00:49:19+00:00"
     },
     {
-      "id": "4f7db1fcee80",
-      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T00:38:52+00:00"
-    },
-    {
       "id": "07598193af0c",
       "title": "Almost 1 in 4 children live in conflict zones — report",
       "url": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-world-4025-rdf",
@@ -601,8 +691,8 @@
       "id": "49c8a8bd607f",
       "title": "Why has Waymo pulled all its driverless cars from US freeways?",
       "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-18T23:47:46+00:00"
     },
@@ -610,8 +700,8 @@
       "id": "a48badf70047",
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-18T23:42:07+00:00"
     },
@@ -677,15 +767,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-18T17:00:40+00:00"
-    },
-    {
-      "id": "44bb7886db82",
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-18T16:33:16+00:00"
     },
     {
       "id": "b56bc510c5f4",
@@ -758,33 +839,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-18T13:04:48+00:00"
-    },
-    {
-      "id": "b54098898d20",
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-18T11:12:46+00:00"
-    },
-    {
-      "id": "0ecfa8cd88d1",
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-18T10:23:57+00:00"
-    },
-    {
-      "id": "ceaa8eb690f3",
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-18T09:28:35+00:00"
     },
     {
       "id": "37933f5fe4c2",
@@ -911,15 +965,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-17T12:35:53+00:00"
-    },
-    {
-      "id": "7fd08d1201fa",
-      "title": "Immigration arrests after organised crime blitz",
-      "url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-17T10:49:58+00:00"
     }
   ],
   "topics": [
@@ -1005,16 +1050,17 @@
           ]
         }
       ],
-      "score": 35,
+      "score": 41,
       "evidenceIds": [
+        "560937a18abe",
         "530fdf53764b",
         "3961009d9520",
         "f4b636b89172",
         "8dfe072800ef"
       ],
-      "articleCount": 4,
+      "articleCount": 5,
       "sourceCount": 3,
-      "stressHeadlines": 1,
+      "stressHeadlines": 2,
       "coverage": "çok kaynaklı"
     },
     {
@@ -1095,7 +1141,7 @@
           ]
         }
       ],
-      "score": 13,
+      "score": 11,
       "evidenceIds": [
         "d97d6f52e7ef",
         "36f8b4a23cb8",
@@ -1276,9 +1322,10 @@
           ]
         }
       ],
-      "score": 43,
+      "score": 45,
       "evidenceIds": [
         "4517641d3539",
+        "560937a18abe",
         "3961009d9520",
         "116efff4a5dd",
         "d65a0674ce40",
@@ -1286,7 +1333,7 @@
         "720e16ec5af0",
         "a8922761579d"
       ],
-      "articleCount": 7,
+      "articleCount": 8,
       "sourceCount": 3,
       "stressHeadlines": 0,
       "coverage": "çok kaynaklı"
@@ -1373,12 +1420,15 @@
           ]
         }
       ],
-      "score": 0,
-      "evidenceIds": [],
-      "articleCount": 0,
-      "sourceCount": 0,
+      "score": 16,
+      "evidenceIds": [
+        "44632d39b2eb",
+        "6098fe5b882d"
+      ],
+      "articleCount": 2,
+      "sourceCount": 2,
       "stressHeadlines": 0,
-      "coverage": "veri yok"
+      "coverage": "sınırlı"
     }
   ],
   "series": [
@@ -2345,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-19T22:12:44+00:00",
+      "fetchedAt": "2026-11-20T03:26:32+00:00",
       "latest": {
         "date": "2026-11-19",
         "value": 50.4673
@@ -2360,7 +2410,7 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-19T22:12:44+00:00",
+      "checkedAt": "2026-11-20T03:26:32+00:00",
       "count": 36
     },
     {
@@ -2368,15 +2418,15 @@
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-19T22:12:44+00:00",
-      "count": 32
+      "checkedAt": "2026-11-20T03:26:32+00:00",
+      "count": 37
     },
     {
       "id": "dw",
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-19T22:12:44+00:00",
+      "checkedAt": "2026-11-20T03:26:32+00:00",
       "count": 12
     },
     {
@@ -2384,7 +2434,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-19T22:12:44+00:00",
+      "checkedAt": "2026-11-20T03:26:32+00:00",
       "count": 25
     },
     {
@@ -2392,19 +2442,119 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-19T22:12:44+00:00",
+      "checkedAt": "2026-11-20T03:26:32+00:00",
       "count": 3
     }
   ],
   "analysis": {
-    "status": "unavailable",
-    "provider": null,
-    "model": null,
-    "summary": "",
-    "notes": [],
-    "generatedAt": "2026-11-19T22:12:44+00:00",
-    "fingerprint": "d0fffbffd9c870c4761457eebcbedf14c5ffe988a9d4f57e40426f4399e91804",
-    "reason": "Ücretsiz AI servisi HTTP 400 döndürdü; kural modeli kullanılıyor."
+    "summary": "Enerji fiyatları ve jeopolitik gelişmeler, maliyet baskısını artırabilir; arz kesintisi olursa ithalat maliyeti ve taşıma maliyetleri yükselir.",
+    "notes": [
+      {
+        "topic": "energy",
+        "text": "Enerji fiyatları ve jeopolitik gelişmeler, maliyet baskısını artırabilir; arz kesintisi olursa ithalat maliyeti ve taşıma maliyetleri yükselir.",
+        "evidenceIds": [
+          "560937a18abe",
+          "530fdf53764b",
+          "3961009d9520",
+          "f4b636b89172",
+          "8dfe072800ef"
+        ]
+      },
+      {
+        "topic": "rates",
+        "text": "Yüksek enerji fiyatları, enflasyonu yukarı çekerek faiz indirimleri için alanı daraltabilir.",
+        "evidenceIds": [
+          "d97d6f52e7ef",
+          "36f8b4a23cb8",
+          "906b0982a980",
+          "2ce385fa09e1"
+        ]
+      },
+      {
+        "topic": "security",
+        "text": "Jeopolitik gerilim, enerji tedarik rotalarını tehdit edebilir ve fiyatlarındaki volatiliteyi artırabilir.",
+        "evidenceIds": [
+          "4517641d3539",
+          "560937a18abe",
+          "3961009d9520",
+          "116efff4a5dd",
+          "d65a0674ce40"
+        ]
+      },
+      {
+        "topic": "climate",
+        "text": "Iklim hedefleri ve yatırımları, uzun vadeli enerji maliyetleri ve tedarik güvenliği üzerindeki etkisiyle değerlendirilmelidir.",
+        "evidenceIds": [
+          "44632d39b2eb",
+          "6098fe5b882d"
+        ]
+      }
+    ],
+    "editorial": {
+      "leadTopic": "energy",
+      "headline": "Enerji maliyetleri, enflasyon ve jeopolitik riskler gündemi belirliyor",
+      "summary": "Yüksek enerji fiyatları ve jeopolitik gerilimler, maliyet baskısını artırıyor ve ekonomik beklentileri olumsuz yönde etkiliyor. Özellikle arz kesintileri ve diplomatik gelişmeler, fiyatlarındaki volatiliteyi artırabilir.",
+      "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
+      "timeline": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "Kısa vadeli baskı: Akaryakıt ve taşımacılık maliyetleri",
+          "text": "İlk iki hafta içinde petrol fiyatları ve deniz geçişi güvenliği konularında anlık yükselişler gözlemlenebilir. Türkiye’de akaryakıt fiyatları ve taşımacılık maliyetleri hızlı yansıyabilir.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Orta vadeli yayılım: Enflasyon ve cari denge",
+          "text": "İki hafta ile üç ay arasında yüksek enerji fiyatları, üretici fiyatlarına ve cari dengenin üzerindeki baskıyı artırabilir. Bu durum, merkezi bankaların faiz indirimlerini geciktirmesine yol açabilir.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Uzun vadeli outlook: Tedarik güvenliği ve çeşitlilik",
+          "text": "Üç ile on iki ay içinde enerji tedarikini çeşitlendiren ve verimlilik yatırımları yapan şirketler, belirsizliğin içinde avantaj sağlayabilir. Kalıcı normalleşme, maliyet baskısını yavaşça tersine çevirebilir.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "watch": [
+        "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti",
+        "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi",
+        "Diplomatik gerilimi azaltan veya artıran somut adımlar"
+      ],
+      "evidenceIds": [
+        "560937a18abe",
+        "530fdf53764b",
+        "3961009d9520",
+        "f4b636b89172",
+        "8dfe072800ef"
+      ],
+      "events": [],
+      "origin": "free-ai"
+    },
+    "status": "ok",
+    "provider": "OpenRouter Free",
+    "model": "nvidia/nemotron-3.5-lightning:free",
+    "generatedAt": "2026-11-20T03:26:32+00:00",
+    "fingerprint": "f679b38b8c04907f88ac5486a4d0578add44b38dd1f45d329485c87ccb518604",
+    "requestedModel": "nvidia/nemotron-3.5-lightning:free",
+    "usage": {
+      "totalTokens": 3794,
+      "cost": 0
+    }
   },
   "history": [
     {
@@ -2571,20 +2721,31 @@
         "climate": 0
       },
       "articleCount": 102
+    },
+    {
+      "date": "2026-11-20",
+      "scores": {
+        "energy": 41,
+        "rates": 11,
+        "trade": 0,
+        "security": 45,
+        "climate": 16
+      },
+      "articleCount": 107
     }
   ],
   "editorial": {
     "leadTopic": "energy",
-    "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
-    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
+    "headline": "Enerji maliyetleri, enflasyon ve jeopolitik riskler gündemi belirliyor",
+    "summary": "Yüksek enerji fiyatları ve jeopolitik gerilimler, maliyet baskısını artırıyor ve ekonomik beklentileri olumsuz yönde etkiliyor. Özellikle arz kesintileri ve diplomatik gelişmeler, fiyatlarındaki volatiliteyi artırabilir.",
     "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
     "timeline": [
       {
         "id": "near",
         "label": "KISA VADE",
         "range": "İlk 2 hafta",
-        "title": "İlk baskı enerji ve taşımacılıkta",
-        "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
+        "title": "Kısa vadeli baskı: Akaryakıt ve taşımacılık maliyetleri",
+        "text": "İlk iki hafta içinde petrol fiyatları ve deniz geçişi güvenliği konularında anlık yükselişler gözlemlenebilir. Türkiye’de akaryakıt fiyatları ve taşımacılık maliyetleri hızlı yansıyabilir.",
         "tags": [
           "Enerji maliyeti",
           "Enflasyon baskısı"
@@ -2594,8 +2755,8 @@
         "id": "medium",
         "label": "ORTA VADE",
         "range": "2 hafta – 3 ay",
-        "title": "Maliyetler enflasyona yayılabilir",
-        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+        "title": "Orta vadeli yayılım: Enflasyon ve cari denge",
+        "text": "İki hafta ile üç ay arasında yüksek enerji fiyatları, üretici fiyatlarına ve cari dengenin üzerindeki baskıyı artırabilir. Bu durum, merkezi bankaların faiz indirimlerini geciktirmesine yol açabilir.",
         "tags": [
           "Enflasyon baskısı",
           "Tedarik baskısı"
@@ -2605,8 +2766,8 @@
         "id": "long",
         "label": "UZUN VADE",
         "range": "3 – 12 ay",
-        "title": "Tedarik güvenliği öne çıkacak",
-        "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+        "title": "Uzun vadeli outlook: Tedarik güvenliği ve çeşitlilik",
+        "text": "Üç ile on iki ay içinde enerji tedarikini çeşitlendiren ve verimlilik yatırımları yapan şirketler, belirsizliğin içinde avantaj sağlayabilir. Kalıcı normalleşme, maliyet baskısını yavaşça tersine çevirebilir.",
         "tags": [
           "Tedarik baskısı",
           "Finansman baskısı"
@@ -2614,18 +2775,19 @@
       }
     ],
     "watch": [
-      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
-      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
-      "Diplomatik gerilimi azaltan veya artıran somut adımlar."
+      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti",
+      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi",
+      "Diplomatik gerilimi azaltan veya artıran somut adımlar"
     ],
     "evidenceIds": [
+      "560937a18abe",
       "530fdf53764b",
       "3961009d9520",
       "f4b636b89172",
       "8dfe072800ef"
     ],
     "events": [],
-    "origin": "rules"
+    "origin": "free-ai"
   },
   "methodologyVersion": "1.0",
   "forecastStatus": "uncalibrated-scenarios",
