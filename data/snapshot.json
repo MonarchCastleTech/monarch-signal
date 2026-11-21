@@ -1,8 +1,170 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T18:04:10+00:00",
+  "generatedAt": "2026-11-21T23:24:57+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "8b7bc02a677f",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-21T22:19:43+00:00"
+    },
+    {
+      "id": "dac9ee4703e2",
+      "title": "Bahrain says Iranian attack hits industrial facility",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T22:02:03+00:00"
+    },
+    {
+      "id": "b1953102b359",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-21T22:01:19+00:00"
+    },
+    {
+      "id": "28cd46f0daaa",
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T21:31:03+00:00"
+    },
+    {
+      "id": "f99427dd69a4",
+      "title": "Impunity fuels surge in settler violence across occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T21:11:54+00:00"
+    },
+    {
+      "id": "d7b7eae35cff",
+      "title": "Indian man jailed over plot to kill Sikh separatist in US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T21:09:18+00:00"
+    },
+    {
+      "id": "6e5196c5585d",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-21T21:05:29+00:00"
+    },
+    {
+      "id": "a1e3a5a13b65",
+      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T21:02:18+00:00"
+    },
+    {
+      "id": "3b8c66cd2190",
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T20:56:35+00:00"
+    },
+    {
+      "id": "1448806a7641",
+      "title": "Thousands protest across Europe over living costs and housing",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T20:47:50+00:00"
+    },
+    {
+      "id": "84dc8510f95c",
+      "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T20:38:20+00:00"
+    },
+    {
+      "id": "709088c17ebe",
+      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T20:15:13+00:00"
+    },
+    {
+      "id": "b08032af0f7f",
+      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T19:53:00+00:00"
+    },
+    {
+      "id": "0afef7db4686",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-21T19:20:22+00:00"
+    },
+    {
+      "id": "0b000952358a",
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T18:42:38+00:00"
+    },
+    {
+      "id": "01565420a6a4",
+      "title": "FBI national crime database suffers suspected breach: Reports",
+      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T18:19:10+00:00"
+    },
+    {
+      "id": "5f97f149f463",
+      "title": "Could Brexit be reversed?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T18:18:11+00:00"
+    },
+    {
+      "id": "bfc2c9534dd9",
+      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-21T18:05:51+00:00"
+    },
     {
       "id": "063002cb265d",
       "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
@@ -139,15 +301,6 @@
       "publishedAt": "2026-11-21T14:58:00+00:00"
     },
     {
-      "id": "8b7bc02a677f",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-21T14:54:24+00:00"
-    },
-    {
       "id": "1c5b88d83c35",
       "title": "Russia strikes Zelenskyy's hometown, killing 2",
       "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
@@ -155,42 +308,6 @@
       "sourceId": "dw",
       "domain": "dw.com",
       "publishedAt": "2026-11-21T14:44:00+00:00"
-    },
-    {
-      "id": "1f7730fcd851",
-      "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T14:35:52+00:00"
-    },
-    {
-      "id": "c4dd41a20daa",
-      "title": "Newcastle United vs Arsenal LIVE: Premier League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T14:30:00+00:00"
-    },
-    {
-      "id": "e7f58b8a4acf",
-      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T14:15:36+00:00"
-    },
-    {
-      "id": "1544497e0a3f",
-      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T14:06:06+00:00"
     },
     {
       "id": "f6fc1dbe4ebe",
@@ -202,69 +319,6 @@
       "publishedAt": "2026-11-21T13:17:38+00:00"
     },
     {
-      "id": "6e5196c5585d",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-21T13:15:21+00:00"
-    },
-    {
-      "id": "7db697fc07f3",
-      "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T13:08:59+00:00"
-    },
-    {
-      "id": "9e1a4c824c85",
-      "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T12:49:20+00:00"
-    },
-    {
-      "id": "2a872eedd794",
-      "title": "Russian crew evacuating ship hit by drones off coast of Finland",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T12:45:24+00:00"
-    },
-    {
-      "id": "3bf965d497a7",
-      "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
-      "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T12:30:49+00:00"
-    },
-    {
-      "id": "7d3f77d9f015",
-      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-      "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T12:29:49+00:00"
-    },
-    {
-      "id": "c1998ea9ffd6",
-      "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T12:22:24+00:00"
-    },
-    {
       "id": "2a3ef5681dc5",
       "title": "Sessions offer advice on rising energy costs",
       "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
@@ -272,42 +326,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-21T12:09:49+00:00"
-    },
-    {
-      "id": "1b6e22f84ea9",
-      "title": "Mexico captures FBI-wanted cartel boss in military raid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T11:53:56+00:00"
-    },
-    {
-      "id": "e79f16406c8f",
-      "title": "Why is GTA VI so expensive to play?",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T11:39:03+00:00"
-    },
-    {
-      "id": "55b74e61db75",
-      "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T11:35:42+00:00"
-    },
-    {
-      "id": "433ec3c60955",
-      "title": "Migrants caravan in Mexico walks towards US border",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T11:04:10+00:00"
     },
     {
       "id": "770513448c0a",
@@ -803,15 +821,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-18T23:42:07+00:00"
-    },
-    {
-      "id": "6936d425afec",
-      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-18T21:28:08+00:00"
     }
   ],
   "topics": [
@@ -897,13 +906,15 @@
           ]
         }
       ],
-      "score": 15,
+      "score": 29,
       "evidenceIds": [
-        "d9b9d26a6e67",
-        "e7f58b8a4acf"
+        "3b8c66cd2190",
+        "0afef7db4686",
+        "bfc2c9534dd9",
+        "d9b9d26a6e67"
       ],
-      "articleCount": 2,
-      "sourceCount": 1,
+      "articleCount": 4,
+      "sourceCount": 2,
       "stressHeadlines": 0,
       "coverage": "sınırlı"
     },
@@ -1073,7 +1084,7 @@
           ]
         }
       ],
-      "score": 15,
+      "score": 13,
       "evidenceIds": [
         "bb068ad239d4",
         "d9b9d26a6e67"
@@ -1164,13 +1175,12 @@
           ]
         }
       ],
-      "score": 13,
+      "score": 5,
       "evidenceIds": [
-        "1b6e22f84ea9",
         "a8ca822f64d0"
       ],
-      "articleCount": 2,
-      "sourceCount": 2,
+      "articleCount": 1,
+      "sourceCount": 1,
       "stressHeadlines": 1,
       "coverage": "sınırlı"
     },
@@ -2234,7 +2244,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-21T18:04:10+00:00",
+      "fetchedAt": "2026-11-21T23:24:57+00:00",
       "latest": {
         "date": "2026-11-20",
         "value": 50.5722
@@ -2249,23 +2259,23 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-21T18:04:10+00:00",
-      "count": 25
+      "checkedAt": "2026-11-21T23:24:57+00:00",
+      "count": 27
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-21T18:04:10+00:00",
-      "count": 32
+      "checkedAt": "2026-11-21T23:24:57+00:00",
+      "count": 31
     },
     {
       "id": "dw",
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-21T18:04:10+00:00",
+      "checkedAt": "2026-11-21T23:24:57+00:00",
       "count": 11
     },
     {
@@ -2273,7 +2283,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-21T18:04:10+00:00",
+      "checkedAt": "2026-11-21T23:24:57+00:00",
       "count": 25
     },
     {
@@ -2281,84 +2291,19 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-21T18:04:10+00:00",
+      "checkedAt": "2026-11-21T23:24:57+00:00",
       "count": 1
     }
   ],
   "analysis": {
-    "summary": "Enerji arzında veya deniz geçişlerinde teyitli kesinti, enerji fiyatları ve taşımacılık maliyetlerini yükselterek ekonomiye yayılabilir; maliyet baskısı enflasyon ve cari açığı üzerinden etkileyebilir.",
-    "notes": [
-      {
-        "topic": "energy",
-        "text": "Enerji arzında veya deniz geçişlerinde teyitli kesinti, enerji fiyatları ve taşımacılık maliyetlerini yükselterek ekonomiye yayılabilir; maliyet baskısı enflasyon ve cari açığı üzerinden etkileyebilir.",
-        "evidenceIds": [
-          "d9b9d26a6e67",
-          "e7f58b8a4acf"
-        ]
-      }
-    ],
-    "editorial": {
-      "leadTopic": "energy",
-      "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
-      "summary": "Enerji arzında veya deniz geçişlerinde teyitli kesinti, enerji fiyatları ve taşımacılık maliyetlerini yükselterek ekonomiye yayılabilir; maliyet baskısı enflasyon ve cari açığı üzerinden etkileyebilir.",
-      "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
-      "timeline": [
-        {
-          "id": "near",
-          "label": "KISA VADE",
-          "range": "İlk 2 hafta",
-          "title": "İlk baskı enerji ve taşımacılıkta",
-          "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
-          "tags": [
-            "Enerji maliyeti",
-            "Enflasyon baskısı"
-          ]
-        },
-        {
-          "id": "medium",
-          "label": "ORTA VADE",
-          "range": "2 hafta – 3 ay",
-          "title": "Maliyetler enflasyona yayılabilir",
-          "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
-          "tags": [
-            "Enflasyon baskısı",
-            "Tedarik baskısı"
-          ]
-        },
-        {
-          "id": "long",
-          "label": "UZUN VADE",
-          "range": "3 – 12 ay",
-          "title": "Tedarik güvenliği öne çıkacak",
-          "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
-          "tags": [
-            "Tedarik baskısı",
-            "Finansman baskısı"
-          ]
-        }
-      ],
-      "watch": [
-        "Enerji arzında veya deniz geçişlerinde teyitli kesinti.",
-        "Petrol fiyatlarıındaki hareketin kalıcı hâle gelmesi.",
-        "Diplomatik gerilimi azaltan veya artıran somut adımlar."
-      ],
-      "evidenceIds": [
-        "d9b9d26a6e67",
-        "e7f58b8a4acf"
-      ],
-      "events": [],
-      "origin": "free-ai"
-    },
-    "status": "ok",
-    "provider": "OpenRouter Free",
-    "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "generatedAt": "2026-11-21T18:04:10+00:00",
-    "fingerprint": "d7531f8dcd1590ed1c88d8b12f7dea7708f28d4a1256bf9e0396abc6893db9a9",
-    "requestedModel": "nvidia/nemotron-3.5-lightning:free",
-    "usage": {
-      "totalTokens": 2544,
-      "cost": 0
-    }
+    "status": "unavailable",
+    "provider": null,
+    "model": null,
+    "summary": "",
+    "notes": [],
+    "generatedAt": "2026-11-21T23:24:57+00:00",
+    "fingerprint": "2cb896e57685840993a8999dcf9877b419f9aca7825920e9ff3f15808133bfc0",
+    "reason": "Ücretsiz AI servisi HTTP 400 döndürdü; kural modeli kullanılıyor."
   },
   "history": [
     {
@@ -2540,19 +2485,19 @@
     {
       "date": "2026-11-21",
       "scores": {
-        "energy": 15,
+        "energy": 29,
         "rates": 0,
-        "trade": 15,
-        "security": 13,
+        "trade": 13,
+        "security": 5,
         "climate": 8
       },
-      "articleCount": 90
+      "articleCount": 91
     }
   ],
   "editorial": {
     "leadTopic": "energy",
     "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
-    "summary": "Enerji arzında veya deniz geçişlerinde teyitli kesinti, enerji fiyatları ve taşımacılık maliyetlerini yükselterek ekonomiye yayılabilir; maliyet baskısı enflasyon ve cari açığı üzerinden etkileyebilir.",
+    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
     "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
     "timeline": [
       {
@@ -2590,16 +2535,18 @@
       }
     ],
     "watch": [
-      "Enerji arzında veya deniz geçişlerinde teyitli kesinti.",
-      "Petrol fiyatlarıındaki hareketin kalıcı hâle gelmesi.",
+      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
+      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "d9b9d26a6e67",
-      "e7f58b8a4acf"
+      "3b8c66cd2190",
+      "0afef7db4686",
+      "bfc2c9534dd9",
+      "d9b9d26a6e67"
     ],
     "events": [],
-    "origin": "free-ai"
+    "origin": "rules"
   },
   "methodologyVersion": "1.0",
   "forecastStatus": "uncalibrated-scenarios",
