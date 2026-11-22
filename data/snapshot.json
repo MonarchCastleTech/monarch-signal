@@ -1,8 +1,260 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T15:24:59+00:00",
+  "generatedAt": "2026-11-22T21:51:39+00:00",
   "windowHours": 72,
   "articles": [
+    {
+      "id": "26492f7c1630",
+      "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T21:26:12+00:00"
+    },
+    {
+      "id": "2bc870e4e218",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T21:22:40+00:00"
+    },
+    {
+      "id": "d72d5d2a3401",
+      "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T20:29:01+00:00"
+    },
+    {
+      "id": "58887607f9ea",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T20:28:09+00:00"
+    },
+    {
+      "id": "42e3f1bf8fef",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T20:26:24+00:00"
+    },
+    {
+      "id": "18b555b9a918",
+      "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T20:04:12+00:00"
+    },
+    {
+      "id": "4b2eaaac33ab",
+      "title": "Why has the COP31 climate summit failed to reach agreement?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T20:00:00+00:00"
+    },
+    {
+      "id": "a737e68e23a0",
+      "title": "Cockroaches, dissent and a paradigm shift in India",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T19:40:12+00:00"
+    },
+    {
+      "id": "7d1cfdebbea8",
+      "title": "On China, is Trump bucking the US national security establishment?",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T19:30:00+00:00"
+    },
+    {
+      "id": "5db28e9e4624",
+      "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+      "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T19:18:29+00:00"
+    },
+    {
+      "id": "c6413985f297",
+      "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+      "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T19:10:00+00:00"
+    },
+    {
+      "id": "fcb85812f82b",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T18:57:24+00:00"
+    },
+    {
+      "id": "a653a9fddc3d",
+      "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T18:44:24+00:00"
+    },
+    {
+      "id": "cd68c8fe7174",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T18:29:46+00:00"
+    },
+    {
+      "id": "5a536dc8ad71",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T18:17:59+00:00"
+    },
+    {
+      "id": "af55c9b3b5ff",
+      "title": "Civilians killed in RSF drone strikes in Sudan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T18:12:07+00:00"
+    },
+    {
+      "id": "38b12df2f4a3",
+      "title": "Suspected drone attack causes explosion on Russian ship in Libya",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T18:11:30+00:00"
+    },
+    {
+      "id": "0a3a05d548f8",
+      "title": "UN climate talks collapse without a deal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T18:04:25+00:00"
+    },
+    {
+      "id": "c9af2f5cdf80",
+      "title": "Cox’s Bazar: Rohingya Life in Exile",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T18:02:06+00:00"
+    },
+    {
+      "id": "2ceaa6a9d6eb",
+      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T18:00:00+00:00"
+    },
+    {
+      "id": "6660a0cd7c1a",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T17:57:43+00:00"
+    },
+    {
+      "id": "8014412e6d74",
+      "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T17:46:32+00:00"
+    },
+    {
+      "id": "0afef7db4686",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T17:18:26+00:00"
+    },
+    {
+      "id": "c3072a6f4c52",
+      "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T17:12:48+00:00"
+    },
+    {
+      "id": "4997e6457703",
+      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T16:50:48+00:00"
+    },
+    {
+      "id": "bdfc92a8896a",
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T16:33:26+00:00"
+    },
+    {
+      "id": "3e38e9c480e1",
+      "title": "Canada’s PM appears next to Trump impersonator at press dinner",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T16:06:46+00:00"
+    },
+    {
+      "id": "d4d24a1faee4",
+      "title": "Can we build a more ethical AI future?",
+      "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T15:30:09+00:00"
+    },
     {
       "id": "d2213ab9c884",
       "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
@@ -32,7 +284,7 @@
     },
     {
       "id": "5b817517a33b",
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
       "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
@@ -49,42 +301,6 @@
       "publishedAt": "2026-11-22T14:35:55+00:00"
     },
     {
-      "id": "f5bd1dbe3ac7",
-      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
-      "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T14:33:26+00:00"
-    },
-    {
-      "id": "d52d20826346",
-      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T14:30:27+00:00"
-    },
-    {
-      "id": "a6beef9a090b",
-      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-      "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T14:20:41+00:00"
-    },
-    {
-      "id": "c2d5c9e86e89",
-      "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
-      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T14:08:28+00:00"
-    },
-    {
       "id": "79db65a62a99",
       "title": "Three killed and dozens missing after fire at Indonesian factory",
       "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
@@ -94,15 +310,6 @@
       "publishedAt": "2026-11-22T14:05:20+00:00"
     },
     {
-      "id": "57fb1f411340",
-      "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-      "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T14:00:31+00:00"
-    },
-    {
       "id": "bdb651569942",
       "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
       "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
@@ -110,150 +317,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-22T13:50:21+00:00"
-    },
-    {
-      "id": "a4212ae1d225",
-      "title": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
-      "url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T13:46:45+00:00"
-    },
-    {
-      "id": "c83eee72a04f",
-      "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T13:35:09+00:00"
-    },
-    {
-      "id": "6786ac796682",
-      "title": "Croatia outraged after psychiatric patient dies from alleged hospital abuse",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/croatia-outraged-after-psychiatric-patient-dies-from-alleged-hospital-abuse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T13:31:40+00:00"
-    },
-    {
-      "id": "dc6617024380",
-      "title": "Live: Liverpool vs Manchester United – Premier League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/22/live-liverpool-vs-manchester-united-premier-league-3?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T13:30:00+00:00"
-    },
-    {
-      "id": "a97101e001b9",
-      "title": "Major fire erupts at a fuel station in Lagos",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T13:26:19+00:00"
-    },
-    {
-      "id": "5d83cbc5ffc9",
-      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-      "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T13:16:45+00:00"
-    },
-    {
-      "id": "42fb90c6461f",
-      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-      "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T13:15:40+00:00"
-    },
-    {
-      "id": "3083468884de",
-      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-      "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T12:31:30+00:00"
-    },
-    {
-      "id": "452768af2da0",
-      "title": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
-      "url": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T12:22:43+00:00"
-    },
-    {
-      "id": "0dafff774d33",
-      "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-      "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T12:19:42+00:00"
-    },
-    {
-      "id": "5f2f2d0c82de",
-      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T11:46:42+00:00"
-    },
-    {
-      "id": "5b64ba862089",
-      "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-      "url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T11:44:50+00:00"
-    },
-    {
-      "id": "0afef7db4686",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-22T11:25:14+00:00"
-    },
-    {
-      "id": "cbd902420267",
-      "title": "Russian ship attacked by drone in Baltic Sea off Finland",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T11:15:27+00:00"
-    },
-    {
-      "id": "77a6102410f7",
-      "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-      "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T11:07:30+00:00"
-    },
-    {
-      "id": "56264807e0b2",
-      "title": "Russian cargo ship still on fire off Finland after drone attack",
-      "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T10:39:50+00:00"
     },
     {
       "id": "26411d095209",
@@ -353,6 +416,15 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-21T22:01:19+00:00"
+    },
+    {
+      "id": "0adb20796144",
+      "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+      "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-21T18:30:00+00:00"
     },
     {
       "id": "74b233a91706",
@@ -589,24 +661,6 @@
       "publishedAt": "2026-11-20T20:54:12+00:00"
     },
     {
-      "id": "49dba4e1f94e",
-      "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
-      "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-20T20:45:00+00:00"
-    },
-    {
-      "id": "c2e9244e707c",
-      "title": "Repression against Iranian lawyers increases",
-      "url": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-20T20:36:00+00:00"
-    },
-    {
       "id": "ddb7ded51fd8",
       "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
       "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
@@ -623,15 +677,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-20T17:49:48+00:00"
-    },
-    {
-      "id": "4be5e2499c7b",
-      "title": "Cost of living protests sweep across Europe",
-      "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-20T16:45:34+00:00"
     },
     {
       "id": "8e08ea4300fb",
@@ -659,15 +704,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-20T15:40:40+00:00"
-    },
-    {
-      "id": "a8ca822f64d0",
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-20T15:14:01+00:00"
     },
     {
       "id": "c75baa22884a",
@@ -852,16 +888,13 @@
           ]
         }
       ],
-      "score": 38,
+      "score": 7,
       "evidenceIds": [
-        "a6beef9a090b",
-        "3083468884de",
-        "5f2f2d0c82de",
         "0afef7db4686"
       ],
-      "articleCount": 4,
-      "sourceCount": 2,
-      "stressHeadlines": 2,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "stressHeadlines": 0,
       "coverage": "sınırlı"
     },
     {
@@ -1030,14 +1063,16 @@
           ]
         }
       ],
-      "score": 4,
+      "score": 19,
       "evidenceIds": [
+        "58887607f9ea",
+        "c3072a6f4c52",
         "bb068ad239d4"
       ],
-      "articleCount": 1,
-      "sourceCount": 1,
+      "articleCount": 3,
+      "sourceCount": 3,
       "stressHeadlines": 0,
-      "coverage": "sınırlı"
+      "coverage": "çok kaynaklı"
     },
     {
       "id": "security",
@@ -1120,17 +1155,12 @@
           ]
         }
       ],
-      "score": 35,
-      "evidenceIds": [
-        "a6beef9a090b",
-        "5d83cbc5ffc9",
-        "3083468884de",
-        "a8ca822f64d0"
-      ],
-      "articleCount": 4,
-      "sourceCount": 2,
-      "stressHeadlines": 3,
-      "coverage": "sınırlı"
+      "score": 0,
+      "evidenceIds": [],
+      "articleCount": 0,
+      "sourceCount": 0,
+      "stressHeadlines": 0,
+      "coverage": "veri yok"
     },
     {
       "id": "climate",
@@ -1214,12 +1244,18 @@
           ]
         }
       ],
-      "score": 0,
-      "evidenceIds": [],
-      "articleCount": 0,
-      "sourceCount": 0,
+      "score": 38,
+      "evidenceIds": [
+        "4b2eaaac33ab",
+        "fcb85812f82b",
+        "5a536dc8ad71",
+        "0a3a05d548f8",
+        "bdfc92a8896a"
+      ],
+      "articleCount": 5,
+      "sourceCount": 2,
       "stressHeadlines": 0,
-      "coverage": "veri yok"
+      "coverage": "sınırlı"
     }
   ],
   "series": [
@@ -2190,7 +2226,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-22T15:24:59+00:00",
+      "fetchedAt": "2026-11-22T21:51:39+00:00",
       "latest": {
         "date": "2026-11-20",
         "value": 50.5722
@@ -2205,15 +2241,15 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-22T15:24:59+00:00",
-      "count": 28
+      "checkedAt": "2026-11-22T21:51:39+00:00",
+      "count": 35
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-22T15:24:59+00:00",
+      "checkedAt": "2026-11-22T21:51:39+00:00",
       "count": 26
     },
     {
@@ -2221,15 +2257,15 @@
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-22T15:24:59+00:00",
-      "count": 11
+      "checkedAt": "2026-11-22T21:51:39+00:00",
+      "count": 10
     },
     {
       "id": "aljazeera",
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-22T15:24:59+00:00",
+      "checkedAt": "2026-11-22T21:51:39+00:00",
       "count": 25
     },
     {
@@ -2237,19 +2273,111 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-22T15:24:59+00:00",
+      "checkedAt": "2026-11-22T21:51:39+00:00",
       "count": 1
     }
   ],
   "analysis": {
-    "status": "unavailable",
-    "provider": null,
-    "model": null,
-    "summary": "",
-    "notes": [],
-    "generatedAt": "2026-11-22T15:24:59+00:00",
-    "fingerprint": "c46fbd9991aa99e9ab96af4f3a99cf38314759a85b8988d92439515bb47299ce",
-    "reason": "Ücretsiz AI servisi HTTP 400 döndürdü; kural modeli kullanılıyor."
+    "summary": "COP31 iklim görüşmeleri anlaşma sağlayamazsa ulusal iklim hedefleri revize edilebilir. Yatırımlar ertelense yeşil enerji geçişi yavaşlayabilir.",
+    "notes": [
+      {
+        "topic": "climate",
+        "text": "Ulusal iklim taahhütleri zayıflarsa yeşil enerji yatırımları ertelebilir. Tarımsal üretim ve gıda fiyatları iklim şoklarına bağlı olarak etkilenebilir.",
+        "evidenceIds": [
+          "4b2eaaac33ab",
+          "fcb85812f82b",
+          "5a536dc8ad71",
+          "0a3a05d548f8",
+          "bdfc92a8896a"
+        ]
+      }
+    ],
+    "editorial": {
+      "leadTopic": "climate",
+      "headline": "COP31 görüşmeleri anlaşma sağlayamadı",
+      "summary": "İklim görüşmelerinin anlaşmasız bitmesi ulusal hedefleri ve yeşil enerji yatırımlarını etkileyebilir. Gıda ve enerji maliyetleri iklim şoklarına bağlı olarak baskı altında kalabilir.",
+      "intro": "İklim & gıda gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
+      "timeline": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "Kısa vadeli beklenti",
+          "text": "İlk iki haftada iklim politikalarında belirsizlik artabilir. Yatırım kararları ertelelebilir.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Orta vadeli beklenti",
+          "text": "İki hafta ile üç ay arasında ulusal iklim hedefleri revize edilebilir. Yeşil enerji geçişi yavaşlayabilir.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Uzun vadeli beklenti",
+          "text": "Üç ile on iki ay arasında iklim uyum yatırımları artabilir. Gıda ve enerji fiyatları iklim şoklarına bağlı olarak etkilenebilir.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "watch": [
+        "Ulusal iklim hedeflerindeki değişiklikler",
+        "Yeşil enerji yatırım hacimleri",
+        "Gıda ve enerji fiyatı hareketleri"
+      ],
+      "evidenceIds": [
+        "4b2eaaac33ab",
+        "fcb85812f82b",
+        "5a536dc8ad71",
+        "0a3a05d548f8",
+        "bdfc92a8896a"
+      ],
+      "events": [
+        {
+          "evidenceId": "4b2eaaac33ab",
+          "headline": "COP31 iklim zirvesi anlaşma sağlayamadı"
+        },
+        {
+          "evidenceId": "fcb85812f82b",
+          "headline": "COP31 iklim görüşmaları sonrası ne olacak?"
+        },
+        {
+          "evidenceId": "5a536dc8ad71",
+          "headline": "COP31 büyük iklim anlaşması sağlayamadı"
+        },
+        {
+          "evidenceId": "0a3a05d548f8",
+          "headline": "BM iklim görüşmaları anlaşmasız bitti"
+        },
+        {
+          "evidenceId": "bdfc92a8896a",
+          "headline": "COP31 iklim görüşmaları sona erdi, temsilciler tepki verdi"
+        }
+      ],
+      "origin": "free-ai"
+    },
+    "status": "ok",
+    "provider": "OpenRouter Free",
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "generatedAt": "2026-11-22T21:51:39+00:00",
+    "fingerprint": "b4bf1ac66cf03e60b3555caaaa98ac0c589fd1efcbb9798128878c41bda0164a",
+    "requestedModel": "nvidia/nemotron-3.5-lightning:free",
+    "usage": {
+      "totalTokens": 2862,
+      "cost": 0
+    }
   },
   "history": [
     {
@@ -2442,27 +2570,27 @@
     {
       "date": "2026-11-22",
       "scores": {
-        "energy": 38,
+        "energy": 7,
         "rates": 0,
-        "trade": 4,
-        "security": 35,
-        "climate": 0
+        "trade": 19,
+        "security": 0,
+        "climate": 38
       },
-      "articleCount": 85
+      "articleCount": 89
     }
   ],
   "editorial": {
-    "leadTopic": "energy",
-    "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
-    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
-    "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
+    "leadTopic": "climate",
+    "headline": "COP31 görüşmeleri anlaşma sağlayamadı",
+    "summary": "İklim görüşmelerinin anlaşmasız bitmesi ulusal hedefleri ve yeşil enerji yatırımlarını etkileyebilir. Gıda ve enerji maliyetleri iklim şoklarına bağlı olarak baskı altında kalabilir.",
+    "intro": "İklim & gıda gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
     "timeline": [
       {
         "id": "near",
         "label": "KISA VADE",
         "range": "İlk 2 hafta",
-        "title": "İlk baskı enerji ve taşımacılıkta",
-        "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
+        "title": "Kısa vadeli beklenti",
+        "text": "İlk iki haftada iklim politikalarında belirsizlik artabilir. Yatırım kararları ertelelebilir.",
         "tags": [
           "Enerji maliyeti",
           "Enflasyon baskısı"
@@ -2472,8 +2600,8 @@
         "id": "medium",
         "label": "ORTA VADE",
         "range": "2 hafta – 3 ay",
-        "title": "Maliyetler enflasyona yayılabilir",
-        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+        "title": "Orta vadeli beklenti",
+        "text": "İki hafta ile üç ay arasında ulusal iklim hedefleri revize edilebilir. Yeşil enerji geçişi yavaşlayabilir.",
         "tags": [
           "Enflasyon baskısı",
           "Tedarik baskısı"
@@ -2483,8 +2611,8 @@
         "id": "long",
         "label": "UZUN VADE",
         "range": "3 – 12 ay",
-        "title": "Tedarik güvenliği öne çıkacak",
-        "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+        "title": "Uzun vadeli beklenti",
+        "text": "Üç ile on iki ay arasında iklim uyum yatırımları artabilir. Gıda ve enerji fiyatları iklim şoklarına bağlı olarak etkilenebilir.",
         "tags": [
           "Tedarik baskısı",
           "Finansman baskısı"
@@ -2492,18 +2620,40 @@
       }
     ],
     "watch": [
-      "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
-      "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
-      "Diplomatik gerilimi azaltan veya artıran somut adımlar."
+      "Ulusal iklim hedeflerindeki değişiklikler",
+      "Yeşil enerji yatırım hacimleri",
+      "Gıda ve enerji fiyatı hareketleri"
     ],
     "evidenceIds": [
-      "a6beef9a090b",
-      "3083468884de",
-      "5f2f2d0c82de",
-      "0afef7db4686"
+      "4b2eaaac33ab",
+      "fcb85812f82b",
+      "5a536dc8ad71",
+      "0a3a05d548f8",
+      "bdfc92a8896a"
     ],
-    "events": [],
-    "origin": "rules"
+    "events": [
+      {
+        "evidenceId": "4b2eaaac33ab",
+        "headline": "COP31 iklim zirvesi anlaşma sağlayamadı"
+      },
+      {
+        "evidenceId": "fcb85812f82b",
+        "headline": "COP31 iklim görüşmaları sonrası ne olacak?"
+      },
+      {
+        "evidenceId": "5a536dc8ad71",
+        "headline": "COP31 büyük iklim anlaşması sağlayamadı"
+      },
+      {
+        "evidenceId": "0a3a05d548f8",
+        "headline": "BM iklim görüşmaları anlaşmasız bitti"
+      },
+      {
+        "evidenceId": "bdfc92a8896a",
+        "headline": "COP31 iklim görüşmaları sona erdi, temsilciler tepki verdi"
+      }
+    ],
+    "origin": "free-ai"
   },
   "methodologyVersion": "1.0",
   "forecastStatus": "uncalibrated-scenarios",
