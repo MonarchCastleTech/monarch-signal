@@ -1,34 +1,295 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T06:58:27+00:00",
+  "generatedAt": "2026-11-22T15:24:59+00:00",
   "windowHours": 72,
   "articles": [
     {
-      "id": "b7bb9c611a98",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "id": "d2213ab9c884",
+      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T15:24:20+00:00"
+    },
+    {
+      "id": "2109a953017e",
+      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+      "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T15:03:38+00:00"
+    },
+    {
+      "id": "50ffe8ef0f1c",
+      "title": "The Drugs Don’t Work",
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T14:51:39+00:00"
+    },
+    {
+      "id": "5b817517a33b",
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T14:48:50+00:00"
+    },
+    {
+      "id": "883278d3ce81",
+      "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+      "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T14:35:55+00:00"
+    },
+    {
+      "id": "f5bd1dbe3ac7",
+      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+      "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T14:33:26+00:00"
+    },
+    {
+      "id": "d52d20826346",
+      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T14:30:27+00:00"
+    },
+    {
+      "id": "a6beef9a090b",
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T14:20:41+00:00"
+    },
+    {
+      "id": "c2d5c9e86e89",
+      "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T14:08:28+00:00"
+    },
+    {
+      "id": "79db65a62a99",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-22T06:54:06+00:00"
+      "publishedAt": "2026-11-22T14:05:20+00:00"
     },
     {
-      "id": "571ace5a5b81",
-      "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
-      "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+      "id": "57fb1f411340",
+      "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+      "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T06:40:18+00:00"
+      "publishedAt": "2026-11-22T14:00:31+00:00"
     },
     {
-      "id": "a0f6dac1b929",
-      "title": "What Sandpapergate reveals about Australian cricket",
-      "url": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
+      "id": "bdb651569942",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T13:50:21+00:00"
+    },
+    {
+      "id": "a4212ae1d225",
+      "title": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T06:32:43+00:00"
+      "publishedAt": "2026-11-22T13:46:45+00:00"
+    },
+    {
+      "id": "c83eee72a04f",
+      "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T13:35:09+00:00"
+    },
+    {
+      "id": "6786ac796682",
+      "title": "Croatia outraged after psychiatric patient dies from alleged hospital abuse",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/croatia-outraged-after-psychiatric-patient-dies-from-alleged-hospital-abuse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T13:31:40+00:00"
+    },
+    {
+      "id": "dc6617024380",
+      "title": "Live: Liverpool vs Manchester United – Premier League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/22/live-liverpool-vs-manchester-united-premier-league-3?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T13:30:00+00:00"
+    },
+    {
+      "id": "a97101e001b9",
+      "title": "Major fire erupts at a fuel station in Lagos",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T13:26:19+00:00"
+    },
+    {
+      "id": "5d83cbc5ffc9",
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T13:16:45+00:00"
+    },
+    {
+      "id": "42fb90c6461f",
+      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+      "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T13:15:40+00:00"
+    },
+    {
+      "id": "3083468884de",
+      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+      "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T12:31:30+00:00"
+    },
+    {
+      "id": "452768af2da0",
+      "title": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T12:22:43+00:00"
+    },
+    {
+      "id": "0dafff774d33",
+      "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T12:19:42+00:00"
+    },
+    {
+      "id": "5f2f2d0c82de",
+      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T11:46:42+00:00"
+    },
+    {
+      "id": "5b64ba862089",
+      "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
+      "url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T11:44:50+00:00"
+    },
+    {
+      "id": "0afef7db4686",
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T11:25:14+00:00"
+    },
+    {
+      "id": "cbd902420267",
+      "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T11:15:27+00:00"
+    },
+    {
+      "id": "77a6102410f7",
+      "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T11:07:30+00:00"
+    },
+    {
+      "id": "56264807e0b2",
+      "title": "Russian cargo ship still on fire off Finland after drone attack",
+      "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-22T10:39:50+00:00"
+    },
+    {
+      "id": "26411d095209",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T09:20:45+00:00"
+    },
+    {
+      "id": "a3492edf3810",
+      "title": "China, ASEAN countries struggle over South China Sea code of conduct",
+      "url": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-22T08:45:00+00:00"
+    },
+    {
+      "id": "5bf74a2be124",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T07:22:05+00:00"
+    },
+    {
+      "id": "ca140870714f",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T07:12:41+00:00"
     },
     {
       "id": "07c7cd5dbdea",
@@ -40,96 +301,6 @@
       "publishedAt": "2026-11-22T06:14:00+00:00"
     },
     {
-      "id": "79db65a62a99",
-      "title": "Dozens missing after fire at Indonesian factory",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-22T06:05:00+00:00"
-    },
-    {
-      "id": "7ea697b844e3",
-      "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
-      "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T05:38:52+00:00"
-    },
-    {
-      "id": "93f4f6df465e",
-      "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-      "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T05:21:46+00:00"
-    },
-    {
-      "id": "6a8ead444337",
-      "title": "ICE agents detain two people at Seattle airport",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T05:06:32+00:00"
-    },
-    {
-      "id": "32cc70f2428f",
-      "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-      "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T04:51:35+00:00"
-    },
-    {
-      "id": "87f02a4d27a9",
-      "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T04:42:02+00:00"
-    },
-    {
-      "id": "d154fe5a6871",
-      "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-      "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T03:34:02+00:00"
-    },
-    {
-      "id": "08be67c1078a",
-      "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
-      "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T02:45:36+00:00"
-    },
-    {
-      "id": "1a3cd6eb8d9b",
-      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T02:14:18+00:00"
-    },
-    {
-      "id": "aebdd68431b2",
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T02:05:50+00:00"
-    },
-    {
       "id": "6e5196c5585d",
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
@@ -137,24 +308,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-22T01:25:03+00:00"
-    },
-    {
-      "id": "c7917ee9578d",
-      "title": "Moviegoers head for the exits as quake strikes Peru",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T01:07:19+00:00"
-    },
-    {
-      "id": "3a8c8b4e1fd2",
-      "title": "Clashes erupt across France in another night of protest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-22T00:37:32+00:00"
     },
     {
       "id": "82d790035378",
@@ -184,40 +337,13 @@
       "publishedAt": "2026-11-22T00:09:58+00:00"
     },
     {
-      "id": "914b97b00a2b",
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T23:59:03+00:00"
-    },
-    {
-      "id": "a60c2b046263",
-      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-      "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T23:44:00+00:00"
-    },
-    {
-      "id": "ffd6744eb16a",
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T23:18:14+00:00"
-    },
-    {
-      "id": "dac9ee4703e2",
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T22:02:03+00:00"
+      "id": "d1a367e862c6",
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-22T00:04:07+00:00"
     },
     {
       "id": "b1953102b359",
@@ -227,87 +353,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-21T22:01:19+00:00"
-    },
-    {
-      "id": "28cd46f0daaa",
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T21:31:03+00:00"
-    },
-    {
-      "id": "f99427dd69a4",
-      "title": "Impunity fuels surge in settler violence across occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T21:11:54+00:00"
-    },
-    {
-      "id": "d7b7eae35cff",
-      "title": "Indian man jailed over plot to kill Sikh separatist in US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T21:09:18+00:00"
-    },
-    {
-      "id": "a1e3a5a13b65",
-      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-      "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T21:02:18+00:00"
-    },
-    {
-      "id": "3b8c66cd2190",
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T20:56:35+00:00"
-    },
-    {
-      "id": "1448806a7641",
-      "title": "Thousands protest across Europe over living costs and housing",
-      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T20:47:50+00:00"
-    },
-    {
-      "id": "84dc8510f95c",
-      "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T20:38:20+00:00"
-    },
-    {
-      "id": "709088c17ebe",
-      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-21T20:15:13+00:00"
-    },
-    {
-      "id": "0afef7db4686",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-21T19:20:22+00:00"
     },
     {
       "id": "74b233a91706",
@@ -452,6 +497,15 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-21T00:34:51+00:00"
+    },
+    {
+      "id": "2fa41ae859b1",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-21T00:06:11+00:00"
     },
     {
       "id": "3df0760b00a4",
@@ -625,15 +679,6 @@
       "publishedAt": "2026-11-20T15:08:16+00:00"
     },
     {
-      "id": "1a7b1c3175b8",
-      "title": "Is Pakistan backing anti-Taliban groups in Afghanistan?",
-      "url": "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-20T15:02:00+00:00"
-    },
-    {
       "id": "29d11b513a17",
       "title": "Thousands join cost of living protests across Europe",
       "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
@@ -641,15 +686,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-20T14:43:39+00:00"
-    },
-    {
-      "id": "f12586fcea84",
-      "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-      "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-20T14:30:00+00:00"
     },
     {
       "id": "b028fb2df147",
@@ -677,15 +713,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-20T07:32:19+00:00"
-    },
-    {
-      "id": "72535b8196b3",
-      "title": "Social poker with £5 stake is booming, says dealer",
-      "url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-20T06:19:25+00:00"
     },
     {
       "id": "cd1e7a08eb8f",
@@ -740,33 +767,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-19T23:04:30+00:00"
-    },
-    {
-      "id": "cae7150e35ad",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T15:58:58+00:00"
-    },
-    {
-      "id": "5e9dbc2b1909",
-      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T13:35:52+00:00"
-    },
-    {
-      "id": "e582bd89fd18",
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
-      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-19T11:38:09+00:00"
     }
   ],
   "topics": [
@@ -852,18 +852,16 @@
           ]
         }
       ],
-      "score": 50,
+      "score": 38,
       "evidenceIds": [
-        "aebdd68431b2",
-        "914b97b00a2b",
-        "a60c2b046263",
-        "ffd6744eb16a",
-        "3b8c66cd2190",
+        "a6beef9a090b",
+        "3083468884de",
+        "5f2f2d0c82de",
         "0afef7db4686"
       ],
-      "articleCount": 6,
+      "articleCount": 4,
       "sourceCount": 2,
-      "stressHeadlines": 3,
+      "stressHeadlines": 2,
       "coverage": "sınırlı"
     },
     {
@@ -1032,7 +1030,7 @@
           ]
         }
       ],
-      "score": 5,
+      "score": 4,
       "evidenceIds": [
         "bb068ad239d4"
       ],
@@ -1122,16 +1120,16 @@
           ]
         }
       ],
-      "score": 25,
+      "score": 35,
       "evidenceIds": [
-        "aebdd68431b2",
-        "914b97b00a2b",
-        "ffd6744eb16a",
+        "a6beef9a090b",
+        "5d83cbc5ffc9",
+        "3083468884de",
         "a8ca822f64d0"
       ],
       "articleCount": 4,
       "sourceCount": 2,
-      "stressHeadlines": 1,
+      "stressHeadlines": 3,
       "coverage": "sınırlı"
     },
     {
@@ -1216,15 +1214,12 @@
           ]
         }
       ],
-      "score": 16,
-      "evidenceIds": [
-        "b7bb9c611a98",
-        "32cc70f2428f"
-      ],
-      "articleCount": 2,
-      "sourceCount": 2,
+      "score": 0,
+      "evidenceIds": [],
+      "articleCount": 0,
+      "sourceCount": 0,
       "stressHeadlines": 0,
-      "coverage": "sınırlı"
+      "coverage": "veri yok"
     }
   ],
   "series": [
@@ -2195,7 +2190,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-22T06:58:27+00:00",
+      "fetchedAt": "2026-11-22T15:24:59+00:00",
       "latest": {
         "date": "2026-11-20",
         "value": 50.5722
@@ -2210,31 +2205,31 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-22T06:58:27+00:00",
-      "count": 27
+      "checkedAt": "2026-11-22T15:24:59+00:00",
+      "count": 28
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-22T06:58:27+00:00",
-      "count": 24
+      "checkedAt": "2026-11-22T15:24:59+00:00",
+      "count": 26
     },
     {
       "id": "dw",
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-22T06:58:27+00:00",
-      "count": 12
+      "checkedAt": "2026-11-22T15:24:59+00:00",
+      "count": 11
     },
     {
       "id": "aljazeera",
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-22T06:58:27+00:00",
+      "checkedAt": "2026-11-22T15:24:59+00:00",
       "count": 25
     },
     {
@@ -2242,7 +2237,7 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-22T06:58:27+00:00",
+      "checkedAt": "2026-11-22T15:24:59+00:00",
       "count": 1
     }
   ],
@@ -2252,8 +2247,8 @@
     "model": null,
     "summary": "",
     "notes": [],
-    "generatedAt": "2026-11-22T06:58:27+00:00",
-    "fingerprint": "3befd1dedf7d9a8e9505012d5a2bdc4aad67a44cde8ca76f484821caec61d04d",
+    "generatedAt": "2026-11-22T15:24:59+00:00",
+    "fingerprint": "c46fbd9991aa99e9ab96af4f3a99cf38314759a85b8988d92439515bb47299ce",
     "reason": "Ücretsiz AI servisi HTTP 400 döndürdü; kural modeli kullanılıyor."
   },
   "history": [
@@ -2447,11 +2442,11 @@
     {
       "date": "2026-11-22",
       "scores": {
-        "energy": 50,
+        "energy": 38,
         "rates": 0,
-        "trade": 5,
-        "security": 25,
-        "climate": 16
+        "trade": 4,
+        "security": 35,
+        "climate": 0
       },
       "articleCount": 85
     }
@@ -2502,11 +2497,9 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "aebdd68431b2",
-      "914b97b00a2b",
-      "a60c2b046263",
-      "ffd6744eb16a",
-      "3b8c66cd2190",
+      "a6beef9a090b",
+      "3083468884de",
+      "5f2f2d0c82de",
       "0afef7db4686"
     ],
     "events": [],
