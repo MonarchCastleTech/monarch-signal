@@ -1,43 +1,403 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T12:36:04+00:00",
+  "generatedAt": "2026-11-27T22:02:26+00:00",
   "windowHours": 72,
   "articles": [
     {
-      "id": "69ba15035883",
-      "title": "European football violence causes concern with far-right claim in UEFA game",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T12:12:56+00:00"
+      "id": "21d8bca4dce9",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T21:55:53+00:00"
     },
     {
-      "id": "fcbeb7134dc3",
-      "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-      "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+      "id": "40909ff2d071",
+      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T12:00:22+00:00"
+      "publishedAt": "2026-11-27T21:11:27+00:00"
     },
     {
-      "id": "082371b7a44a",
-      "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-      "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+      "id": "9334ddf2ba97",
+      "title": "Venezuela to repeal law that bans opposition figures from office",
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T11:51:26+00:00"
+      "publishedAt": "2026-11-27T20:44:03+00:00"
     },
     {
-      "id": "173a4267a723",
-      "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-      "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+      "id": "e81b43653220",
+      "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+      "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-27T20:43:00+00:00"
+    },
+    {
+      "id": "2d728b9efecf",
+      "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T11:44:46+00:00"
+      "publishedAt": "2026-11-27T20:40:51+00:00"
+    },
+    {
+      "id": "7e016e114440",
+      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T20:39:57+00:00"
+    },
+    {
+      "id": "802c13684b23",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T20:34:45+00:00"
+    },
+    {
+      "id": "ad76ffedc496",
+      "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T20:18:45+00:00"
+    },
+    {
+      "id": "5ea3ebb9e18f",
+      "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T20:10:30+00:00"
+    },
+    {
+      "id": "d72130f063db",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T20:06:31+00:00"
+    },
+    {
+      "id": "dc0b057d24fa",
+      "title": "Is Iraq facing renewed instability?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T19:56:35+00:00"
+    },
+    {
+      "id": "c7317935c341",
+      "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+      "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T19:53:25+00:00"
+    },
+    {
+      "id": "1c974769ed69",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T18:42:50+00:00"
+    },
+    {
+      "id": "0ee55cb05957",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T18:00:40+00:00"
+    },
+    {
+      "id": "c0dfde507c82",
+      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+      "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T17:58:36+00:00"
+    },
+    {
+      "id": "a0ebe6f7e930",
+      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T17:44:50+00:00"
+    },
+    {
+      "id": "b0acbc841dcd",
+      "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+      "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T17:44:33+00:00"
+    },
+    {
+      "id": "f47b8eacb892",
+      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T17:41:24+00:00"
+    },
+    {
+      "id": "dc0ea6f6fb2b",
+      "title": "Why India’s captain wants saliva back in cricket",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T17:39:57+00:00"
+    },
+    {
+      "id": "21d4ccee9e47",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T17:19:31+00:00"
+    },
+    {
+      "id": "59aa2847ef12",
+      "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+      "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T17:15:35+00:00"
+    },
+    {
+      "id": "f0a421052751",
+      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T17:13:46+00:00"
+    },
+    {
+      "id": "9a53b1ea42ad",
+      "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T16:54:05+00:00"
+    },
+    {
+      "id": "bd6ce6132fe5",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T16:53:46+00:00"
+    },
+    {
+      "id": "05a844bfc611",
+      "title": "Divisions deepen between EU member states after tense budget summit",
+      "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-27T16:51:00+00:00"
+    },
+    {
+      "id": "299121f64823",
+      "title": "Syria debates citizenship rights for children of foreign fighters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T16:47:35+00:00"
+    },
+    {
+      "id": "99440e5ad966",
+      "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+      "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T16:33:21+00:00"
+    },
+    {
+      "id": "2056d813280b",
+      "title": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T16:31:20+00:00"
+    },
+    {
+      "id": "cc229b760a2d",
+      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+      "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T16:13:07+00:00"
+    },
+    {
+      "id": "4513ddf25977",
+      "title": "Will new energy fixes cost more in January?",
+      "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T16:05:32+00:00"
+    },
+    {
+      "id": "16fa36c37107",
+      "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T16:01:44+00:00"
+    },
+    {
+      "id": "218dc7c39562",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T15:54:15+00:00"
+    },
+    {
+      "id": "bdef9f0677e0",
+      "title": "Dutch authorities seize 26 critically endangered turtles from luggage of passenger bound for Hong Kong",
+      "url": "https://www.dw.com/en/dutch-authorities-seize-26-critically-endangered-turtles-from-luggage-of-passenger-bound-for-hong-kong/a-80077824?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-27T15:48:00+00:00"
+    },
+    {
+      "id": "89715928f316",
+      "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
+      "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T15:26:50+00:00"
+    },
+    {
+      "id": "6376c63424c9",
+      "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+      "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T15:15:36+00:00"
+    },
+    {
+      "id": "063ba3673aae",
+      "title": "‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return",
+      "url": "https://www.aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T15:12:09+00:00"
+    },
+    {
+      "id": "9773493ba01a",
+      "title": "Funeral prayers held for 31 victims of Egypt tanker crash",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/funeral-prayers-held-for-31-victims-of-egypt-tanker-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-27T15:07:22+00:00"
+    },
+    {
+      "id": "deb84ffc1870",
+      "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+      "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-27T14:20:00+00:00"
+    },
+    {
+      "id": "52093f454fd0",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "source": "ECB",
+      "sourceId": "ecb",
+      "domain": "ecb.europa.eu",
+      "publishedAt": "2026-11-27T14:00:00+00:00"
+    },
+    {
+      "id": "01ce204fae6c",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T13:38:07+00:00"
+    },
+    {
+      "id": "b6856a8ea5b6",
+      "title": "As Gambia gears up for election, can Barrow secure a third term?",
+      "url": "https://www.dw.com/en/as-gambia-gears-up-for-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-27T13:31:00+00:00"
+    },
+    {
+      "id": "983ff7ae64ee",
+      "title": "Informer TV owner Vucicevic arrested: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+      "url": "https://www.dw.com/en/informer-tv-owner-vucicevic-arrested-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-27T13:28:00+00:00"
+    },
+    {
+      "id": "9d6c676a2419",
+      "title": "Duterte's ICC trial: What is at stake for the Philippines?",
+      "url": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-27T13:23:00+00:00"
+    },
+    {
+      "id": "2a4ac067a146",
+      "title": "In Iran, child marriage risks complicated by war",
+      "url": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-27T13:06:00+00:00"
     },
     {
       "id": "1d114d95a413",
@@ -49,49 +409,13 @@
       "publishedAt": "2026-11-27T11:44:40+00:00"
     },
     {
-      "id": "fedbaef93ae9",
-      "title": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
-      "url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T11:35:34+00:00"
-    },
-    {
-      "id": "1c86e242214a",
-      "title": "What Spain’s election means for Morocco",
-      "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T11:33:17+00:00"
-    },
-    {
-      "id": "3b30200b0b7e",
-      "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T11:15:03+00:00"
-    },
-    {
-      "id": "ff995e1332a9",
-      "title": "Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T11:12:58+00:00"
-    },
-    {
-      "id": "ab948a4fa56e",
-      "title": "Pakistan’s viral cricket catch star hopes to launch career",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-pakistan-viral-cricket-catch?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T11:12:54+00:00"
+      "id": "2ed150af3078",
+      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+      "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-27T11:22:02+00:00"
     },
     {
       "id": "78ecce9504e7",
@@ -103,33 +427,6 @@
       "publishedAt": "2026-11-27T11:06:00+00:00"
     },
     {
-      "id": "26cb16fa592d",
-      "title": "US shoppers get ready for Black Friday and Cyber Monday",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T10:59:27+00:00"
-    },
-    {
-      "id": "3639cf00e292",
-      "title": "Why Benjamin Netanyahu’s corruption trial could be unravelling",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T10:54:16+00:00"
-    },
-    {
-      "id": "e90ba58a13a4",
-      "title": "Man United vs Brentford: Premier League – Pochettino, predictions, lineups",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T10:48:54+00:00"
-    },
-    {
       "id": "cadc89dbec6e",
       "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
       "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
@@ -137,24 +434,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-27T10:39:31+00:00"
-    },
-    {
-      "id": "8d7a372e3ce8",
-      "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
-      "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T10:31:20+00:00"
-    },
-    {
-      "id": "a6ddd1de8138",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T10:26:28+00:00"
     },
     {
       "id": "a63026530257",
@@ -166,24 +445,6 @@
       "publishedAt": "2026-11-27T10:24:24+00:00"
     },
     {
-      "id": "7474d81f879a",
-      "title": "Why does Elon Musk want to put a million satellite data centres in space?",
-      "url": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T10:20:17+00:00"
-    },
-    {
-      "id": "4a49f9e7d106",
-      "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T10:15:44+00:00"
-    },
-    {
       "id": "aa40604eb349",
       "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
       "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
@@ -191,42 +452,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-27T10:10:36+00:00"
-    },
-    {
-      "id": "e65174e02203",
-      "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
-      "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T10:01:07+00:00"
-    },
-    {
-      "id": "b40bacbbb9f0",
-      "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-      "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T09:43:01+00:00"
-    },
-    {
-      "id": "0ee55cb05957",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T09:07:48+00:00"
-    },
-    {
-      "id": "cea4ddf330c0",
-      "title": "South Korea sends rescued fishermen back to North",
-      "url": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T09:02:20+00:00"
     },
     {
       "id": "6a89018ebd55",
@@ -247,15 +472,6 @@
       "publishedAt": "2026-11-27T08:58:08+00:00"
     },
     {
-      "id": "34a40c7f95ed",
-      "title": "India upbeat about first Olympic Games after ‘very good’ 2036 presentation",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T08:57:37+00:00"
-    },
-    {
       "id": "041f8409620a",
       "title": "'We're scared to turn our heating on'",
       "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
@@ -265,42 +481,6 @@
       "publishedAt": "2026-11-27T08:47:00+00:00"
     },
     {
-      "id": "009077ec342a",
-      "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
-      "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T08:39:50+00:00"
-    },
-    {
-      "id": "0fe32c9c927c",
-      "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
-      "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T08:37:52+00:00"
-    },
-    {
-      "id": "245a58f0d818",
-      "title": "Police bodycam shows rescue of man from burning car in US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T08:24:59+00:00"
-    },
-    {
-      "id": "61e39f01aff2",
-      "title": "Deadly floods leave parts of Ecuador under water",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T08:24:18+00:00"
-    },
-    {
       "id": "e5f79411f9f4",
       "title": "Millions of wives in South Asia unprotected from marital rape - study",
       "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
@@ -308,33 +488,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-27T08:13:43+00:00"
-    },
-    {
-      "id": "9270cd8b15aa",
-      "title": "New Zealand election results set up tricky talks for conservative incumbent",
-      "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T07:55:32+00:00"
-    },
-    {
-      "id": "cc760bcf642b",
-      "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
-      "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T07:53:59+00:00"
-    },
-    {
-      "id": "ab9b156c7f72",
-      "title": "Brazilian footballer arrested in drug trafficking investigation",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T07:32:12+00:00"
     },
     {
       "id": "295e8e2d69e9",
@@ -391,15 +544,6 @@
       "publishedAt": "2026-11-27T06:04:51+00:00"
     },
     {
-      "id": "93274981a1bf",
-      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T06:03:39+00:00"
-    },
-    {
       "id": "09848a3d4c8a",
       "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
       "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
@@ -416,15 +560,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-27T05:35:10+00:00"
-    },
-    {
-      "id": "f06cfe25e70c",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T03:28:15+00:00"
     },
     {
       "id": "9435e76a29ab",
@@ -499,27 +634,9 @@
       "publishedAt": "2026-11-26T22:06:20+00:00"
     },
     {
-      "id": "9dafd6803806",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-26T22:01:22+00:00"
-    },
-    {
-      "id": "9cf58e9b5260",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-26T21:17:53+00:00"
-    },
-    {
-      "id": "c6558d2b9306",
-      "title": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
-      "url": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-world-4025-rdf",
+      "id": "19bf6b73472f",
+      "title": "Albania's youth are protesting, no longer leaving the country",
+      "url": "https://www.dw.com/en/albania-s-youth-are-protesting-no-longer-leaving-the-country/a-80068939?maca=en-rss-en-world-4025-rdf",
       "source": "DW",
       "sourceId": "dw",
       "domain": "dw.com",
@@ -571,15 +688,6 @@
       "publishedAt": "2026-11-26T16:21:19+00:00"
     },
     {
-      "id": "71d95a7c949d",
-      "title": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
-      "url": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T16:13:00+00:00"
-    },
-    {
       "id": "e1fe904595a6",
       "title": "New UK-EU treaty has 10-year termination clause",
       "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
@@ -587,51 +695,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-26T15:23:17+00:00"
-    },
-    {
-      "id": "09c5b90052b8",
-      "title": "Is authoritarian Vietnam ready to phase out the death penalty?",
-      "url": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T15:19:00+00:00"
-    },
-    {
-      "id": "fc3fb0c33bdb",
-      "title": "Africa's opposition voices face growing pressure",
-      "url": "https://www.dw.com/en/africa-s-opposition-voices-face-growing-pressure/a-80063893?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T15:04:00+00:00"
-    },
-    {
-      "id": "002158da7f55",
-      "title": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
-      "url": "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T14:45:00+00:00"
-    },
-    {
-      "id": "72a1a2ada54b",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-26T14:44:26+00:00"
-    },
-    {
-      "id": "66d310719051",
-      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-26T14:35:22+00:00"
     },
     {
       "id": "deab0b2cafb9",
@@ -650,15 +713,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-26T14:00:20+00:00"
-    },
-    {
-      "id": "6d93bfcf9a92",
-      "title": "EU-Indonesia trade deal opens new markets, but challenges remain",
-      "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T13:41:00+00:00"
     },
     {
       "id": "57ff9d685897",
@@ -688,15 +742,6 @@
       "publishedAt": "2026-11-26T12:30:00+00:00"
     },
     {
-      "id": "846ac1e1edb6",
-      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-26T12:16:06+00:00"
-    },
-    {
       "id": "6fa0d7605dcb",
       "title": "New boss appointed to lead Travelodge",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
@@ -706,15 +751,6 @@
       "publishedAt": "2026-11-26T12:03:49+00:00"
     },
     {
-      "id": "ee7eaa5aee4e",
-      "title": "Crew member dies after diesel tanker sinks off Ibiza coast",
-      "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T11:58:00+00:00"
-    },
-    {
       "id": "ef9b58f60936",
       "title": "Drivers over 70 face eye tests every three years under new plans",
       "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
@@ -722,24 +758,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-26T11:21:45+00:00"
-    },
-    {
-      "id": "4ee6e3d1deeb",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-26T11:00:39+00:00"
-    },
-    {
-      "id": "01a5a9936295",
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-26T10:25:51+00:00"
     },
     {
       "id": "b30040bfa497",
@@ -778,15 +796,6 @@
       "publishedAt": "2026-11-26T09:27:44+00:00"
     },
     {
-      "id": "5dcdff651bad",
-      "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-      "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T09:27:00+00:00"
-    },
-    {
       "id": "50760e70c321",
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
@@ -794,15 +803,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-26T08:24:29+00:00"
-    },
-    {
-      "id": "ca78b0ef9d25",
-      "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
-      "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T06:11:00+00:00"
     },
     {
       "id": "eb2c47c4f2da",
@@ -821,15 +821,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-26T05:00:27+00:00"
-    },
-    {
-      "id": "bb1a7c8cd031",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-26T05:00:24+00:00"
     },
     {
       "id": "0a34feb65b8b",
@@ -893,15 +884,6 @@
       "sourceId": "bbc-business",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-25T16:56:47+00:00"
-    },
-    {
-      "id": "8a74dc6918da",
-      "title": "Why has Poundland collapsed and what happens next?",
-      "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-25T16:24:30+00:00"
     },
     {
       "id": "2a538393bcea",
@@ -1005,22 +987,18 @@
           ]
         }
       ],
-      "score": 63,
+      "score": 38,
       "evidenceIds": [
-        "082371b7a44a",
-        "8d7a372e3ce8",
-        "b40bacbbb9f0",
-        "9dafd6803806",
-        "9cf58e9b5260",
+        "802c13684b23",
+        "cc229b760a2d",
+        "9773493ba01a",
+        "2a4ac067a146",
         "736700ee3456",
-        "71d95a7c949d",
-        "846ac1e1edb6",
-        "ee7eaa5aee4e",
         "eb2c47c4f2da"
       ],
-      "articleCount": 10,
+      "articleCount": 6,
       "sourceCount": 3,
-      "stressHeadlines": 2,
+      "stressHeadlines": 1,
       "coverage": "çok kaynaklı"
     },
     {
@@ -1101,12 +1079,13 @@
           ]
         }
       ],
-      "score": 10,
+      "score": 14,
       "evidenceIds": [
+        "52093f454fd0",
         "6a89018ebd55",
         "c25d2e83149d"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "sourceCount": 1,
       "stressHeadlines": 0,
       "coverage": "sınırlı"
@@ -1192,9 +1171,9 @@
           ]
         }
       ],
-      "score": 4,
+      "score": 8,
       "evidenceIds": [
-        "6d93bfcf9a92"
+        "2d728b9efecf"
       ],
       "articleCount": 1,
       "sourceCount": 1,
@@ -1282,16 +1261,14 @@
           ]
         }
       ],
-      "score": 43,
+      "score": 27,
       "evidenceIds": [
-        "173a4267a723",
-        "4a49f9e7d106",
-        "b40bacbbb9f0",
-        "a42abdef8330",
-        "0fe32c9c927c",
-        "5dcdff651bad"
+        "1c974769ed69",
+        "b0acbc841dcd",
+        "2a4ac067a146",
+        "a42abdef8330"
       ],
-      "articleCount": 6,
+      "articleCount": 4,
       "sourceCount": 3,
       "stressHeadlines": 0,
       "coverage": "çok kaynaklı"
@@ -2347,16 +2324,20 @@
         {
           "date": "2026-11-26",
           "value": 50.6767
+        },
+        {
+          "date": "2026-11-27",
+          "value": 50.7871
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-27T12:36:04+00:00",
+      "fetchedAt": "2026-11-27T22:02:26+00:00",
       "latest": {
-        "date": "2026-11-26",
-        "value": 50.6767
+        "date": "2026-11-27",
+        "value": 50.7871
       },
       "stale": false,
-      "change": -0.0012
+      "change": 0.1104
     }
   ],
   "feeds": [
@@ -2365,15 +2346,15 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-27T12:36:04+00:00",
-      "count": 35
+      "checkedAt": "2026-11-27T22:02:26+00:00",
+      "count": 32
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-27T12:36:04+00:00",
+      "checkedAt": "2026-11-27T22:02:26+00:00",
       "count": 30
     },
     {
@@ -2381,7 +2362,7 @@
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-27T12:36:04+00:00",
+      "checkedAt": "2026-11-27T22:02:26+00:00",
       "count": 11
     },
     {
@@ -2389,7 +2370,7 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-27T12:36:04+00:00",
+      "checkedAt": "2026-11-27T22:02:26+00:00",
       "count": 25
     },
     {
@@ -2397,8 +2378,8 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-27T12:36:04+00:00",
-      "count": 4
+      "checkedAt": "2026-11-27T22:02:26+00:00",
+      "count": 5
     }
   ],
   "analysis": {
@@ -2407,8 +2388,8 @@
     "model": null,
     "summary": "",
     "notes": [],
-    "generatedAt": "2026-11-27T12:36:04+00:00",
-    "fingerprint": "ab1723c4d5845c432c57e7fd85d1e28564c59c19d9d1e31c0ae73c0894a9badb",
+    "generatedAt": "2026-11-27T22:02:26+00:00",
+    "fingerprint": "b81d6aa3cee96f4dfe0faf660ceca6461ac3f86ea68a9a0dc46dc511cf8a4de1",
     "reason": "Ücretsiz AI servisi HTTP 400 döndürdü; kural modeli kullanılıyor."
   },
   "history": [
@@ -2657,13 +2638,13 @@
     {
       "date": "2026-11-27",
       "scores": {
-        "energy": 63,
-        "rates": 10,
-        "trade": 4,
-        "security": 43,
+        "energy": 38,
+        "rates": 14,
+        "trade": 8,
+        "security": 27,
         "climate": 0
       },
-      "articleCount": 102
+      "articleCount": 100
     }
   ],
   "editorial": {
@@ -2712,12 +2693,12 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "082371b7a44a",
-      "8d7a372e3ce8",
-      "b40bacbbb9f0",
-      "9dafd6803806",
-      "9cf58e9b5260",
-      "736700ee3456"
+      "802c13684b23",
+      "cc229b760a2d",
+      "9773493ba01a",
+      "2a4ac067a146",
+      "736700ee3456",
+      "eb2c47c4f2da"
     ],
     "events": [],
     "origin": "rules"
