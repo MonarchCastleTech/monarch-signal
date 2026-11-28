@@ -1,79 +1,385 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-28T03:57:22+00:00",
+  "generatedAt": "2026-11-28T13:08:37+00:00",
   "windowHours": 72,
   "articles": [
     {
-      "id": "e3003657bdab",
-      "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
-      "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T03:45:58+00:00"
+      "id": "a41785405e82",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T13:02:39+00:00"
     },
     {
-      "id": "6490307fde7c",
-      "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
-      "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+      "id": "9aef84130299",
+      "title": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+      "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T03:00:00+00:00"
+      "publishedAt": "2026-11-28T12:56:53+00:00"
     },
     {
-      "id": "03fa7d57b0e4",
-      "title": "Bulgarians demand action by French after Marseille match violence",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T02:30:27+00:00"
+      "id": "8e5e9af2cbc0",
+      "title": "Azerbaijan's opposition leader Ali Karimli: A year behind bars",
+      "url": "https://www.dw.com/en/azerbaijan-s-opposition-leader-ali-karimli-a-year-behind-bars/a-80036095?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-28T12:52:00+00:00"
     },
     {
-      "id": "9214fd5cf9ad",
-      "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
-      "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T02:08:11+00:00"
+      "id": "74d2fe0e13fc",
+      "title": "Ukraine's expertise comes in handy for international drone alliances",
+      "url": "https://www.dw.com/en/ukraine-s-expertise-comes-in-handy-for-international-drone-alliances/a-80075472?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-28T12:52:00+00:00"
     },
     {
-      "id": "ac98170bdeae",
-      "title": "Taiwan votes in local elections to choose mayors, other leaders",
-      "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T02:05:27+00:00"
+      "id": "8b5bc555b906",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T12:49:44+00:00"
     },
     {
-      "id": "57d361ebfb2b",
-      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+      "id": "5a091caf52ab",
+      "title": "Taiwan opposition party wins re-election in Taipei mayoral race",
+      "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
       "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T01:55:03+00:00"
+      "publishedAt": "2026-11-28T12:36:19+00:00"
+    },
+    {
+      "id": "5e7a849e4350",
+      "title": "Tarantulas, scorpions and more found in luggage at Peru airport",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T12:21:52+00:00"
+    },
+    {
+      "id": "ffcb617306f5",
+      "title": "Christmas market 'absolutely vital' for businesses",
+      "url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T12:09:09+00:00"
+    },
+    {
+      "id": "9d1314c8efee",
+      "title": "AI data centers in space: Millions of satellites and so many unknowns",
+      "url": "https://www.dw.com/en/ai-data-centers-in-space-millions-of-satellites-and-so-many-unknowns/a-80080166?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-28T12:09:00+00:00"
+    },
+    {
+      "id": "fe199e784bd7",
+      "title": "Poundland closure 'big loss' for former mining town",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20jj2r1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T12:07:08+00:00"
+    },
+    {
+      "id": "8d0e50582e04",
+      "title": "Manchester United vs Brentford LIVE: Premier League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T12:06:46+00:00"
+    },
+    {
+      "id": "08758551082d",
+      "title": "India fumble chances as New Zealand finish day two on top in Christchurch",
+      "url": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T11:54:40+00:00"
+    },
+    {
+      "id": "12ead7c29904",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T11:35:34+00:00"
+    },
+    {
+      "id": "b88c39a1a446",
+      "title": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T11:30:07+00:00"
+    },
+    {
+      "id": "968fb9fac19c",
+      "title": "Israel unity government talks stall: What happens now?",
+      "url": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T11:29:21+00:00"
+    },
+    {
+      "id": "07676417bd0e",
+      "title": "The perfect storm behind Congo’s deadliest Ebola outbreak",
+      "url": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T11:27:34+00:00"
+    },
+    {
+      "id": "a913f0532f35",
+      "title": "As Spain votes, what could change for Europe?",
+      "url": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-28T11:24:00+00:00"
+    },
+    {
+      "id": "7bd551592648",
+      "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+      "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T10:36:41+00:00"
+    },
+    {
+      "id": "ec89f0560f50",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T10:34:58+00:00"
+    },
+    {
+      "id": "bd119c204002",
+      "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+      "url": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T10:32:42+00:00"
+    },
+    {
+      "id": "129be429a42d",
+      "title": "Several students killed in blast beside Afghan school",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T10:05:26+00:00"
+    },
+    {
+      "id": "ee8d32165393",
+      "title": "Kenyan starvation cult leader found guilty over deaths of 123 followers",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T09:59:11+00:00"
+    },
+    {
+      "id": "2ddb996a2957",
+      "title": "Gaza’s chess players survive a genocide and rebuild a community",
+      "url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T09:41:45+00:00"
+    },
+    {
+      "id": "728827eb303d",
+      "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+      "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T09:35:15+00:00"
+    },
+    {
+      "id": "53ab840c5988",
+      "title": "Spain faces political shift as far right gains ground",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T08:54:02+00:00"
+    },
+    {
+      "id": "0604cf78d9b0",
+      "title": "What can we learn from successful peace deals? | Episode 2",
+      "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/28/what-can-we-learn-from-successful-peace-deals-episode-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T08:30:00+00:00"
+    },
+    {
+      "id": "b5fd57f59744",
+      "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
+      "url": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T08:24:03+00:00"
+    },
+    {
+      "id": "c11cc24c5a1c",
+      "title": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
+      "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T08:05:18+00:00"
+    },
+    {
+      "id": "f2e3018ce6bf",
+      "title": "Boris Vujčić: Interview with Kurier",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+      "source": "ECB",
+      "sourceId": "ecb",
+      "domain": "ecb.europa.eu",
+      "publishedAt": "2026-11-28T08:00:00+00:00"
+    },
+    {
+      "id": "6901315f403d",
+      "title": "At least 10 students killed in blast beside school in Afghanistan’s Kunar",
+      "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T07:42:09+00:00"
+    },
+    {
+      "id": "ea32a82baf8f",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T07:31:14+00:00"
+    },
+    {
+      "id": "542a725552cb",
+      "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+      "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T07:22:17+00:00"
+    },
+    {
+      "id": "249de659bec9",
+      "title": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+      "url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T07:21:22+00:00"
+    },
+    {
+      "id": "d13a3eb5554b",
+      "title": "Butcher blames costs for closure after 127 years",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T07:18:47+00:00"
+    },
+    {
+      "id": "e4dff1a2a88a",
+      "title": "Trump’s tariffs have become America’s new normal",
+      "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T06:57:19+00:00"
+    },
+    {
+      "id": "1710fadee732",
+      "title": "Elon Musk can afford a little MAGA amnesia",
+      "url": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T06:25:24+00:00"
+    },
+    {
+      "id": "78ecce9504e7",
+      "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+      "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "sourceId": "dw",
+      "domain": "dw.com",
+      "publishedAt": "2026-11-28T06:12:00+00:00"
+    },
+    {
+      "id": "ec7befac6410",
+      "title": "Behind India’s IIT dream: Student suicides and gaps in support",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T04:59:50+00:00"
+    },
+    {
+      "id": "67f534fdb015",
+      "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+      "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "domain": "aljazeera.com",
+      "publishedAt": "2026-11-28T04:57:32+00:00"
+    },
+    {
+      "id": "ccb005aa315b",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T04:19:16+00:00"
+    },
+    {
+      "id": "8f05146db1ec",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sourceId": "bbc-world",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-11-28T04:13:45+00:00"
     },
     {
       "id": "210c71fefa40",
-      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "title": "Nigeria's acting legend who was loved across Africa and beyond",
       "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-28T01:20:35+00:00"
-    },
-    {
-      "id": "0cdb35792d19",
-      "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-      "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T01:00:00+00:00"
     },
     {
       "id": "7954e56f5de6",
@@ -94,58 +400,13 @@
       "publishedAt": "2026-11-28T00:50:11+00:00"
     },
     {
-      "id": "75f1b15024d2",
-      "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T00:12:20+00:00"
-    },
-    {
       "id": "a73fdec89d52",
-      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
       "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-28T00:05:17+00:00"
-    },
-    {
-      "id": "ce8a74786db6",
-      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-28T00:00:00+00:00"
-    },
-    {
-      "id": "0322fb382ae1",
-      "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
-      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T23:57:03+00:00"
-    },
-    {
-      "id": "459da1a22e41",
-      "title": "US disables ship attempting to breach Iran blockade",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T23:55:16+00:00"
-    },
-    {
-      "id": "1b284fcbfb5b",
-      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
-      "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T23:09:04+00:00"
     },
     {
       "id": "99499c5abfc0",
@@ -157,33 +418,6 @@
       "publishedAt": "2026-11-27T23:02:35+00:00"
     },
     {
-      "id": "565d34269e7d",
-      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
-      "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T22:33:17+00:00"
-    },
-    {
-      "id": "d2649f9f157a",
-      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-      "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T22:22:02+00:00"
-    },
-    {
-      "id": "4d03f70b1a5f",
-      "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T21:59:11+00:00"
-    },
-    {
       "id": "21d8bca4dce9",
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
@@ -191,24 +425,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-27T21:55:53+00:00"
-    },
-    {
-      "id": "40909ff2d071",
-      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T21:11:27+00:00"
-    },
-    {
-      "id": "9334ddf2ba97",
-      "title": "Venezuela to repeal law that bans opposition figures from office",
-      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T20:44:03+00:00"
     },
     {
       "id": "e81b43653220",
@@ -220,51 +436,6 @@
       "publishedAt": "2026-11-27T20:43:00+00:00"
     },
     {
-      "id": "2d728b9efecf",
-      "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T20:40:51+00:00"
-    },
-    {
-      "id": "7e016e114440",
-      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
-      "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T20:39:57+00:00"
-    },
-    {
-      "id": "802c13684b23",
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T20:34:45+00:00"
-    },
-    {
-      "id": "ad76ffedc496",
-      "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T20:18:45+00:00"
-    },
-    {
-      "id": "5ea3ebb9e18f",
-      "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T20:10:30+00:00"
-    },
-    {
       "id": "d72130f063db",
       "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
@@ -272,24 +443,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-27T20:06:31+00:00"
-    },
-    {
-      "id": "dc0b057d24fa",
-      "title": "Is Iraq facing renewed instability?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T19:56:35+00:00"
-    },
-    {
-      "id": "c7317935c341",
-      "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T19:53:25+00:00"
     },
     {
       "id": "1c974769ed69",
@@ -308,24 +461,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-27T18:00:40+00:00"
-    },
-    {
-      "id": "c0dfde507c82",
-      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
-      "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T17:58:36+00:00"
-    },
-    {
-      "id": "a0ebe6f7e930",
-      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "domain": "aljazeera.com",
-      "publishedAt": "2026-11-27T17:44:50+00:00"
     },
     {
       "id": "21d4ccee9e47",
@@ -373,15 +508,6 @@
       "publishedAt": "2026-11-27T16:05:32+00:00"
     },
     {
-      "id": "218dc7c39562",
-      "title": "Brazil pushes back on Macron calling its meat 'doped'",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T15:54:15+00:00"
-    },
-    {
       "id": "bdef9f0677e0",
       "title": "Dutch authorities seize 26 critically endangered turtles from luggage of passenger bound for Hong Kong",
       "url": "https://www.dw.com/en/dutch-authorities-seize-26-critically-endangered-turtles-from-luggage-of-passenger-bound-for-hong-kong/a-80077824?maca=en-rss-en-world-4025-rdf",
@@ -407,15 +533,6 @@
       "sourceId": "ecb",
       "domain": "ecb.europa.eu",
       "publishedAt": "2026-11-27T14:00:00+00:00"
-    },
-    {
-      "id": "01ce204fae6c",
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T13:38:07+00:00"
     },
     {
       "id": "b6856a8ea5b6",
@@ -454,15 +571,6 @@
       "publishedAt": "2026-11-27T13:06:00+00:00"
     },
     {
-      "id": "78ecce9504e7",
-      "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
-      "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-27T11:06:00+00:00"
-    },
-    {
       "id": "aa40604eb349",
       "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
       "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
@@ -499,15 +607,6 @@
       "publishedAt": "2026-11-27T08:13:43+00:00"
     },
     {
-      "id": "295e8e2d69e9",
-      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T07:28:10+00:00"
-    },
-    {
       "id": "ae9d7b2be9f1",
       "title": "How much is your rent in Birmingham?",
       "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
@@ -533,15 +632,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-27T06:09:31+00:00"
-    },
-    {
-      "id": "6757358045b0",
-      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sourceId": "bbc-world",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-27T06:04:51+00:00"
     },
     {
       "id": "9435e76a29ab",
@@ -589,15 +679,6 @@
       "publishedAt": "2026-11-26T22:06:20+00:00"
     },
     {
-      "id": "19bf6b73472f",
-      "title": "Albania's youth are protesting, no longer leaving the country",
-      "url": "https://www.dw.com/en/albania-s-youth-are-protesting-no-longer-leaving-the-country/a-80068939?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T20:44:00+00:00"
-    },
-    {
       "id": "a3f951f1927e",
       "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
       "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
@@ -614,15 +695,6 @@
       "sourceId": "bbc-world",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-11-26T19:26:16+00:00"
-    },
-    {
-      "id": "30f0e598eb37",
-      "title": "Saudi pop music is thriving — but for the right reasons?",
-      "url": "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "sourceId": "dw",
-      "domain": "dw.com",
-      "publishedAt": "2026-11-26T17:37:00+00:00"
     },
     {
       "id": "dbd4151a20f8",
@@ -769,15 +841,6 @@
       "publishedAt": "2026-11-25T21:43:18+00:00"
     },
     {
-      "id": "6b4b4b2910ae",
-      "title": "What we know about Trump's Thanksgiving tariffs",
-      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-25T19:38:05+00:00"
-    },
-    {
       "id": "c25d2e83149d",
       "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
@@ -785,24 +848,6 @@
       "sourceId": "ecb",
       "domain": "ecb.europa.eu",
       "publishedAt": "2026-11-25T17:30:00+00:00"
-    },
-    {
-      "id": "1cde895dab57",
-      "title": "Scots react to news of rising energy prices",
-      "url": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-11-25T16:56:47+00:00"
-    },
-    {
-      "id": "2a538393bcea",
-      "title": "Card payments edge past cash in shops; euro area consumers want both",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-      "source": "ECB",
-      "sourceId": "ecb",
-      "domain": "ecb.europa.eu",
-      "publishedAt": "2026-11-25T10:00:00+00:00"
     }
   ],
   "topics": [
@@ -888,17 +933,15 @@
           ]
         }
       ],
-      "score": 48,
+      "score": 27,
       "evidenceIds": [
-        "ce8a74786db6",
-        "459da1a22e41",
-        "d2649f9f157a",
-        "802c13684b23",
+        "a41785405e82",
+        "9aef84130299",
         "2a4ac067a146"
       ],
-      "articleCount": 5,
+      "articleCount": 3,
       "sourceCount": 3,
-      "stressHeadlines": 4,
+      "stressHeadlines": 2,
       "coverage": "çok kaynaklı"
     },
     {
@@ -979,7 +1022,7 @@
           ]
         }
       ],
-      "score": 12,
+      "score": 9,
       "evidenceIds": [
         "52093f454fd0",
         "6a89018ebd55",
@@ -1071,9 +1114,9 @@
           ]
         }
       ],
-      "score": 7,
+      "score": 8,
       "evidenceIds": [
-        "2d728b9efecf"
+        "12ead7c29904"
       ],
       "articleCount": 1,
       "sourceCount": 1,
@@ -1161,16 +1204,16 @@
           ]
         }
       ],
-      "score": 30,
+      "score": 24,
       "evidenceIds": [
-        "ce8a74786db6",
-        "d2649f9f157a",
+        "9aef84130299",
+        "ccb005aa315b",
         "1c974769ed69",
         "2a4ac067a146"
       ],
       "articleCount": 4,
       "sourceCount": 3,
-      "stressHeadlines": 1,
+      "stressHeadlines": 0,
       "coverage": "çok kaynaklı"
     },
     {
@@ -1255,12 +1298,14 @@
           ]
         }
       ],
-      "score": 0,
-      "evidenceIds": [],
-      "articleCount": 0,
-      "sourceCount": 0,
+      "score": 7,
+      "evidenceIds": [
+        "67f534fdb015"
+      ],
+      "articleCount": 1,
+      "sourceCount": 1,
       "stressHeadlines": 0,
-      "coverage": "veri yok"
+      "coverage": "sınırlı"
     }
   ],
   "series": [
@@ -1271,70 +1316,6 @@
       "source": "FRED · EIA",
       "sourceUrl": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "points": [
-        {
-          "date": "2026-07-09",
-          "value": 74.46
-        },
-        {
-          "date": "2026-07-10",
-          "value": 74.34
-        },
-        {
-          "date": "2026-07-13",
-          "value": 81.62
-        },
-        {
-          "date": "2026-07-14",
-          "value": 83.69
-        },
-        {
-          "date": "2026-07-15",
-          "value": 83.08
-        },
-        {
-          "date": "2026-07-16",
-          "value": 81.23
-        },
-        {
-          "date": "2026-07-17",
-          "value": 85.01
-        },
-        {
-          "date": "2026-07-20",
-          "value": 86.99
-        },
-        {
-          "date": "2026-07-21",
-          "value": 93.85
-        },
-        {
-          "date": "2026-07-22",
-          "value": 94.12
-        },
-        {
-          "date": "2026-07-23",
-          "value": 105.32
-        },
-        {
-          "date": "2026-07-24",
-          "value": 100.31
-        },
-        {
-          "date": "2026-07-27",
-          "value": 91.82
-        },
-        {
-          "date": "2026-07-28",
-          "value": 85.51
-        },
-        {
-          "date": "2026-07-29",
-          "value": 91.95
-        },
-        {
-          "date": "2026-07-30",
-          "value": 91.91
-        },
         {
           "date": "2026-07-31",
           "value": 96.95
@@ -1602,16 +1583,76 @@
         {
           "date": "2026-11-03",
           "value": 107.03
+        },
+        {
+          "date": "2026-11-04",
+          "value": 91.84
+        },
+        {
+          "date": "2026-11-05",
+          "value": 97.96
+        },
+        {
+          "date": "2026-11-06",
+          "value": 97.83
+        },
+        {
+          "date": "2026-11-09",
+          "value": 91.03
+        },
+        {
+          "date": "2026-11-10",
+          "value": 90.16
+        },
+        {
+          "date": "2026-11-11",
+          "value": 92.14
+        },
+        {
+          "date": "2026-11-12",
+          "value": 95.42
+        },
+        {
+          "date": "2026-11-13",
+          "value": 95.17
+        },
+        {
+          "date": "2026-11-16",
+          "value": 92.9
+        },
+        {
+          "date": "2026-11-17",
+          "value": 92.94
+        },
+        {
+          "date": "2026-11-18",
+          "value": 92.88
+        },
+        {
+          "date": "2026-11-19",
+          "value": 95.17
+        },
+        {
+          "date": "2026-11-20",
+          "value": 92.76
+        },
+        {
+          "date": "2026-11-23",
+          "value": 91.2
+        },
+        {
+          "date": "2026-11-24",
+          "value": 91.8
         }
       ],
-      "status": "retained",
-      "fetchedAt": "2026-11-06T15:58:16+00:00",
+      "status": "ok",
+      "fetchedAt": "2026-11-28T13:08:37+00:00",
       "latest": {
-        "date": "2026-11-03",
-        "value": 107.03
+        "date": "2026-11-24",
+        "value": 91.8
       },
-      "stale": true,
-      "change": -0.36
+      "stale": false,
+      "change": 0.6
     },
     {
       "id": "us10y",
@@ -1620,70 +1661,6 @@
       "source": "FRED · Federal Reserve",
       "sourceUrl": "https://fred.stlouisfed.org/series/DGS10",
       "points": [
-        {
-          "date": "2026-07-09",
-          "value": 4.54
-        },
-        {
-          "date": "2026-07-10",
-          "value": 4.56
-        },
-        {
-          "date": "2026-07-13",
-          "value": 4.62
-        },
-        {
-          "date": "2026-07-14",
-          "value": 4.58
-        },
-        {
-          "date": "2026-07-15",
-          "value": 4.55
-        },
-        {
-          "date": "2026-07-16",
-          "value": 4.57
-        },
-        {
-          "date": "2026-07-17",
-          "value": 4.55
-        },
-        {
-          "date": "2026-07-20",
-          "value": 4.6
-        },
-        {
-          "date": "2026-07-21",
-          "value": 4.63
-        },
-        {
-          "date": "2026-07-22",
-          "value": 4.67
-        },
-        {
-          "date": "2026-07-23",
-          "value": 4.71
-        },
-        {
-          "date": "2026-07-24",
-          "value": 4.69
-        },
-        {
-          "date": "2026-07-27",
-          "value": 4.65
-        },
-        {
-          "date": "2026-07-28",
-          "value": 4.61
-        },
-        {
-          "date": "2026-07-29",
-          "value": 4.67
-        },
-        {
-          "date": "2026-07-30",
-          "value": 4.68
-        },
         {
           "date": "2026-07-31",
           "value": 4.75
@@ -1951,16 +1928,72 @@
         {
           "date": "2026-11-04",
           "value": 4.9
+        },
+        {
+          "date": "2026-11-05",
+          "value": 4.84
+        },
+        {
+          "date": "2026-11-06",
+          "value": 4.86
+        },
+        {
+          "date": "2026-11-09",
+          "value": 4.88
+        },
+        {
+          "date": "2026-11-10",
+          "value": 4.98
+        },
+        {
+          "date": "2026-11-12",
+          "value": 5.1
+        },
+        {
+          "date": "2026-11-13",
+          "value": 5.15
+        },
+        {
+          "date": "2026-11-16",
+          "value": 5.12
+        },
+        {
+          "date": "2026-11-17",
+          "value": 5.1
+        },
+        {
+          "date": "2026-11-18",
+          "value": 5.07
+        },
+        {
+          "date": "2026-11-19",
+          "value": 5.04
+        },
+        {
+          "date": "2026-11-20",
+          "value": 4.92
+        },
+        {
+          "date": "2026-11-23",
+          "value": 4.92
+        },
+        {
+          "date": "2026-11-24",
+          "value": 4.91
+        },
+        {
+          "date": "2026-11-25",
+          "value": 4.85
         }
       ],
-      "status": "retained",
-      "fetchedAt": "2026-11-06T15:58:16+00:00",
+      "status": "ok",
+      "fetchedAt": "2026-11-28T13:08:37+00:00",
       "latest": {
-        "date": "2026-11-04",
-        "value": 4.9
+        "date": "2026-11-25",
+        "value": 4.85
       },
-      "stale": true,
-      "change": -0.05
+      "stale": false,
+      "change": -0.06
     },
     {
       "id": "usdtry",
@@ -2231,7 +2264,7 @@
         }
       ],
       "status": "ok",
-      "fetchedAt": "2026-11-28T03:57:22+00:00",
+      "fetchedAt": "2026-11-28T13:08:37+00:00",
       "latest": {
         "date": "2026-11-27",
         "value": 50.7871
@@ -2246,15 +2279,15 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-28T03:57:22+00:00",
-      "count": 22
+      "checkedAt": "2026-11-28T13:08:37+00:00",
+      "count": 24
     },
     {
       "id": "bbc-business",
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
-      "checkedAt": "2026-11-28T03:57:22+00:00",
+      "checkedAt": "2026-11-28T13:08:37+00:00",
       "count": 29
     },
     {
@@ -2262,15 +2295,15 @@
       "name": "DW",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "status": "ok",
-      "checkedAt": "2026-11-28T03:57:22+00:00",
-      "count": 11
+      "checkedAt": "2026-11-28T13:08:37+00:00",
+      "count": 13
     },
     {
       "id": "aljazeera",
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "status": "ok",
-      "checkedAt": "2026-11-28T03:57:22+00:00",
+      "checkedAt": "2026-11-28T13:08:37+00:00",
       "count": 25
     },
     {
@@ -2278,45 +2311,114 @@
       "name": "ECB",
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "status": "ok",
-      "checkedAt": "2026-11-28T03:57:22+00:00",
+      "checkedAt": "2026-11-28T13:08:37+00:00",
       "count": 5
     }
   ],
   "analysis": {
-    "summary": "Enerji & jeopolitik gündeminde kısa vadeli gerilim baskısı, orta vadeli maliyet yayılımı ve uzun vadeli tedarik güvenliği odaklı bir outlook sunuluyor.",
+    "summary": "Falkland adalarında petrol sondajı durdurulması reddedilirse enerji arzına yönelik belirsizlik devam edebilir. İran ile ilgili hava ve deniz kısıtlamaları sürerse navlun maliyetleri artabilir.",
     "notes": [
       {
         "topic": "energy",
-        "text": "Iran ve Kuwait'daki çatışmalı olaylar, deniz geçişlerinde kesinti riskiyle petrol ve navlun maliyetlerinde yukarı yönlü baskı yaratıyor; Türkiye’de akaryakıt ve taşımacılık fiyatları kısa vadeli etkilenebilir.",
+        "text": "Petrol arzında kesinti yaşanırsa enerji fiyatları ve taşımacılık maliyetleri artabilir.",
         "evidenceIds": [
-          "ce8a74786db6",
-          "459da1a22e41"
-        ]
-      },
-      {
-        "topic": "energy",
-        "text": "Deniz geçişlerinde sürdürülen belirsizlik, enerji fiyatlarının yüksek seviyelerde kalmasına ve bu durumun üretici fiyatlarına ve cari dengeye taşınmasına yol açabilir; faiz indirimleri için alanı daraltıcı bir etki yaratabilir.",
-        "evidenceIds": [
-          "d2649f9f157a",
-          "802c13684b23"
-        ]
-      },
-      {
-        "topic": "energy",
-        "text": "Uzanan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımları yapan şirketler, uzun vadede tedarik güvenliği öncüleri olarak ön plana çıkacak; kalıcı normalleşmeyle maliyet baskısı tersine çevrilebilir.",
-        "evidenceIds": [
+          "a41785405e82",
+          "9aef84130299",
           "2a4ac067a146"
+        ]
+      },
+      {
+        "topic": "security",
+        "text": "Hava trafiğinde kısıtlamalar devam ederse seyahat ve lojistik maliyetleri etkilenebilir.",
+        "evidenceIds": [
+          "9aef84130299",
+          "ccb005aa315b",
+          "1c974769ed69",
+          "2a4ac067a146"
+        ]
+      },
+      {
+        "topic": "climate",
+        "text": "Yağmur ve sel olayları sürerse tarımsal üretim ve gıda fiyatları etkilenebilir.",
+        "evidenceIds": [
+          "67f534fdb015"
         ]
       }
     ],
+    "editorial": {
+      "leadTopic": "energy",
+      "headline": "Enerji arzı ve jeopolitik gerilim maliyetleri gündemde.",
+      "summary": "Falkland petrol sondajı ve İran ile ilgili hava kısıtlamaları, enerji ve lojistik maliyetleri üzerinden ekonomik baskı oluşturabilir. Bu gelişmeler enflasyon ve cari dengeyi etkileyebilir.",
+      "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
+      "timeline": [
+        {
+          "id": "near",
+          "label": "KISA VADE",
+          "range": "İlk 2 hafta",
+          "title": "Kısa vadede enerji ve taşımacılıkta baskı",
+          "text": "İlk iki haftada petrol ve navlun maliyetlerinde yukarı yönlü hareket beklenebilir. Türkiye’de bu durum akaryakıt ve ithal girdi fiyatlarını etkileyebilir.",
+          "tags": [
+            "Enerji maliyeti",
+            "Enflasyon baskısı"
+          ]
+        },
+        {
+          "id": "medium",
+          "label": "ORTA VADE",
+          "range": "2 hafta – 3 ay",
+          "title": "Orta vadede maliyetlerin enflasyona yansıması",
+          "text": "İki hafta ile üç ay arasında enerji fiyatlarının yüksek kalması üretici fiyatlarını ve cari dengenin bozulmasını getirebilir. Bu durum faiz indirimleri için alanı daraltabilir.",
+          "tags": [
+            "Enflasyon baskısı",
+            "Tedarik baskısı"
+          ]
+        },
+        {
+          "id": "long",
+          "label": "UZUN VADE",
+          "range": "3 – 12 ay",
+          "title": "Uzun vadede tedarik güvenliği ön plana çıkıyor",
+          "text": "Üç ile on iki ay arasında enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan yapıların avantajlı olmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını azaltabilir.",
+          "tags": [
+            "Tedarik baskısı",
+            "Finansman baskısı"
+          ]
+        }
+      ],
+      "watch": [
+        "Enerji arzında veya deniz geçişlerinde teyit edilmiş kesinti.",
+        "Petrol fiyatlarındaki hareketin kalıcı hâle gelmesi.",
+        "Diplomatik gerilimi azaltan veya artıran somut adımlar."
+      ],
+      "evidenceIds": [
+        "a41785405e82",
+        "9aef84130299",
+        "2a4ac067a146"
+      ],
+      "events": [
+        {
+          "evidenceId": "a41785405e82",
+          "headline": "Argentina'nın Falkland adalarında petrol sondajını durdurma talebi reddedildi."
+        },
+        {
+          "evidenceId": "9aef84130299",
+          "headline": "Norse Atlantic uçuşlarını sonlandırıyor; İran savaşı hava sektörünü vurmaya devam ediyor."
+        },
+        {
+          "evidenceId": "2a4ac067a146",
+          "headline": "İran'da çocuk erken evliliği riskleri savaşla birlikte karmaşıklaşıyor."
+        }
+      ],
+      "origin": "free-ai"
+    },
     "status": "ok",
     "provider": "OpenRouter Free",
-    "model": "nvidia/nemotron-3.5-lightning:free",
-    "generatedAt": "2026-11-28T03:57:22+00:00",
-    "fingerprint": "7b5b38729caf1106077e05d8d2501e54347332e06fc2699c6117a3072d09aa63",
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "generatedAt": "2026-11-28T13:08:37+00:00",
+    "fingerprint": "8c64b7f148670f25176c248b4be7ef320c8daf659ebf3dbcdf22e081b4ac24db",
     "requestedModel": "nvidia/nemotron-3.5-lightning:free",
     "usage": {
-      "totalTokens": 3358,
+      "totalTokens": 3172,
       "cost": 0
     }
   },
@@ -2577,27 +2679,27 @@
     {
       "date": "2026-11-28",
       "scores": {
-        "energy": 48,
-        "rates": 12,
-        "trade": 7,
-        "security": 30,
-        "climate": 0
+        "energy": 27,
+        "rates": 9,
+        "trade": 8,
+        "security": 24,
+        "climate": 7
       },
-      "articleCount": 89
+      "articleCount": 94
     }
   ],
   "editorial": {
     "leadTopic": "energy",
-    "headline": "Enerji gündemi, maliyet beklentilerini öne çıkarıyor.",
-    "summary": "Arz veya deniz geçişi kesintisi, enerji fiyatları ve taşımacılık maliyetleri üzerinden ekonomiye yayılabilir. Enerji ithalat maliyeti ve cari açık üzerinde baskı oluşabilir; akaryakıt ve üretim maliyetleri etkilenebilir.",
+    "headline": "Enerji arzı ve jeopolitik gerilim maliyetleri gündemde.",
+    "summary": "Falkland petrol sondajı ve İran ile ilgili hava kısıtlamaları, enerji ve lojistik maliyetleri üzerinden ekonomik baskı oluşturabilir. Bu gelişmeler enflasyon ve cari dengeyi etkileyebilir.",
     "intro": "Enerji & jeopolitik gündeminde kısa, orta ve uzun vadeli beklentilerimiz.",
     "timeline": [
       {
         "id": "near",
         "label": "KISA VADE",
         "range": "İlk 2 hafta",
-        "title": "İlk baskı enerji ve taşımacılıkta",
-        "text": "Gerilim sürerse petrol ve navlun maliyetlerinde yukarı yönlü baskı bekliyoruz. Türkiye’de ilk yansıma akaryakıt, taşımacılık ve ithal girdi fiyatlarında görülebilir.",
+        "title": "Kısa vadede enerji ve taşımacılıkta baskı",
+        "text": "İlk iki haftada petrol ve navlun maliyetlerinde yukarı yönlü hareket beklenebilir. Türkiye’de bu durum akaryakıt ve ithal girdi fiyatlarını etkileyebilir.",
         "tags": [
           "Enerji maliyeti",
           "Enflasyon baskısı"
@@ -2607,8 +2709,8 @@
         "id": "medium",
         "label": "ORTA VADE",
         "range": "2 hafta – 3 ay",
-        "title": "Maliyetler enflasyona yayılabilir",
-        "text": "Enerji fiyatları yüksek kalırsa maliyet baskısının üretici fiyatlarına ve cari dengeye taşınmasını bekliyoruz. Bu durum faiz indirimleri için alanı daraltabilir.",
+        "title": "Orta vadede maliyetlerin enflasyona yansıması",
+        "text": "İki hafta ile üç ay arasında enerji fiyatlarının yüksek kalması üretici fiyatlarını ve cari dengenin bozulmasını getirebilir. Bu durum faiz indirimleri için alanı daraltabilir.",
         "tags": [
           "Enflasyon baskısı",
           "Tedarik baskısı"
@@ -2618,8 +2720,8 @@
         "id": "long",
         "label": "UZUN VADE",
         "range": "3 – 12 ay",
-        "title": "Tedarik güvenliği öne çıkacak",
-        "text": "Uzayan belirsizlikte enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan şirketlerin avantaj kazanmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını tersine çevirebilir.",
+        "title": "Uzun vadede tedarik güvenliği ön plana çıkıyor",
+        "text": "Üç ile on iki ay arasında enerji tedarikini çeşitlendiren ve verimlilik yatırımı yapan yapıların avantajlı olmasını bekliyoruz. Kalıcı normalleşme maliyet baskısını azaltabilir.",
         "tags": [
           "Tedarik baskısı",
           "Finansman baskısı"
@@ -2632,14 +2734,25 @@
       "Diplomatik gerilimi azaltan veya artıran somut adımlar."
     ],
     "evidenceIds": [
-      "ce8a74786db6",
-      "459da1a22e41",
-      "d2649f9f157a",
-      "802c13684b23",
+      "a41785405e82",
+      "9aef84130299",
       "2a4ac067a146"
     ],
-    "events": [],
-    "origin": "rules"
+    "events": [
+      {
+        "evidenceId": "a41785405e82",
+        "headline": "Argentina'nın Falkland adalarında petrol sondajını durdurma talebi reddedildi."
+      },
+      {
+        "evidenceId": "9aef84130299",
+        "headline": "Norse Atlantic uçuşlarını sonlandırıyor; İran savaşı hava sektörünü vurmaya devam ediyor."
+      },
+      {
+        "evidenceId": "2a4ac067a146",
+        "headline": "İran'da çocuk erken evliliği riskleri savaşla birlikte karmaşıklaşıyor."
+      }
+    ],
+    "origin": "free-ai"
   },
   "methodologyVersion": "1.0",
   "forecastStatus": "uncalibrated-scenarios",
